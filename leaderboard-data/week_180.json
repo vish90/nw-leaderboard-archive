@@ -1,0 +1,324 @@
+{
+  "top-group-expedition-score.DungeonBrimstoneSands00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonBrimstoneSands00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonCutlassKeys00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonCutlassKeys00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonEbonscale00": {
+    "leaderboardEntries": [
+      {
+        "value": 93100,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_2d0fb5ee-db6a-434d-a15e-00a64b299b91_4535522a-3033-44c0-b3c2-582840c0a96a_5c0a1c8b-df50-4909-9952-382e923f30cd_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "Pinkviini",
+          "Bad Omen261",
+          "ToDDy",
+          "TheWitchMerlin",
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 84075,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_2d0fb5ee-db6a-434d-a15e-00a64b299b91_5c0a1c8b-df50-4909-9952-382e923f30cd_91efd221-b477-498c-a625-9b94ac8fc0ee_a6aa6149-025d-4e0c-94c9-4440af99c80f",
+        "matchId": null,
+        "rank": 2,
+        "names": [
+          "Pinkviini",
+          "Bad Omen261",
+          "TheWitchMerlin",
+          "'CuteRat'",
+          "Neishatun"
+        ]
+      },
+      {
+        "value": 82200,
+        "entityId": "2f14b9ad-e5ed-45db-8ee6-219275a437df_5c0a1c8b-df50-4909-9952-382e923f30cd_a3369d2e-6488-44c6-b236-46122bfecd77_c22e24a5-2494-4fef-bb81-4d808239d60c_f32df565-c569-4a49-bf86-55da563aa13a",
+        "matchId": null,
+        "rank": 3,
+        "names": [
+          "Blodreina",
+          "TheWitchMerlin",
+          null,
+          "Solariaz",
+          "Salamander66"
+        ]
+      },
+      {
+        "value": 55680,
+        "entityId": "2f14b9ad-e5ed-45db-8ee6-219275a437df_5c0a1c8b-df50-4909-9952-382e923f30cd_a85d4048-1b63-4de8-b454-d54322e90bb1_c22e24a5-2494-4fef-bb81-4d808239d60c_f32df565-c569-4a49-bf86-55da563aa13a",
+        "matchId": null,
+        "rank": 4,
+        "names": [
+          "Blodreina",
+          "TheWitchMerlin",
+          "Dubz",
+          "Solariaz",
+          "Salamander66"
+        ]
+      },
+      {
+        "value": 54320,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_2f14b9ad-e5ed-45db-8ee6-219275a437df_4535522a-3033-44c0-b3c2-582840c0a96a_5c0a1c8b-df50-4909-9952-382e923f30cd_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "matchId": null,
+        "rank": 5,
+        "names": [
+          "Pinkviini",
+          "Blodreina",
+          "ToDDy",
+          "TheWitchMerlin",
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 35160,
+        "entityId": "2f14b9ad-e5ed-45db-8ee6-219275a437df_489f13a5-68c7-4e10-91d7-fb6d02559313_5c0a1c8b-df50-4909-9952-382e923f30cd_792f3964-b670-4485-ad9f-2fe6a036fd20_91efd221-b477-498c-a625-9b94ac8fc0ee",
+        "matchId": null,
+        "rank": 6,
+        "names": [
+          "Blodreina",
+          "Ricoson",
+          "TheWitchMerlin",
+          "Lordess I",
+          "'CuteRat'"
+        ]
+      },
+      {
+        "value": 34760,
+        "entityId": "2f14b9ad-e5ed-45db-8ee6-219275a437df_5c0a1c8b-df50-4909-9952-382e923f30cd_792f3964-b670-4485-ad9f-2fe6a036fd20_91efd221-b477-498c-a625-9b94ac8fc0ee_a85d4048-1b63-4de8-b454-d54322e90bb1",
+        "matchId": null,
+        "rank": 7,
+        "names": [
+          "Blodreina",
+          "TheWitchMerlin",
+          "Lordess I",
+          "'CuteRat'",
+          "Dubz"
+        ]
+      },
+      {
+        "value": 24460,
+        "entityId": "2f14b9ad-e5ed-45db-8ee6-219275a437df_5c0a1c8b-df50-4909-9952-382e923f30cd_c22e24a5-2494-4fef-bb81-4d808239d60c_c7813b74-22bd-4559-9e82-2fc6805777c4_f32df565-c569-4a49-bf86-55da563aa13a",
+        "matchId": null,
+        "rank": 8,
+        "names": [
+          "Blodreina",
+          "TheWitchMerlin",
+          "Solariaz",
+          "Too hot for you",
+          "Salamander66"
+        ]
+      }
+    ],
+    "leaderboardSize": 8,
+    "isBackedUp": true
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonEbonscale00": {
+    "leaderboardEntries": [
+      {
+        "value": 1100,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_2d0fb5ee-db6a-434d-a15e-00a64b299b91_4535522a-3033-44c0-b3c2-582840c0a96a_5c0a1c8b-df50-4909-9952-382e923f30cd_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "Pinkviini",
+          "Bad Omen261",
+          "ToDDy",
+          "TheWitchMerlin",
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 1124,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_2d0fb5ee-db6a-434d-a15e-00a64b299b91_5c0a1c8b-df50-4909-9952-382e923f30cd_91efd221-b477-498c-a625-9b94ac8fc0ee_a6aa6149-025d-4e0c-94c9-4440af99c80f",
+        "matchId": null,
+        "rank": 2,
+        "names": [
+          "Pinkviini",
+          "Bad Omen261",
+          "TheWitchMerlin",
+          "'CuteRat'",
+          "Neishatun"
+        ]
+      },
+      {
+        "value": 1236,
+        "entityId": "2f14b9ad-e5ed-45db-8ee6-219275a437df_5c0a1c8b-df50-4909-9952-382e923f30cd_a3369d2e-6488-44c6-b236-46122bfecd77_c22e24a5-2494-4fef-bb81-4d808239d60c_f32df565-c569-4a49-bf86-55da563aa13a",
+        "matchId": null,
+        "rank": 3,
+        "names": [
+          "Blodreina",
+          "TheWitchMerlin",
+          null,
+          "Solariaz",
+          "Salamander66"
+        ]
+      },
+      {
+        "value": 1416,
+        "entityId": "2f14b9ad-e5ed-45db-8ee6-219275a437df_5c0a1c8b-df50-4909-9952-382e923f30cd_a85d4048-1b63-4de8-b454-d54322e90bb1_c22e24a5-2494-4fef-bb81-4d808239d60c_f32df565-c569-4a49-bf86-55da563aa13a",
+        "matchId": null,
+        "rank": 4,
+        "names": [
+          "Blodreina",
+          "TheWitchMerlin",
+          "Dubz",
+          "Solariaz",
+          "Salamander66"
+        ]
+      },
+      {
+        "value": 1458,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_2f14b9ad-e5ed-45db-8ee6-219275a437df_4535522a-3033-44c0-b3c2-582840c0a96a_5c0a1c8b-df50-4909-9952-382e923f30cd_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "matchId": null,
+        "rank": 5,
+        "names": [
+          "Pinkviini",
+          "Blodreina",
+          "ToDDy",
+          "TheWitchMerlin",
+          "Solariaz"
+        ]
+      }
+    ],
+    "leaderboardSize": 5,
+    "isBackedUp": true
+  },
+  "top-group-expedition-score.DungeonEdengrove00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonEdengrove00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonFirstLight01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonFirstLight01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonGreatCleave00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonGreatCleave00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonGreatCleave01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonGreatCleave01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonReekwater00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonReekwater00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonRestlessShores01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonRestlessShores01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonShatterMtn00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonShatterMtn00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonShatteredObelisk": {
+    "leaderboardEntries": [
+      {
+        "value": 81425,
+        "entityId": "03f0453d-ab02-47f6-9f34-28d42e8266cd_2d0fb5ee-db6a-434d-a15e-00a64b299b91_5c0a1c8b-df50-4909-9952-382e923f30cd_91efd221-b477-498c-a625-9b94ac8fc0ee_a6aa6149-025d-4e0c-94c9-4440af99c80f",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "NA speed runner",
+          "Bad Omen261",
+          "TheWitchMerlin",
+          "'CuteRat'",
+          "Neishatun"
+        ]
+      },
+      {
+        "value": 36300,
+        "entityId": "508f78b8-e36a-4f85-a19c-3d2bd1176bf1_5137559b-e623-48a5-98e3-165f98ca67ff_637927f6-22a8-476e-a084-f966a1092112_792f3964-b670-4485-ad9f-2fe6a036fd20_d702a6c0-dd76-4cbf-9293-d98301199a61",
+        "matchId": null,
+        "rank": 2,
+        "names": [
+          "Bella89",
+          "Phillhan",
+          "Ionessa Blue",
+          "Lordess I",
+          "DocYoda"
+        ]
+      }
+    ],
+    "leaderboardSize": 2,
+    "isBackedUp": true
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonShatteredObelisk": {
+    "leaderboardEntries": [
+      {
+        "value": 1443,
+        "entityId": "03f0453d-ab02-47f6-9f34-28d42e8266cd_2d0fb5ee-db6a-434d-a15e-00a64b299b91_5c0a1c8b-df50-4909-9952-382e923f30cd_91efd221-b477-498c-a625-9b94ac8fc0ee_a6aa6149-025d-4e0c-94c9-4440af99c80f",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "NA speed runner",
+          "Bad Omen261",
+          "TheWitchMerlin",
+          "'CuteRat'",
+          "Neishatun"
+        ]
+      }
+    ],
+    "leaderboardSize": 1,
+    "isBackedUp": true
+  }
+}

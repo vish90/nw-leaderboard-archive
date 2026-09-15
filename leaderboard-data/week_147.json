@@ -1,0 +1,300 @@
+{
+  "top-group-expedition-score.DungeonBrimstoneSands00": {
+    "leaderboardEntries": [
+      {
+        "value": 89650,
+        "matchId": null,
+        "entityId": "5e7e1db8-1681-4341-a8d4-15e3a57c7434_700e6806-e15c-45a5-a1d2-98c90fc53977_8f0f66c2-1bc7-4df9-8361-b9c86ae5d1a0_aa3c8ca4-625f-47cf-a955-ef97fecfc095_ae61be63-64f2-471f-879c-35e3b3338d45",
+        "rank": 1,
+        "names": [
+          "SAUVAGE FR69",
+          "Aloz7z",
+          "AwhyJ",
+          "oPy",
+          "sakis2011"
+        ]
+      },
+      {
+        "value": 77675,
+        "matchId": null,
+        "entityId": "226bc5b2-bf00-4e9c-8a33-29f20ab0af8e_aa3c8ca4-625f-47cf-a955-ef97fecfc095_c6fb5993-e8af-4975-800d-a8fb06fd8638_cdb18a42-d777-4a53-ac38-e5cc97593e0c_fa77aa09-b6c8-4637-9d58-652eb8580a0d",
+        "rank": 2,
+        "names": [
+          "Isaac Castle",
+          "oPy",
+          "HQsT",
+          "Maverick O BriaN",
+          null
+        ]
+      },
+      {
+        "value": 69350,
+        "matchId": null,
+        "entityId": "226bc5b2-bf00-4e9c-8a33-29f20ab0af8e_aa3c8ca4-625f-47cf-a955-ef97fecfc095_c6fb5993-e8af-4975-800d-a8fb06fd8638_fa77aa09-b6c8-4637-9d58-652eb8580a0d_ff3445f1-885e-4477-b2eb-b403069730c4",
+        "rank": 3,
+        "names": [
+          "Isaac Castle",
+          "oPy",
+          "HQsT",
+          null,
+          "EvenbetterKO"
+        ]
+      },
+      {
+        "value": 46545,
+        "matchId": null,
+        "entityId": "09281540-5c0b-471c-90d8-548fc5e03a4e_0ca547a0-3162-4fe8-8654-7b615882fb53_1658f138-b387-4b22-8878-199d4926c71f_43d3fa5a-e2c6-4f16-b31c-f34d9cc116ae_94c3790a-592d-44e7-aa3e-26d0dff4490c",
+        "rank": 4,
+        "names": [
+          "justVani",
+          "Colzer",
+          "Devlish",
+          "zeberit",
+          null
+        ]
+      },
+      {
+        "value": 37905,
+        "matchId": null,
+        "entityId": "56cce6cb-f5a3-4d09-afe9-06f1ed8de1ef_97512617-876e-4899-bfa7-6fbe7a9534a5_bb658fd8-ab15-40e0-a292-4d3cfa0fa1b6_db5a6c61-bcd2-4657-9bba-3e7b8a07be71_fb867c75-b0fd-495c-8254-4ef5c2bf0b22",
+        "rank": 5,
+        "names": [
+          "HaasanKiki",
+          "Bifrost V",
+          "MyIIIuK",
+          null,
+          null
+        ]
+      },
+      {
+        "value": 9670,
+        "matchId": null,
+        "entityId": "6927899e-602c-41bb-bde5-085571a84c81_82b07242-746d-45a3-b6c9-9f43bae66832_9e7aa2c4-d7e5-4304-8a14-d9f766df3922_a7ef27ad-0c42-4e9e-86f6-3740621ac2ba_a807917a-8869-4f2d-b3ed-c220bca26285",
+        "rank": 6,
+        "names": [
+          null,
+          null,
+          null,
+          null,
+          "TheySeeMeGaming"
+        ]
+      }
+    ],
+    "leaderboardSize": 6,
+    "isBackedUp": true
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonBrimstoneSands00": {
+    "leaderboardEntries": [
+      {
+        "value": 2114,
+        "entityId": "5e7e1db8-1681-4341-a8d4-15e3a57c7434_700e6806-e15c-45a5-a1d2-98c90fc53977_8f0f66c2-1bc7-4df9-8361-b9c86ae5d1a0_aa3c8ca4-625f-47cf-a955-ef97fecfc095_ae61be63-64f2-471f-879c-35e3b3338d45",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "SAUVAGE FR69",
+          "Aloz7z",
+          "AwhyJ",
+          "oPy",
+          "sakis2011"
+        ]
+      },
+      {
+        "value": 2193,
+        "entityId": "226bc5b2-bf00-4e9c-8a33-29f20ab0af8e_aa3c8ca4-625f-47cf-a955-ef97fecfc095_c6fb5993-e8af-4975-800d-a8fb06fd8638_cdb18a42-d777-4a53-ac38-e5cc97593e0c_fa77aa09-b6c8-4637-9d58-652eb8580a0d",
+        "matchId": null,
+        "rank": 2,
+        "names": [
+          "Isaac Castle",
+          "oPy",
+          "HQsT",
+          "Maverick O BriaN",
+          null
+        ]
+      },
+      {
+        "value": 2226,
+        "entityId": "226bc5b2-bf00-4e9c-8a33-29f20ab0af8e_aa3c8ca4-625f-47cf-a955-ef97fecfc095_c6fb5993-e8af-4975-800d-a8fb06fd8638_fa77aa09-b6c8-4637-9d58-652eb8580a0d_ff3445f1-885e-4477-b2eb-b403069730c4",
+        "matchId": null,
+        "rank": 3,
+        "names": [
+          "Isaac Castle",
+          "oPy",
+          "HQsT",
+          null,
+          "EvenbetterKO"
+        ]
+      }
+    ],
+    "leaderboardSize": 3,
+    "isBackedUp": true
+  },
+  "top-group-expedition-score.DungeonCutlassKeys00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonCutlassKeys00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonEbonscale00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonEbonscale00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonEdengrove00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonEdengrove00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonFirstLight01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonFirstLight01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonGreatCleave00": {
+    "leaderboardEntries": [
+      {
+        "value": 70550,
+        "entityId": "1658f138-b387-4b22-8878-199d4926c71f_7221e793-ea67-48e6-ae8c-4d30d61c09c9_8f0f66c2-1bc7-4df9-8361-b9c86ae5d1a0_ae61be63-64f2-471f-879c-35e3b3338d45_bd07055b-23da-497e-88c5-b72a5f5251d7",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "Devlish",
+          null,
+          "AwhyJ",
+          "sakis2011",
+          "Graisse O'Mollet"
+        ]
+      }
+    ],
+    "leaderboardSize": 1,
+    "isBackedUp": true
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonGreatCleave00": {
+    "leaderboardEntries": [
+      {
+        "value": 1907,
+        "entityId": "1658f138-b387-4b22-8878-199d4926c71f_7221e793-ea67-48e6-ae8c-4d30d61c09c9_8f0f66c2-1bc7-4df9-8361-b9c86ae5d1a0_ae61be63-64f2-471f-879c-35e3b3338d45_bd07055b-23da-497e-88c5-b72a5f5251d7",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "Devlish",
+          null,
+          "AwhyJ",
+          "sakis2011",
+          "Graisse O'Mollet"
+        ]
+      }
+    ],
+    "leaderboardSize": 1,
+    "isBackedUp": true
+  },
+  "top-group-expedition-score.DungeonGreatCleave01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonGreatCleave01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonReekwater00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonReekwater00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonRestlessShores01": {
+    "leaderboardEntries": [
+      {
+        "value": 50140,
+        "entityId": "5e7e1db8-1681-4341-a8d4-15e3a57c7434_700e6806-e15c-45a5-a1d2-98c90fc53977_8f0f66c2-1bc7-4df9-8361-b9c86ae5d1a0_aa3c8ca4-625f-47cf-a955-ef97fecfc095_ae61be63-64f2-471f-879c-35e3b3338d45",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "SAUVAGE FR69",
+          "Aloz7z",
+          "AwhyJ",
+          "oPy",
+          "sakis2011"
+        ]
+      },
+      {
+        "value": 45740,
+        "entityId": "5e7e1db8-1681-4341-a8d4-15e3a57c7434_6c7696b0-b17e-4e93-ba46-a9e1b032ad74_8f0f66c2-1bc7-4df9-8361-b9c86ae5d1a0_aa3c8ca4-625f-47cf-a955-ef97fecfc095_ae61be63-64f2-471f-879c-35e3b3338d45",
+        "matchId": null,
+        "rank": 2,
+        "names": [
+          "SAUVAGE FR69",
+          "Godias",
+          "AwhyJ",
+          "oPy",
+          "sakis2011"
+        ]
+      }
+    ],
+    "leaderboardSize": 2,
+    "isBackedUp": true
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonRestlessShores01": {
+    "leaderboardEntries": [
+      {
+        "value": 2077,
+        "entityId": "5e7e1db8-1681-4341-a8d4-15e3a57c7434_700e6806-e15c-45a5-a1d2-98c90fc53977_8f0f66c2-1bc7-4df9-8361-b9c86ae5d1a0_aa3c8ca4-625f-47cf-a955-ef97fecfc095_ae61be63-64f2-471f-879c-35e3b3338d45",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "SAUVAGE FR69",
+          "Aloz7z",
+          "AwhyJ",
+          "oPy",
+          "sakis2011"
+        ]
+      }
+    ],
+    "leaderboardSize": 1,
+    "isBackedUp": true
+  },
+  "top-group-expedition-score.DungeonShatterMtn00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonShatterMtn00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonShatteredObelisk": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonShatteredObelisk": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  }
+}

@@ -1,0 +1,12 @@
+# Never commit live credentials
+nw_auth_token.txt
+*.token
+
+# OS / editor cruft
+.DS_Store
+*.swp
+
+# Scratch/debug output
+*.log
+__pycache__/
+*.pyc

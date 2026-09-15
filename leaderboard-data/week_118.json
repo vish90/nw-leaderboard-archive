@@ -1,0 +1,3755 @@
+{
+  "top-group-expedition-score.DungeonBrimstoneSands00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonBrimstoneSands00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonCutlassKeys00": {
+    "leaderboardEntries": [
+      {
+        "value": 101450,
+        "entityId": "4274064e-d3af-4b2d-ac88-4a4308668f37_8fee6f3a-7c25-44f7-9d5f-6d9a1d0e398f_a5d70cdc-63ed-4d2f-8d3a-246db3b00963_af7f6420-d08d-4e76-8d6d-8ecaf4f538de_bca30386-6118-42e3-8da5-924d8c55d2e3",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "Rivz1",
+          "Systemaxx",
+          "YoungR0se",
+          "flofrenchcore",
+          "supwitch"
+        ]
+      },
+      {
+        "value": 101300,
+        "entityId": "5f6d55b8-c3f7-4d9f-a361-fb055a8b6342_a5d70cdc-63ed-4d2f-8d3a-246db3b00963_a6aa6149-025d-4e0c-94c9-4440af99c80f_bca30386-6118-42e3-8da5-924d8c55d2e3_ea733c5e-9345-4587-a862-8dea697c793b",
+        "matchId": null,
+        "rank": 2,
+        "names": [
+          "Pumalolakina",
+          "YoungR0se",
+          "Neishatun",
+          "supwitch",
+          "Snanioliq8"
+        ]
+      },
+      {
+        "value": 99050,
+        "entityId": "45e7d640-b6a6-48a1-8d0f-5e4ffa995edd_8b869b26-cef5-4494-a021-30f80bd63082_af22ec14-2c31-474d-9fd5-cff36b25b27f_af7f6420-d08d-4e76-8d6d-8ecaf4f538de_e71ecd98-7e49-410b-bc9a-29e154f9f126",
+        "matchId": null,
+        "rank": 3,
+        "names": [
+          "Systemixx",
+          "Gandalfgunshot",
+          "Exsha",
+          "flofrenchcore",
+          "rivzone"
+        ]
+      },
+      {
+        "value": 98900,
+        "entityId": "2b91b45d-a852-4f00-b3a2-a27380909326_4274064e-d3af-4b2d-ac88-4a4308668f37_5ec6bbb4-7ab6-4704-a854-cec7c91c6f35_a6aa6149-025d-4e0c-94c9-4440af99c80f_bca30386-6118-42e3-8da5-924d8c55d2e3",
+        "matchId": null,
+        "rank": 4,
+        "names": [
+          "P-oPy-ette",
+          "Rivz1",
+          "flofrenchcore60",
+          "Neishatun",
+          "supwitch"
+        ]
+      },
+      {
+        "value": 97500,
+        "entityId": "4274064e-d3af-4b2d-ac88-4a4308668f37_45e7d640-b6a6-48a1-8d0f-5e4ffa995edd_8b869b26-cef5-4494-a021-30f80bd63082_af22ec14-2c31-474d-9fd5-cff36b25b27f_af7f6420-d08d-4e76-8d6d-8ecaf4f538de",
+        "matchId": null,
+        "rank": 5,
+        "names": [
+          "Rivz1",
+          "Systemixx",
+          "Gandalfgunshot",
+          "Exsha",
+          "flofrenchcore"
+        ]
+      },
+      {
+        "value": 96125,
+        "entityId": "3d459518-d8c0-4612-8a0f-2280bdfd7d0a_5ec6bbb4-7ab6-4704-a854-cec7c91c6f35_af22ec14-2c31-474d-9fd5-cff36b25b27f_e71ecd98-7e49-410b-bc9a-29e154f9f126_e9f9f69b-4b5a-4c10-8a64-c1ff3d69eabb",
+        "matchId": null,
+        "rank": 6,
+        "names": [
+          "Valairon",
+          "flofrenchcore60",
+          "Exsha",
+          "rivzone",
+          "Deathhob"
+        ]
+      },
+      {
+        "value": 89075,
+        "entityId": "00f06a35-250c-4bcd-9107-54fb14ed9133_3dda7eff-30e7-4017-8497-eef73f3cf727_4d2b1789-2c49-42aa-aead-de5093392a0c_d74317f2-1730-404e-a560-f1cbd18d3b30_fbb56986-a5c3-4938-a2ce-1c9fb29b5db4",
+        "matchId": null,
+        "rank": 7,
+        "names": [
+          "Langerlungo",
+          "Nephalima",
+          null,
+          "Sallen",
+          "Iast unicorn"
+        ]
+      },
+      {
+        "value": 88025,
+        "entityId": "45e7d640-b6a6-48a1-8d0f-5e4ffa995edd_8b869b26-cef5-4494-a021-30f80bd63082_af7f6420-d08d-4e76-8d6d-8ecaf4f538de_c18ec818-5e92-436c-89ce-2d53dd6e9e55_e71ecd98-7e49-410b-bc9a-29e154f9f126",
+        "matchId": null,
+        "rank": 8,
+        "names": [
+          "Systemixx",
+          "Gandalfgunshot",
+          "flofrenchcore",
+          "SirSandorClegane",
+          "rivzone"
+        ]
+      },
+      {
+        "value": 87375,
+        "entityId": "00f06a35-250c-4bcd-9107-54fb14ed9133_3dda7eff-30e7-4017-8497-eef73f3cf727_4d2b1789-2c49-42aa-aead-de5093392a0c_8930149a-61c3-41e9-9a3d-51d21b5f15bd_fbb56986-a5c3-4938-a2ce-1c9fb29b5db4",
+        "matchId": null,
+        "rank": 9,
+        "names": [
+          "Langerlungo",
+          "Nephalima",
+          null,
+          "Description",
+          "Iast unicorn"
+        ]
+      },
+      {
+        "value": 86825,
+        "entityId": "4274064e-d3af-4b2d-ac88-4a4308668f37_45e7d640-b6a6-48a1-8d0f-5e4ffa995edd_682bf59e-736b-46b6-b1b2-f42de01e496c_af7f6420-d08d-4e76-8d6d-8ecaf4f538de_bca30386-6118-42e3-8da5-924d8c55d2e3",
+        "matchId": null,
+        "rank": 10,
+        "names": [
+          "Rivz1",
+          "Systemixx",
+          "Sir Abed",
+          "flofrenchcore",
+          "supwitch"
+        ]
+      },
+      {
+        "value": 82800,
+        "entityId": "1928571e-f471-4f47-90a7-841637ef296f_4274064e-d3af-4b2d-ac88-4a4308668f37_45e7d640-b6a6-48a1-8d0f-5e4ffa995edd_a6aa6149-025d-4e0c-94c9-4440af99c80f_af7f6420-d08d-4e76-8d6d-8ecaf4f538de",
+        "matchId": null,
+        "rank": 11,
+        "names": [
+          "D4rK CHWAVE",
+          "Rivz1",
+          "Systemixx",
+          "Neishatun",
+          "flofrenchcore"
+        ]
+      },
+      {
+        "value": 81675,
+        "entityId": "152c712f-5294-4354-848d-b246e2fbe01d_2790bb4e-4663-4925-90b2-289f34966aa2_9f1fc25f-cdcc-4017-abed-ec0a4aa7686e_e03ff7c1-d7d8-4062-8e3b-2092c16cd06c_f19bdc2e-aa0c-4547-89e7-fc2be83f1fb7",
+        "matchId": null,
+        "rank": 12,
+        "names": [
+          null,
+          "MrDope",
+          "SirMikk",
+          "Humms",
+          null
+        ]
+      },
+      {
+        "value": 81500,
+        "entityId": "5ec6bbb4-7ab6-4704-a854-cec7c91c6f35_7f4b3763-129a-49e0-886b-e3ad3f568bd8_81d51edc-f570-4b2f-bd99-2c06330043c9_af22ec14-2c31-474d-9fd5-cff36b25b27f_e71ecd98-7e49-410b-bc9a-29e154f9f126",
+        "matchId": null,
+        "rank": 13,
+        "names": [
+          "flofrenchcore60",
+          "AresoniaLX",
+          "Grrnolam",
+          "Exsha",
+          "rivzone"
+        ]
+      },
+      {
+        "value": 75875,
+        "entityId": "00f06a35-250c-4bcd-9107-54fb14ed9133_3dda7eff-30e7-4017-8497-eef73f3cf727_8930149a-61c3-41e9-9a3d-51d21b5f15bd_d0febe4f-6349-4e58-abd5-5062b87b12f2_d74317f2-1730-404e-a560-f1cbd18d3b30",
+        "matchId": null,
+        "rank": 14,
+        "names": [
+          "Langerlungo",
+          "Nephalima",
+          "Description",
+          "H4rryPotterE",
+          "Sallen"
+        ]
+      },
+      {
+        "value": 74775,
+        "entityId": "2b91b45d-a852-4f00-b3a2-a27380909326_30f63486-279a-4430-8b68-9246f42e47f8_4274064e-d3af-4b2d-ac88-4a4308668f37_9e7ece26-1e23-4cb5-a35b-f403c9d175a8_af7f6420-d08d-4e76-8d6d-8ecaf4f538de",
+        "matchId": null,
+        "rank": 15,
+        "names": [
+          "P-oPy-ette",
+          "MonkeyD.Tony",
+          "Rivz1",
+          "DiagonaL",
+          "flofrenchcore"
+        ]
+      },
+      {
+        "value": 73250,
+        "entityId": "0b739d78-685c-4239-b1f2-e59ae5c453f2_32436fef-aa8c-43b4-b471-6e4ead8fb409_3a5641cd-04ea-4320-b136-1f21a79772be_5ca78e34-b7f7-42c4-b354-13eeacd3484d_5f06449b-4cce-41ac-afba-8343d6371f8b",
+        "matchId": null,
+        "rank": 16,
+        "names": [
+          "Banquier de nw",
+          "Leannael",
+          "spartans-qatar",
+          null,
+          null
+        ]
+      },
+      {
+        "value": 69725,
+        "entityId": "2b91b45d-a852-4f00-b3a2-a27380909326_4f6cfea5-5256-4e68-b21c-285adc457045_5ca78e34-b7f7-42c4-b354-13eeacd3484d_650c3643-e4b7-4071-b1e4-65385641b0da_af7f6420-d08d-4e76-8d6d-8ecaf4f538de",
+        "matchId": null,
+        "rank": 17,
+        "names": [
+          "P-oPy-ette",
+          "PaniChaos",
+          null,
+          null,
+          "flofrenchcore"
+        ]
+      },
+      {
+        "value": 62900,
+        "entityId": "2dc5743c-fba6-4ab4-b01f-b6e6d372df96_7907090f-1842-4fff-9b57-83e694c3b8ff_7c5cdc39-4c00-47d9-9223-1bd2db7f8389_98a91436-b88d-4da7-b387-06ad5fbe330f_c60f3758-f266-4707-9619-367447772773",
+        "matchId": null,
+        "rank": 18,
+        "names": [
+          null,
+          "Helloworldzz",
+          "Gluona",
+          "playerxafk",
+          "Furry paws"
+        ]
+      },
+      {
+        "value": 62325,
+        "entityId": "2c1465d3-c8e7-4a9b-b725-c0221a10c520_431b4724-9e16-4e87-98bf-65cbf4e22a24_b584a44c-867e-424a-ad36-4e524a33dbab_bf42dfd4-86ef-4df8-80ed-99d905f70e1a_dffb1f9e-81bd-4a71-b228-8bac60b0c52a",
+        "matchId": null,
+        "rank": 19,
+        "names": [
+          null,
+          "Mister Judas",
+          "onCreanga",
+          null,
+          "finettix"
+        ]
+      },
+      {
+        "value": 61100,
+        "entityId": "3ec6caa4-7471-4a1b-8e20-925b94271724_6932518e-8d24-4cc9-b72e-030ffb0efd09_a8663e54-8d5a-4e59-b9ab-4a0ad1f08697_c141de55-ca4e-4d01-be9b-221f4c3206dd_db29e0f0-9496-4ece-b406-cca5c59a7df4",
+        "matchId": null,
+        "rank": 20,
+        "names": [
+          "Cloudiuss",
+          "Diejak",
+          "Tavo",
+          "Senfpeitsche",
+          null
+        ]
+      },
+      {
+        "value": 60875,
+        "entityId": "43bc879c-acbb-4f8b-8d45-29fb11c69193_5afa4bd6-b7dc-431f-83f5-89bdbbbe2c1c_5c336a28-7594-4a79-99ab-aea9e246d381_9bc0af2b-be67-457b-b608-d7f6af22223c_fd4a68dd-4526-43a7-ae60-1bbf910ad576",
+        "matchId": null,
+        "rank": 21,
+        "names": [
+          "Perq",
+          "Kanibal",
+          "Shaq'a",
+          "herkatka",
+          null
+        ]
+      },
+      {
+        "value": 60740,
+        "entityId": "30f63486-279a-4430-8b68-9246f42e47f8_3a5641cd-04ea-4320-b136-1f21a79772be_5ca78e34-b7f7-42c4-b354-13eeacd3484d_5e7e1db8-1681-4341-a8d4-15e3a57c7434_5f06449b-4cce-41ac-afba-8343d6371f8b",
+        "matchId": null,
+        "rank": 22,
+        "names": [
+          "MonkeyD.Tony",
+          "spartans-qatar",
+          null,
+          "SAUVAGE FR69",
+          null
+        ]
+      },
+      {
+        "value": 58340,
+        "entityId": "1b2fba8e-1ed0-4da5-8e22-d5b9fb9b4b87_1f827ed3-730b-49ae-8b05-b36bd66bcda0_2110f7eb-6606-45ae-b1c2-316a958f54a2_4b735f12-2e17-471e-9ea9-835e4a1e2a7b_cd16047b-f0c4-4a13-a65e-c0419133d814",
+        "matchId": null,
+        "rank": 23,
+        "names": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "value": 58050,
+        "entityId": "81d51edc-f570-4b2f-bd99-2c06330043c9_92bcf088-a66b-4cf0-a3f7-dfa480ac1a35_bca30386-6118-42e3-8da5-924d8c55d2e3_e71ecd98-7e49-410b-bc9a-29e154f9f126_ea733c5e-9345-4587-a862-8dea697c793b",
+        "matchId": null,
+        "rank": 24,
+        "names": [
+          "Grrnolam",
+          "Kurkumis",
+          "supwitch",
+          "rivzone",
+          "Snanioliq8"
+        ]
+      },
+      {
+        "value": 54475,
+        "entityId": "09b9a441-f464-4e8a-8e3a-b3bc86dc15c4_60f989f5-a2f2-47db-a32f-b13ea338bcb7_6d125044-f21b-4e7d-a419-187162bc266c_837fbeb3-c03a-4451-85eb-4071ed1094ca_9202be10-3cd3-44ae-9da2-c9e41897b56e",
+        "matchId": null,
+        "rank": 25,
+        "names": [
+          "Syneticx",
+          null,
+          "Pawlikus",
+          "2Doubleyou",
+          "Ischki"
+        ]
+      },
+      {
+        "value": 52340,
+        "entityId": "1928571e-f471-4f47-90a7-841637ef296f_45e7d640-b6a6-48a1-8d0f-5e4ffa995edd_af7f6420-d08d-4e76-8d6d-8ecaf4f538de_c18ec818-5e92-436c-89ce-2d53dd6e9e55_e71ecd98-7e49-410b-bc9a-29e154f9f126",
+        "matchId": null,
+        "rank": 26,
+        "names": [
+          "D4rK CHWAVE",
+          "Systemixx",
+          "flofrenchcore",
+          "SirSandorClegane",
+          "rivzone"
+        ]
+      },
+      {
+        "value": 46850,
+        "entityId": "01239cc3-89b9-4c9d-b298-3305bc1a6f3f_4c5252c6-45fa-453e-a01c-d251dc2c81fe_904b1df2-77df-42f3-acc7-2e17b7bdd552_c3465534-aaae-41b0-935e-4ed794a52a54_cb529ef1-1224-4041-814e-15408ec0ce27",
+        "matchId": null,
+        "rank": 27,
+        "names": [
+          null,
+          "BangBang FR",
+          "Emeii",
+          null,
+          null
+        ]
+      },
+      {
+        "value": 46380,
+        "entityId": "1928571e-f471-4f47-90a7-841637ef296f_45e7d640-b6a6-48a1-8d0f-5e4ffa995edd_5ec6bbb4-7ab6-4704-a854-cec7c91c6f35_a6aa6149-025d-4e0c-94c9-4440af99c80f_e71ecd98-7e49-410b-bc9a-29e154f9f126",
+        "matchId": null,
+        "rank": 28,
+        "names": [
+          "D4rK CHWAVE",
+          "Systemixx",
+          "flofrenchcore60",
+          "Neishatun",
+          "rivzone"
+        ]
+      },
+      {
+        "value": 45250,
+        "entityId": "5edefb75-b08e-4bf5-8eb2-ae45b3e930f7_93fedd5a-e7a2-4665-8922-c67903a9c070_b587cd02-295a-46bb-b9f7-92a13b0c8a2f_e381926b-37c5-4327-afcd-6624e11b6688_ee287bb9-10e7-4a88-adaf-fdcb5c12181a",
+        "matchId": null,
+        "rank": 29,
+        "names": [
+          "Tyboon",
+          "Spara Pluie",
+          "Shir-Donne",
+          "Eimoh",
+          "Volcane"
+        ]
+      },
+      {
+        "value": 44475,
+        "entityId": "00f06a35-250c-4bcd-9107-54fb14ed9133_3dda7eff-30e7-4017-8497-eef73f3cf727_abcc8ce9-f387-4023-bcd4-56aff0fa5732_cf0a4d0d-83c4-4e33-9701-49a0f1ae74e8_fbb56986-a5c3-4938-a2ce-1c9fb29b5db4",
+        "matchId": null,
+        "rank": 30,
+        "names": [
+          "Langerlungo",
+          "Nephalima",
+          "Bunch92FR",
+          null,
+          "Iast unicorn"
+        ]
+      },
+      {
+        "value": 42360,
+        "entityId": "039bdb2f-0741-4d61-806c-1cd110f5d3ee_1253e8bd-f6f0-4d42-b8ba-d056a2d666b9_2790bb4e-4663-4925-90b2-289f34966aa2_9f1fc25f-cdcc-4017-abed-ec0a4aa7686e_e03ff7c1-d7d8-4062-8e3b-2092c16cd06c",
+        "matchId": null,
+        "rank": 31,
+        "names": [
+          "Ugar Keskin",
+          null,
+          "MrDope",
+          "SirMikk",
+          "Humms"
+        ]
+      },
+      {
+        "value": 36280,
+        "entityId": "1928571e-f471-4f47-90a7-841637ef296f_45e7d640-b6a6-48a1-8d0f-5e4ffa995edd_5ec6bbb4-7ab6-4704-a854-cec7c91c6f35_a6aa6149-025d-4e0c-94c9-4440af99c80f_c18ec818-5e92-436c-89ce-2d53dd6e9e55",
+        "matchId": null,
+        "rank": 32,
+        "names": [
+          "D4rK CHWAVE",
+          "Systemixx",
+          "flofrenchcore60",
+          "Neishatun",
+          "SirSandorClegane"
+        ]
+      },
+      {
+        "value": 36120,
+        "entityId": "30f63486-279a-4430-8b68-9246f42e47f8_5ca78e34-b7f7-42c4-b354-13eeacd3484d_5e7e1db8-1681-4341-a8d4-15e3a57c7434_5f06449b-4cce-41ac-afba-8343d6371f8b_b124101f-ae85-431b-af66-6250d26f9506",
+        "matchId": null,
+        "rank": 33,
+        "names": [
+          "MonkeyD.Tony",
+          null,
+          "SAUVAGE FR69",
+          null,
+          null
+        ]
+      },
+      {
+        "value": 36020,
+        "entityId": "2c1465d3-c8e7-4a9b-b725-c0221a10c520_2d0fb5ee-db6a-434d-a15e-00a64b299b91_9e7ece26-1e23-4cb5-a35b-f403c9d175a8_b584a44c-867e-424a-ad36-4e524a33dbab_bf42dfd4-86ef-4df8-80ed-99d905f70e1a",
+        "matchId": null,
+        "rank": 34,
+        "names": [
+          null,
+          "Bad Omen261",
+          "DiagonaL",
+          "onCreanga",
+          null
+        ]
+      },
+      {
+        "value": 28050,
+        "entityId": "4b06b04e-4691-4fde-904b-a7f65988f146_6ccf54a1-8363-4334-97f1-efb6cdec01d4_8b233a7c-e8e1-4d2d-a6cf-15958e840130_eb9593f7-392b-4253-9d3b-8f2669804d01_f2792f12-44a4-44e6-90a3-d568db6db801",
+        "matchId": null,
+        "rank": 35,
+        "names": [
+          null,
+          "Neflasombre",
+          "Noctula",
+          "Emporio13",
+          "cedricdu01"
+        ]
+      },
+      {
+        "value": 26640,
+        "entityId": "2c1465d3-c8e7-4a9b-b725-c0221a10c520_7037ff97-63c1-4e1e-9715-5a043553c56c_b584a44c-867e-424a-ad36-4e524a33dbab_ba0d86f5-7a26-4337-9051-e80734ec7bfc_dffb1f9e-81bd-4a71-b228-8bac60b0c52a",
+        "matchId": null,
+        "rank": 36,
+        "names": [
+          null,
+          null,
+          "onCreanga",
+          "TRUZZZZ",
+          "finettix"
+        ]
+      },
+      {
+        "value": 23360,
+        "entityId": "2b91b45d-a852-4f00-b3a2-a27380909326_4f6cfea5-5256-4e68-b21c-285adc457045_5ca78e34-b7f7-42c4-b354-13eeacd3484d_5d49f7e4-4318-4b4f-b9f5-52de9415a518_aeb2ffe9-0c8c-4633-ae87-f2dbba5ee3bd",
+        "matchId": null,
+        "rank": 37,
+        "names": [
+          "P-oPy-ette",
+          "PaniChaos",
+          null,
+          "ChaosSoxXx",
+          "Deadtrace"
+        ]
+      },
+      {
+        "value": 19460,
+        "entityId": "01239cc3-89b9-4c9d-b298-3305bc1a6f3f_3463f96e-ff7b-46d8-bac0-f82906c5b1a4_6b905674-8880-4bab-b499-62447cbf9d04_c3465534-aaae-41b0-935e-4ed794a52a54_cb529ef1-1224-4041-814e-15408ec0ce27",
+        "matchId": null,
+        "rank": 38,
+        "names": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "value": 18945,
+        "entityId": "00f06a35-250c-4bcd-9107-54fb14ed9133_3dda7eff-30e7-4017-8497-eef73f3cf727_6f43d351-7a1b-4946-9f57-1f37ca948893_a64621c9-43eb-4cac-9023-a06f67f79602_d74317f2-1730-404e-a560-f1cbd18d3b30",
+        "matchId": null,
+        "rank": 39,
+        "names": [
+          "Langerlungo",
+          "Nephalima",
+          "RevokeR7",
+          "Fleurss",
+          "Sallen"
+        ]
+      },
+      {
+        "value": 17805,
+        "entityId": "1253e8bd-f6f0-4d42-b8ba-d056a2d666b9_2790bb4e-4663-4925-90b2-289f34966aa2_9f1fc25f-cdcc-4017-abed-ec0a4aa7686e_e03ff7c1-d7d8-4062-8e3b-2092c16cd06c_f19bdc2e-aa0c-4547-89e7-fc2be83f1fb7",
+        "matchId": null,
+        "rank": 40,
+        "names": [
+          null,
+          "MrDope",
+          "SirMikk",
+          "Humms",
+          null
+        ]
+      },
+      {
+        "value": 14040,
+        "entityId": "59cf6639-ae1f-410c-a666-996350d15f6f_81d51edc-f570-4b2f-bd99-2c06330043c9_bca30386-6118-42e3-8da5-924d8c55d2e3_e71ecd98-7e49-410b-bc9a-29e154f9f126_ea733c5e-9345-4587-a862-8dea697c793b",
+        "matchId": null,
+        "rank": 41,
+        "names": [
+          "Timokot",
+          "Grrnolam",
+          "supwitch",
+          "rivzone",
+          "Snanioliq8"
+        ]
+      },
+      {
+        "value": 12960,
+        "entityId": "00f06a35-250c-4bcd-9107-54fb14ed9133_3dda7eff-30e7-4017-8497-eef73f3cf727_7f9996e9-a8b4-425b-be85-9b0c0acdc61f_a3766ece-55cd-41ed-b623-95264e658834_fbb56986-a5c3-4938-a2ce-1c9fb29b5db4",
+        "matchId": null,
+        "rank": 42,
+        "names": [
+          "Langerlungo",
+          "Nephalima",
+          null,
+          null,
+          "Iast unicorn"
+        ]
+      },
+      {
+        "value": 10245,
+        "entityId": "1b470029-8fd9-4165-85a0-4932dce472dd_236d72a1-0630-4bce-a70e-aba5d2e3e560_5f205d42-87d5-46f6-a497-a267d108b459_762b7c45-c35b-4a2c-af8e-78409d090341_bf79e93d-27a5-4750-a14b-c0a20cd8a4ea",
+        "matchId": null,
+        "rank": 43,
+        "names": [
+          null,
+          "Genny Savastano",
+          "SheHungers",
+          null,
+          null
+        ]
+      },
+      {
+        "value": 5520,
+        "entityId": "2520acc4-e445-4d1e-abb3-cd166e4a3a07_9242e9bf-1f88-41a3-8c2e-9e7c9dfd7820_addd69e2-b7f2-4272-b1fc-1e3ccb6e7a68_c713f0de-2cd2-4053-9784-f698b036391a_e1163aef-447b-440e-b9ff-ac22fbd78cd5",
+        "matchId": null,
+        "rank": 44,
+        "names": [
+          "_Sacra",
+          "Cipano",
+          "Herom",
+          "Remrodt",
+          null
+        ]
+      },
+      {
+        "value": 3000,
+        "entityId": "2c1465d3-c8e7-4a9b-b725-c0221a10c520_b584a44c-867e-424a-ad36-4e524a33dbab_bf42dfd4-86ef-4df8-80ed-99d905f70e1a_c880f82b-9116-4dcd-86c6-98ef3eb8fa02_dffb1f9e-81bd-4a71-b228-8bac60b0c52a",
+        "matchId": null,
+        "rank": 45,
+        "names": [
+          null,
+          "onCreanga",
+          null,
+          "M o 0 n D o C",
+          "finettix"
+        ]
+      },
+      {
+        "value": 2775,
+        "entityId": "0ca18fa6-1960-4c1a-837f-9cdaddb0b79d_2c1465d3-c8e7-4a9b-b725-c0221a10c520_9e7ece26-1e23-4cb5-a35b-f403c9d175a8_b584a44c-867e-424a-ad36-4e524a33dbab_dffb1f9e-81bd-4a71-b228-8bac60b0c52a",
+        "matchId": null,
+        "rank": 46,
+        "names": [
+          "LadyAshy",
+          null,
+          "DiagonaL",
+          "onCreanga",
+          "finettix"
+        ]
+      },
+      {
+        "value": 2140,
+        "entityId": "2dc5743c-fba6-4ab4-b01f-b6e6d372df96_7907090f-1842-4fff-9b57-83e694c3b8ff_7c5cdc39-4c00-47d9-9223-1bd2db7f8389_c30f3ee2-501f-4680-ab86-5ead99767d3a_c60f3758-f266-4707-9619-367447772773",
+        "matchId": null,
+        "rank": 47,
+        "names": [
+          null,
+          "Helloworldzz",
+          "Gluona",
+          null,
+          "Furry paws"
+        ]
+      }
+    ],
+    "leaderboardSize": 47,
+    "isBackedUp": true
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonCutlassKeys00": {
+    "leaderboardEntries": [
+      {
+        "value": 1082,
+        "entityId": "4274064e-d3af-4b2d-ac88-4a4308668f37_8fee6f3a-7c25-44f7-9d5f-6d9a1d0e398f_a5d70cdc-63ed-4d2f-8d3a-246db3b00963_af7f6420-d08d-4e76-8d6d-8ecaf4f538de_bca30386-6118-42e3-8da5-924d8c55d2e3",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "Rivz1",
+          "Systemaxx",
+          "YoungR0se",
+          "flofrenchcore",
+          "supwitch"
+        ]
+      },
+      {
+        "value": 1088,
+        "entityId": "5f6d55b8-c3f7-4d9f-a361-fb055a8b6342_a5d70cdc-63ed-4d2f-8d3a-246db3b00963_a6aa6149-025d-4e0c-94c9-4440af99c80f_bca30386-6118-42e3-8da5-924d8c55d2e3_ea733c5e-9345-4587-a862-8dea697c793b",
+        "matchId": null,
+        "rank": 2,
+        "names": [
+          "Pumalolakina",
+          "YoungR0se",
+          "Neishatun",
+          "supwitch",
+          "Snanioliq8"
+        ]
+      },
+      {
+        "value": 1140,
+        "entityId": "4274064e-d3af-4b2d-ac88-4a4308668f37_45e7d640-b6a6-48a1-8d0f-5e4ffa995edd_8b869b26-cef5-4494-a021-30f80bd63082_af22ec14-2c31-474d-9fd5-cff36b25b27f_af7f6420-d08d-4e76-8d6d-8ecaf4f538de",
+        "matchId": null,
+        "rank": 3,
+        "names": [
+          "Rivz1",
+          "Systemixx",
+          "Gandalfgunshot",
+          "Exsha",
+          "flofrenchcore"
+        ]
+      },
+      {
+        "value": 1178,
+        "entityId": "45e7d640-b6a6-48a1-8d0f-5e4ffa995edd_8b869b26-cef5-4494-a021-30f80bd63082_af22ec14-2c31-474d-9fd5-cff36b25b27f_af7f6420-d08d-4e76-8d6d-8ecaf4f538de_e71ecd98-7e49-410b-bc9a-29e154f9f126",
+        "matchId": null,
+        "rank": 4,
+        "names": [
+          "Systemixx",
+          "Gandalfgunshot",
+          "Exsha",
+          "flofrenchcore",
+          "rivzone"
+        ]
+      },
+      {
+        "value": 1184,
+        "entityId": "2b91b45d-a852-4f00-b3a2-a27380909326_4274064e-d3af-4b2d-ac88-4a4308668f37_5ec6bbb4-7ab6-4704-a854-cec7c91c6f35_a6aa6149-025d-4e0c-94c9-4440af99c80f_bca30386-6118-42e3-8da5-924d8c55d2e3",
+        "matchId": null,
+        "rank": 5,
+        "names": [
+          "P-oPy-ette",
+          "Rivz1",
+          "flofrenchcore60",
+          "Neishatun",
+          "supwitch"
+        ]
+      },
+      {
+        "value": 1187,
+        "entityId": "4274064e-d3af-4b2d-ac88-4a4308668f37_45e7d640-b6a6-48a1-8d0f-5e4ffa995edd_682bf59e-736b-46b6-b1b2-f42de01e496c_af7f6420-d08d-4e76-8d6d-8ecaf4f538de_bca30386-6118-42e3-8da5-924d8c55d2e3",
+        "matchId": null,
+        "rank": 6,
+        "names": [
+          "Rivz1",
+          "Systemixx",
+          "Sir Abed",
+          "flofrenchcore",
+          "supwitch"
+        ]
+      },
+      {
+        "value": 1258,
+        "entityId": "1928571e-f471-4f47-90a7-841637ef296f_4274064e-d3af-4b2d-ac88-4a4308668f37_45e7d640-b6a6-48a1-8d0f-5e4ffa995edd_a6aa6149-025d-4e0c-94c9-4440af99c80f_af7f6420-d08d-4e76-8d6d-8ecaf4f538de",
+        "matchId": null,
+        "rank": 7,
+        "names": [
+          "D4rK CHWAVE",
+          "Rivz1",
+          "Systemixx",
+          "Neishatun",
+          "flofrenchcore"
+        ]
+      },
+      {
+        "value": 1295,
+        "entityId": "3d459518-d8c0-4612-8a0f-2280bdfd7d0a_5ec6bbb4-7ab6-4704-a854-cec7c91c6f35_af22ec14-2c31-474d-9fd5-cff36b25b27f_e71ecd98-7e49-410b-bc9a-29e154f9f126_e9f9f69b-4b5a-4c10-8a64-c1ff3d69eabb",
+        "matchId": null,
+        "rank": 8,
+        "names": [
+          "Valairon",
+          "flofrenchcore60",
+          "Exsha",
+          "rivzone",
+          "Deathhob"
+        ]
+      },
+      {
+        "value": 1349,
+        "entityId": "45e7d640-b6a6-48a1-8d0f-5e4ffa995edd_8b869b26-cef5-4494-a021-30f80bd63082_af7f6420-d08d-4e76-8d6d-8ecaf4f538de_c18ec818-5e92-436c-89ce-2d53dd6e9e55_e71ecd98-7e49-410b-bc9a-29e154f9f126",
+        "matchId": null,
+        "rank": 9,
+        "names": [
+          "Systemixx",
+          "Gandalfgunshot",
+          "flofrenchcore",
+          "SirSandorClegane",
+          "rivzone"
+        ]
+      },
+      {
+        "value": 1379,
+        "entityId": "2b91b45d-a852-4f00-b3a2-a27380909326_30f63486-279a-4430-8b68-9246f42e47f8_4274064e-d3af-4b2d-ac88-4a4308668f37_9e7ece26-1e23-4cb5-a35b-f403c9d175a8_af7f6420-d08d-4e76-8d6d-8ecaf4f538de",
+        "matchId": null,
+        "rank": 10,
+        "names": [
+          "P-oPy-ette",
+          "MonkeyD.Tony",
+          "Rivz1",
+          "DiagonaL",
+          "flofrenchcore"
+        ]
+      },
+      {
+        "value": 1470,
+        "entityId": "5ec6bbb4-7ab6-4704-a854-cec7c91c6f35_7f4b3763-129a-49e0-886b-e3ad3f568bd8_81d51edc-f570-4b2f-bd99-2c06330043c9_af22ec14-2c31-474d-9fd5-cff36b25b27f_e71ecd98-7e49-410b-bc9a-29e154f9f126",
+        "matchId": null,
+        "rank": 11,
+        "names": [
+          "flofrenchcore60",
+          "AresoniaLX",
+          "Grrnolam",
+          "Exsha",
+          "rivzone"
+        ]
+      },
+      {
+        "value": 1483,
+        "entityId": "1928571e-f471-4f47-90a7-841637ef296f_45e7d640-b6a6-48a1-8d0f-5e4ffa995edd_af7f6420-d08d-4e76-8d6d-8ecaf4f538de_c18ec818-5e92-436c-89ce-2d53dd6e9e55_e71ecd98-7e49-410b-bc9a-29e154f9f126",
+        "matchId": null,
+        "rank": 12,
+        "names": [
+          "D4rK CHWAVE",
+          "Systemixx",
+          "flofrenchcore",
+          "SirSandorClegane",
+          "rivzone"
+        ]
+      },
+      {
+        "value": 1535,
+        "entityId": "43bc879c-acbb-4f8b-8d45-29fb11c69193_5afa4bd6-b7dc-431f-83f5-89bdbbbe2c1c_5c336a28-7594-4a79-99ab-aea9e246d381_9bc0af2b-be67-457b-b608-d7f6af22223c_fd4a68dd-4526-43a7-ae60-1bbf910ad576",
+        "matchId": null,
+        "rank": 13,
+        "names": [
+          "Perq",
+          "Kanibal",
+          "Shaq'a",
+          "herkatka",
+          null
+        ]
+      },
+      {
+        "value": 1577,
+        "entityId": "00f06a35-250c-4bcd-9107-54fb14ed9133_3dda7eff-30e7-4017-8497-eef73f3cf727_4d2b1789-2c49-42aa-aead-de5093392a0c_d74317f2-1730-404e-a560-f1cbd18d3b30_fbb56986-a5c3-4938-a2ce-1c9fb29b5db4",
+        "matchId": null,
+        "rank": 14,
+        "names": [
+          "Langerlungo",
+          "Nephalima",
+          null,
+          "Sallen",
+          "Iast unicorn"
+        ]
+      },
+      {
+        "value": 1603,
+        "entityId": "152c712f-5294-4354-848d-b246e2fbe01d_2790bb4e-4663-4925-90b2-289f34966aa2_9f1fc25f-cdcc-4017-abed-ec0a4aa7686e_e03ff7c1-d7d8-4062-8e3b-2092c16cd06c_f19bdc2e-aa0c-4547-89e7-fc2be83f1fb7",
+        "matchId": null,
+        "rank": 15,
+        "names": [
+          null,
+          "MrDope",
+          "SirMikk",
+          "Humms",
+          null
+        ]
+      },
+      {
+        "value": 1625,
+        "entityId": "00f06a35-250c-4bcd-9107-54fb14ed9133_3dda7eff-30e7-4017-8497-eef73f3cf727_4d2b1789-2c49-42aa-aead-de5093392a0c_8930149a-61c3-41e9-9a3d-51d21b5f15bd_fbb56986-a5c3-4938-a2ce-1c9fb29b5db4",
+        "matchId": null,
+        "rank": 16,
+        "names": [
+          "Langerlungo",
+          "Nephalima",
+          null,
+          "Description",
+          "Iast unicorn"
+        ]
+      },
+      {
+        "value": 1710,
+        "entityId": "0b739d78-685c-4239-b1f2-e59ae5c453f2_32436fef-aa8c-43b4-b471-6e4ead8fb409_3a5641cd-04ea-4320-b136-1f21a79772be_5ca78e34-b7f7-42c4-b354-13eeacd3484d_5f06449b-4cce-41ac-afba-8343d6371f8b",
+        "matchId": null,
+        "rank": 17,
+        "names": [
+          "Banquier de nw",
+          "Leannael",
+          "spartans-qatar",
+          null,
+          null
+        ]
+      },
+      {
+        "value": 1818,
+        "entityId": "81d51edc-f570-4b2f-bd99-2c06330043c9_92bcf088-a66b-4cf0-a3f7-dfa480ac1a35_bca30386-6118-42e3-8da5-924d8c55d2e3_e71ecd98-7e49-410b-bc9a-29e154f9f126_ea733c5e-9345-4587-a862-8dea697c793b",
+        "matchId": null,
+        "rank": 18,
+        "names": [
+          "Grrnolam",
+          "Kurkumis",
+          "supwitch",
+          "rivzone",
+          "Snanioliq8"
+        ]
+      },
+      {
+        "value": 1833,
+        "entityId": "30f63486-279a-4430-8b68-9246f42e47f8_3a5641cd-04ea-4320-b136-1f21a79772be_5ca78e34-b7f7-42c4-b354-13eeacd3484d_5e7e1db8-1681-4341-a8d4-15e3a57c7434_5f06449b-4cce-41ac-afba-8343d6371f8b",
+        "matchId": null,
+        "rank": 19,
+        "names": [
+          "MonkeyD.Tony",
+          "spartans-qatar",
+          null,
+          "SAUVAGE FR69",
+          null
+        ]
+      },
+      {
+        "value": 1835,
+        "entityId": "00f06a35-250c-4bcd-9107-54fb14ed9133_3dda7eff-30e7-4017-8497-eef73f3cf727_8930149a-61c3-41e9-9a3d-51d21b5f15bd_d0febe4f-6349-4e58-abd5-5062b87b12f2_d74317f2-1730-404e-a560-f1cbd18d3b30",
+        "matchId": null,
+        "rank": 20,
+        "names": [
+          "Langerlungo",
+          "Nephalima",
+          "Description",
+          "H4rryPotterE",
+          "Sallen"
+        ]
+      },
+      {
+        "value": 1847,
+        "entityId": "2c1465d3-c8e7-4a9b-b725-c0221a10c520_431b4724-9e16-4e87-98bf-65cbf4e22a24_b584a44c-867e-424a-ad36-4e524a33dbab_bf42dfd4-86ef-4df8-80ed-99d905f70e1a_dffb1f9e-81bd-4a71-b228-8bac60b0c52a",
+        "matchId": null,
+        "rank": 21,
+        "names": [
+          null,
+          "Mister Judas",
+          "onCreanga",
+          null,
+          "finettix"
+        ]
+      },
+      {
+        "value": 1951,
+        "entityId": "2b91b45d-a852-4f00-b3a2-a27380909326_4f6cfea5-5256-4e68-b21c-285adc457045_5ca78e34-b7f7-42c4-b354-13eeacd3484d_650c3643-e4b7-4071-b1e4-65385641b0da_af7f6420-d08d-4e76-8d6d-8ecaf4f538de",
+        "matchId": null,
+        "rank": 22,
+        "names": [
+          "P-oPy-ette",
+          "PaniChaos",
+          null,
+          null,
+          "flofrenchcore"
+        ]
+      },
+      {
+        "value": 1953,
+        "entityId": "1b2fba8e-1ed0-4da5-8e22-d5b9fb9b4b87_1f827ed3-730b-49ae-8b05-b36bd66bcda0_2110f7eb-6606-45ae-b1c2-316a958f54a2_4b735f12-2e17-471e-9ea9-835e4a1e2a7b_cd16047b-f0c4-4a13-a65e-c0419133d814",
+        "matchId": null,
+        "rank": 23,
+        "names": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "value": 2054,
+        "entityId": "2dc5743c-fba6-4ab4-b01f-b6e6d372df96_7907090f-1842-4fff-9b57-83e694c3b8ff_7c5cdc39-4c00-47d9-9223-1bd2db7f8389_98a91436-b88d-4da7-b387-06ad5fbe330f_c60f3758-f266-4707-9619-367447772773",
+        "matchId": null,
+        "rank": 24,
+        "names": [
+          null,
+          "Helloworldzz",
+          "Gluona",
+          "playerxafk",
+          "Furry paws"
+        ]
+      },
+      {
+        "value": 2161,
+        "entityId": "09b9a441-f464-4e8a-8e3a-b3bc86dc15c4_60f989f5-a2f2-47db-a32f-b13ea338bcb7_6d125044-f21b-4e7d-a419-187162bc266c_837fbeb3-c03a-4451-85eb-4071ed1094ca_9202be10-3cd3-44ae-9da2-c9e41897b56e",
+        "matchId": null,
+        "rank": 25,
+        "names": [
+          "Syneticx",
+          null,
+          "Pawlikus",
+          "2Doubleyou",
+          "Ischki"
+        ]
+      },
+      {
+        "value": 2296,
+        "entityId": "3ec6caa4-7471-4a1b-8e20-925b94271724_6932518e-8d24-4cc9-b72e-030ffb0efd09_a8663e54-8d5a-4e59-b9ab-4a0ad1f08697_c141de55-ca4e-4d01-be9b-221f4c3206dd_db29e0f0-9496-4ece-b406-cca5c59a7df4",
+        "matchId": null,
+        "rank": 26,
+        "names": [
+          "Cloudiuss",
+          "Diejak",
+          "Tavo",
+          "Senfpeitsche",
+          null
+        ]
+      }
+    ],
+    "leaderboardSize": 26,
+    "isBackedUp": true
+  },
+  "top-group-expedition-score.DungeonEbonscale00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonEbonscale00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonEdengrove00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonEdengrove00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonFirstLight01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonFirstLight01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonGreatCleave00": {
+    "leaderboardEntries": [
+      {
+        "value": 104225,
+        "entityId": "2bf319e1-9ccd-45a4-a636-4c06bd2bce02_7e54d1a6-fdb3-42e7-9a68-e5b402e46b3c_7f72ef37-d56c-42ff-812a-9fbeed3b9142_edf6c0ef-e9f9-4196-88b4-627d407940a7_ff6338be-e86d-4fe0-9c28-2af31f1edcbc",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "KEKWKEKW",
+          "Carissa",
+          "Sasha Braus",
+          "Elhakuna",
+          "nayaro"
+        ]
+      },
+      {
+        "value": 103875,
+        "entityId": "6323f57b-1622-40c0-973d-acb4d7739dab_686e7019-714f-480c-8238-c07204fddfa4_832f4cc7-de80-408e-ac50-1233df2f243f_d10e1b30-34a9-43b3-a64b-92c1ef1fcf62_ecfccae7-8b5e-4e1e-9ff9-25c4c065c8c8",
+        "matchId": null,
+        "rank": 2,
+        "names": [
+          "Aresonia",
+          "Lo5iu",
+          "R0ziTa.-",
+          "xSob1",
+          null
+        ]
+      },
+      {
+        "value": 103400,
+        "entityId": "12a67cc1-f9a1-4269-bcf2-228b4ad7847c_15e9e539-4cdb-4862-97e9-755e6b5cfc13_7e54d1a6-fdb3-42e7-9a68-e5b402e46b3c_7f72ef37-d56c-42ff-812a-9fbeed3b9142_f7ff0460-c083-4371-9bb4-0440aa235446",
+        "matchId": null,
+        "rank": 3,
+        "names": [
+          "Nayra Nevermore",
+          "Hoksheleto",
+          "Carissa",
+          "Sasha Braus",
+          "SirGregorClegane"
+        ]
+      },
+      {
+        "value": 102300,
+        "entityId": "1ad54fc0-8fbc-4980-99a6-8e7f512385d7_48d97908-a402-495d-af8d-5e96707719d9_518c8d74-b773-4ca1-87bd-015a95d47e21_679613af-e56e-4bf8-9dfc-39eb443b997c_7ee16b28-b499-45dc-9c97-8917773f3604",
+        "matchId": null,
+        "rank": 4,
+        "names": [
+          "Rox0gaming",
+          "Pbatata",
+          "GreenBerry29",
+          "xRockk",
+          "SyLaRxP"
+        ]
+      },
+      {
+        "value": 101600,
+        "entityId": "3c4e0fee-d3a1-4714-b50a-83e70a48b05c_4d6981b5-a347-4f46-85de-96a5418b24c2_7e54d1a6-fdb3-42e7-9a68-e5b402e46b3c_e71ecd98-7e49-410b-bc9a-29e154f9f126_f7ff0460-c083-4371-9bb4-0440aa235446",
+        "matchId": null,
+        "rank": 5,
+        "names": [
+          "Hyuse Kronin",
+          "Ze0na",
+          "Carissa",
+          "rivzone",
+          "SirGregorClegane"
+        ]
+      },
+      {
+        "value": 100775,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_20611679-45f7-4b36-a914-07ecc2cbc7ec_518c8d74-b773-4ca1-87bd-015a95d47e21_679613af-e56e-4bf8-9dfc-39eb443b997c_aa3c8ca4-625f-47cf-a955-ef97fecfc095",
+        "matchId": null,
+        "rank": 6,
+        "names": [
+          "james193",
+          null,
+          "GreenBerry29",
+          "xRockk",
+          "oPy"
+        ]
+      },
+      {
+        "value": 100100,
+        "entityId": "3c4e0fee-d3a1-4714-b50a-83e70a48b05c_4d6981b5-a347-4f46-85de-96a5418b24c2_7e54d1a6-fdb3-42e7-9a68-e5b402e46b3c_e71ecd98-7e49-410b-bc9a-29e154f9f126_edf6c0ef-e9f9-4196-88b4-627d407940a7",
+        "matchId": null,
+        "rank": 7,
+        "names": [
+          "Hyuse Kronin",
+          "Ze0na",
+          "Carissa",
+          "rivzone",
+          "Elhakuna"
+        ]
+      },
+      {
+        "value": 99825,
+        "entityId": "7453f3fb-2589-486b-a923-57745287a145_7963d989-e971-4858-a081-a57d27c0badb_8cfaef48-699f-45a8-8ba9-63d63d8f37e9_c880f82b-9116-4dcd-86c6-98ef3eb8fa02_ff3445f1-885e-4477-b2eb-b403069730c4",
+        "matchId": null,
+        "rank": 8,
+        "names": [
+          null,
+          "Morok Baal",
+          "tccc",
+          "M o 0 n D o C",
+          "EvenbetterKO"
+        ]
+      },
+      {
+        "value": 98975,
+        "entityId": "0d476fa0-407f-443e-bfd5-f2dd94720029_4e826771-5536-4599-94fb-112bd18a4ea2_682bf59e-736b-46b6-b1b2-f42de01e496c_6f858041-0192-425c-8833-7b1876a71a74_735d7f44-7c71-4511-bbdc-0b58032a72a8",
+        "matchId": null,
+        "rank": 9,
+        "names": [
+          "Abo Saleh",
+          "Rox0gaming 2",
+          "Sir Abed",
+          "CHAOS I HERO",
+          null
+        ]
+      },
+      {
+        "value": 96925,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_45e7d640-b6a6-48a1-8d0f-5e4ffa995edd_518c8d74-b773-4ca1-87bd-015a95d47e21_8b869b26-cef5-4494-a021-30f80bd63082_eba69aed-a201-40f8-ac80-0ee606a5b3ac",
+        "matchId": null,
+        "rank": 10,
+        "names": [
+          "james193",
+          "Systemixx",
+          "GreenBerry29",
+          "Gandalfgunshot",
+          "TTVEfeAlanbel"
+        ]
+      },
+      {
+        "value": 95300,
+        "entityId": "7453f3fb-2589-486b-a923-57745287a145_8cfaef48-699f-45a8-8ba9-63d63d8f37e9_a5a674e5-7e64-4657-ab1a-5db9d95e7a38_d10e1b30-34a9-43b3-a64b-92c1ef1fcf62_edf6c0ef-e9f9-4196-88b4-627d407940a7",
+        "matchId": null,
+        "rank": 11,
+        "names": [
+          null,
+          "tccc",
+          "Be Heroo",
+          "xSob1",
+          "Elhakuna"
+        ]
+      },
+      {
+        "value": 94775,
+        "entityId": "5798bab8-c8bf-4269-9b74-eabfb6ee2c5e_7453f3fb-2589-486b-a923-57745287a145_b3430655-8bbb-4475-ab09-fa8aa64a41af_c880f82b-9116-4dcd-86c6-98ef3eb8fa02_ff3445f1-885e-4477-b2eb-b403069730c4",
+        "matchId": null,
+        "rank": 12,
+        "names": [
+          "Papa Bear322",
+          null,
+          "Hhenkka",
+          "M o 0 n D o C",
+          "EvenbetterKO"
+        ]
+      },
+      {
+        "value": 92850,
+        "entityId": "679613af-e56e-4bf8-9dfc-39eb443b997c_7453f3fb-2589-486b-a923-57745287a145_8cfaef48-699f-45a8-8ba9-63d63d8f37e9_a6aa6149-025d-4e0c-94c9-4440af99c80f_aa3c8ca4-625f-47cf-a955-ef97fecfc095",
+        "matchId": null,
+        "rank": 13,
+        "names": [
+          "xRockk",
+          null,
+          "tccc",
+          "Neishatun",
+          "oPy"
+        ]
+      },
+      {
+        "value": 92275,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_518c8d74-b773-4ca1-87bd-015a95d47e21_679613af-e56e-4bf8-9dfc-39eb443b997c_7453f3fb-2589-486b-a923-57745287a145_eba69aed-a201-40f8-ac80-0ee606a5b3ac",
+        "matchId": null,
+        "rank": 14,
+        "names": [
+          "james193",
+          "GreenBerry29",
+          "xRockk",
+          null,
+          "TTVEfeAlanbel"
+        ]
+      },
+      {
+        "value": 91275,
+        "entityId": "6323f57b-1622-40c0-973d-acb4d7739dab_832f4cc7-de80-408e-ac50-1233df2f243f_ecfccae7-8b5e-4e1e-9ff9-25c4c065c8c8_f7ff0460-c083-4371-9bb4-0440aa235446_fe90a73a-ba38-467c-8df8-1c7f4447dc94",
+        "matchId": null,
+        "rank": 15,
+        "names": [
+          "Aresonia",
+          "R0ziTa.-",
+          null,
+          "SirGregorClegane",
+          "Syllvanna"
+        ]
+      },
+      {
+        "value": 90800,
+        "entityId": "3c4e0fee-d3a1-4714-b50a-83e70a48b05c_cbf99a5b-e7f4-431f-944c-64e4d3bff4f4_eb5b7f71-9758-4343-a134-534ff21d52ca_edf6c0ef-e9f9-4196-88b4-627d407940a7_fe90a73a-ba38-467c-8df8-1c7f4447dc94",
+        "matchId": null,
+        "rank": 16,
+        "names": [
+          "Hyuse Kronin",
+          "TheBlightedKydl",
+          "b-8LUE",
+          "Elhakuna",
+          "Syllvanna"
+        ]
+      },
+      {
+        "value": 89850,
+        "entityId": "735d7f44-7c71-4511-bbdc-0b58032a72a8_7f4b3763-129a-49e0-886b-e3ad3f568bd8_a5a674e5-7e64-4657-ab1a-5db9d95e7a38_d10e1b30-34a9-43b3-a64b-92c1ef1fcf62_edf6c0ef-e9f9-4196-88b4-627d407940a7",
+        "matchId": null,
+        "rank": 17,
+        "names": [
+          null,
+          "AresoniaLX",
+          "Be Heroo",
+          "xSob1",
+          "Elhakuna"
+        ]
+      },
+      {
+        "value": 89475,
+        "entityId": "1ad54fc0-8fbc-4980-99a6-8e7f512385d7_47b3af24-f123-4464-93e9-0573f9ccd113_518c8d74-b773-4ca1-87bd-015a95d47e21_aa3c8ca4-625f-47cf-a955-ef97fecfc095_b3430655-8bbb-4475-ab09-fa8aa64a41af",
+        "matchId": null,
+        "rank": 18,
+        "names": [
+          "Rox0gaming",
+          "Liiukiin",
+          "GreenBerry29",
+          "oPy",
+          "Hhenkka"
+        ]
+      },
+      {
+        "value": 89400,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_158cf4a3-95ed-4b77-8b07-e7634a3716ce_679613af-e56e-4bf8-9dfc-39eb443b997c_7453f3fb-2589-486b-a923-57745287a145_8cfaef48-699f-45a8-8ba9-63d63d8f37e9",
+        "matchId": null,
+        "rank": 19,
+        "names": [
+          "james193",
+          "SyLaRxD",
+          "xRockk",
+          null,
+          "tccc"
+        ]
+      },
+      {
+        "value": 87675,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_679613af-e56e-4bf8-9dfc-39eb443b997c_7453f3fb-2589-486b-a923-57745287a145_8cfaef48-699f-45a8-8ba9-63d63d8f37e9_aa3c8ca4-625f-47cf-a955-ef97fecfc095",
+        "matchId": null,
+        "rank": 20,
+        "names": [
+          "james193",
+          "xRockk",
+          null,
+          "tccc",
+          "oPy"
+        ]
+      },
+      {
+        "value": 87000,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_2b91b45d-a852-4f00-b3a2-a27380909326_518c8d74-b773-4ca1-87bd-015a95d47e21_679613af-e56e-4bf8-9dfc-39eb443b997c_f7ff0460-c083-4371-9bb4-0440aa235446",
+        "matchId": null,
+        "rank": 21,
+        "names": [
+          "james193",
+          "P-oPy-ette",
+          "GreenBerry29",
+          "xRockk",
+          "SirGregorClegane"
+        ]
+      },
+      {
+        "value": 86475,
+        "entityId": "4e826771-5536-4599-94fb-112bd18a4ea2_5798bab8-c8bf-4269-9b74-eabfb6ee2c5e_7453f3fb-2589-486b-a923-57745287a145_ded9ee17-0e76-438f-8905-ab26d3614541_ff3445f1-885e-4477-b2eb-b403069730c4",
+        "matchId": null,
+        "rank": 22,
+        "names": [
+          "Rox0gaming 2",
+          "Papa Bear322",
+          null,
+          "Ritka",
+          "EvenbetterKO"
+        ]
+      },
+      {
+        "value": 85400,
+        "entityId": "1e9ddba4-cbf5-4068-b584-6e25be64fae5_2698cfaf-0b31-465a-8271-684f74eefd1a_2cc19a6a-7f65-4aa5-af3a-7e5bc9a4c19c_60768d0a-74f8-4b0b-beb5-35fd99b7c083_ddb7a091-273b-4b9f-8729-2dd3ad9453a4",
+        "matchId": null,
+        "rank": 23,
+        "names": [
+          "HioriKunn",
+          "Intxitxu",
+          "TOM HOUDINI",
+          "Takeru",
+          "Empty113"
+        ]
+      },
+      {
+        "value": 83025,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_15e9e539-4cdb-4862-97e9-755e6b5cfc13_2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_518c8d74-b773-4ca1-87bd-015a95d47e21_679613af-e56e-4bf8-9dfc-39eb443b997c",
+        "matchId": null,
+        "rank": 24,
+        "names": [
+          "james193",
+          "Hoksheleto",
+          "EfeAlanbel",
+          "GreenBerry29",
+          "xRockk"
+        ]
+      },
+      {
+        "value": 81975,
+        "entityId": "1b2fba8e-1ed0-4da5-8e22-d5b9fb9b4b87_1f827ed3-730b-49ae-8b05-b36bd66bcda0_2110f7eb-6606-45ae-b1c2-316a958f54a2_4b735f12-2e17-471e-9ea9-835e4a1e2a7b_cd16047b-f0c4-4a13-a65e-c0419133d814",
+        "matchId": null,
+        "rank": 25,
+        "names": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "value": 81475,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_158cf4a3-95ed-4b77-8b07-e7634a3716ce_679613af-e56e-4bf8-9dfc-39eb443b997c_8cfaef48-699f-45a8-8ba9-63d63d8f37e9_c425fb0e-bd3b-4772-8482-ce8eb7395233",
+        "matchId": null,
+        "rank": 26,
+        "names": [
+          "james193",
+          "SyLaRxD",
+          "xRockk",
+          "tccc",
+          "Qzin"
+        ]
+      },
+      {
+        "value": 80075,
+        "entityId": "0038c022-7162-42e5-bf99-aa31f4e29bed_2bad4f55-260d-43ec-9673-32f747241078_9e7ece26-1e23-4cb5-a35b-f403c9d175a8_d0febe4f-6349-4e58-abd5-5062b87b12f2_eba69aed-a201-40f8-ac80-0ee606a5b3ac",
+        "matchId": null,
+        "rank": 27,
+        "names": [
+          "Caton le Censeur",
+          "Sultaq",
+          "DiagonaL",
+          "H4rryPotterE",
+          "TTVEfeAlanbel"
+        ]
+      },
+      {
+        "value": 79700,
+        "entityId": "457468ce-18a1-4e56-a8fc-c3562a89470b_7e54d1a6-fdb3-42e7-9a68-e5b402e46b3c_7f72ef37-d56c-42ff-812a-9fbeed3b9142_cbf99a5b-e7f4-431f-944c-64e4d3bff4f4_edf6c0ef-e9f9-4196-88b4-627d407940a7",
+        "matchId": null,
+        "rank": 28,
+        "names": [
+          "h4rryPotter",
+          "Carissa",
+          "Sasha Braus",
+          "TheBlightedKydl",
+          "Elhakuna"
+        ]
+      },
+      {
+        "value": 79100,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_2b91b45d-a852-4f00-b3a2-a27380909326_518c8d74-b773-4ca1-87bd-015a95d47e21_679613af-e56e-4bf8-9dfc-39eb443b997c_cbf99a5b-e7f4-431f-944c-64e4d3bff4f4",
+        "matchId": null,
+        "rank": 29,
+        "names": [
+          "james193",
+          "P-oPy-ette",
+          "GreenBerry29",
+          "xRockk",
+          "TheBlightedKydl"
+        ]
+      },
+      {
+        "value": 78340,
+        "entityId": "15e9e539-4cdb-4862-97e9-755e6b5cfc13_7e54d1a6-fdb3-42e7-9a68-e5b402e46b3c_7f72ef37-d56c-42ff-812a-9fbeed3b9142_cbf99a5b-e7f4-431f-944c-64e4d3bff4f4_f7ff0460-c083-4371-9bb4-0440aa235446",
+        "matchId": null,
+        "rank": 30,
+        "names": [
+          "Hoksheleto",
+          "Carissa",
+          "Sasha Braus",
+          "TheBlightedKydl",
+          "SirGregorClegane"
+        ]
+      },
+      {
+        "value": 78275,
+        "entityId": "15e9e539-4cdb-4862-97e9-755e6b5cfc13_2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_457468ce-18a1-4e56-a8fc-c3562a89470b_45e7d640-b6a6-48a1-8d0f-5e4ffa995edd_8b869b26-cef5-4494-a021-30f80bd63082",
+        "matchId": null,
+        "rank": 31,
+        "names": [
+          "Hoksheleto",
+          "EfeAlanbel",
+          "h4rryPotter",
+          "Systemixx",
+          "Gandalfgunshot"
+        ]
+      },
+      {
+        "value": 77750,
+        "entityId": "00ee0c1c-a3fe-43fb-8017-b97927b9a494_13df5c30-66ec-45b1-8aab-16e043627518_4bf27e2b-8347-407f-9ea2-ab9b587160a5_885cfc02-4881-4f4c-8d2d-22f9f0907ba9_8ed20890-a9bd-43d6-8907-208933e4d933",
+        "matchId": null,
+        "rank": 32,
+        "names": [
+          null,
+          null,
+          "Ras V",
+          null,
+          "3xGo"
+        ]
+      },
+      {
+        "value": 77600,
+        "entityId": "21d06907-1062-4a4c-a0de-53c556596755_47b3af24-f123-4464-93e9-0573f9ccd113_74819a72-da5b-4b28-b485-62791f5c911e_98a91436-b88d-4da7-b387-06ad5fbe330f_fd004367-8c8c-4873-a5b2-f93beed34017",
+        "matchId": null,
+        "rank": 33,
+        "names": [
+          "Yissuss",
+          "Liiukiin",
+          "Urimas",
+          "playerxafk",
+          "YamaGuchI"
+        ]
+      },
+      {
+        "value": 75425,
+        "entityId": "13df5c30-66ec-45b1-8aab-16e043627518_3d3f2a05-389e-4823-909c-4851e6a09e4f_4bf27e2b-8347-407f-9ea2-ab9b587160a5_7f8ccff7-6815-486f-a44a-fbb5f308f47c_885cfc02-4881-4f4c-8d2d-22f9f0907ba9",
+        "matchId": null,
+        "rank": 34,
+        "names": [
+          null,
+          null,
+          "Ras V",
+          "Bendzor",
+          null
+        ]
+      },
+      {
+        "value": 75175,
+        "entityId": "45e7d640-b6a6-48a1-8d0f-5e4ffa995edd_4e826771-5536-4599-94fb-112bd18a4ea2_518c8d74-b773-4ca1-87bd-015a95d47e21_679613af-e56e-4bf8-9dfc-39eb443b997c_7ee16b28-b499-45dc-9c97-8917773f3604",
+        "matchId": null,
+        "rank": 35,
+        "names": [
+          "Systemixx",
+          "Rox0gaming 2",
+          "GreenBerry29",
+          "xRockk",
+          "SyLaRxP"
+        ]
+      },
+      {
+        "value": 74025,
+        "entityId": "0038c022-7162-42e5-bf99-aa31f4e29bed_4e826771-5536-4599-94fb-112bd18a4ea2_5798bab8-c8bf-4269-9b74-eabfb6ee2c5e_ded9ee17-0e76-438f-8905-ab26d3614541_ff3445f1-885e-4477-b2eb-b403069730c4",
+        "matchId": null,
+        "rank": 36,
+        "names": [
+          "Caton le Censeur",
+          "Rox0gaming 2",
+          "Papa Bear322",
+          "Ritka",
+          "EvenbetterKO"
+        ]
+      },
+      {
+        "value": 73825,
+        "entityId": "13df5c30-66ec-45b1-8aab-16e043627518_4bf27e2b-8347-407f-9ea2-ab9b587160a5_7f8ccff7-6815-486f-a44a-fbb5f308f47c_885cfc02-4881-4f4c-8d2d-22f9f0907ba9_eb852454-b1a7-4293-bece-7d7c7d73e3ce",
+        "matchId": null,
+        "rank": 37,
+        "names": [
+          null,
+          "Ras V",
+          "Bendzor",
+          null,
+          "SeaDoggo"
+        ]
+      },
+      {
+        "value": 73700,
+        "entityId": "2b91b45d-a852-4f00-b3a2-a27380909326_2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_457468ce-18a1-4e56-a8fc-c3562a89470b_45e7d640-b6a6-48a1-8d0f-5e4ffa995edd_a5d70cdc-63ed-4d2f-8d3a-246db3b00963",
+        "matchId": null,
+        "rank": 38,
+        "names": [
+          "P-oPy-ette",
+          "EfeAlanbel",
+          "h4rryPotter",
+          "Systemixx",
+          "YoungR0se"
+        ]
+      },
+      {
+        "value": 73340,
+        "entityId": "3863999c-7e0d-4a2c-911a-adc874d7f29c_44bbdd78-3594-4a5c-bb72-6493e0fd1e0c_67e2d8ca-e7a3-4fc9-8cb4-b82baebb0cc4_89d051a7-d266-43b1-b863-ccb27aa5dbed_b9a3812a-48d6-401c-8d8f-858b925caf11",
+        "matchId": null,
+        "rank": 39,
+        "names": [
+          "lLangi",
+          "ToDDy96",
+          "JIGG00",
+          "YazMasvesely",
+          "AllEyesOnMe77"
+        ]
+      },
+      {
+        "value": 73050,
+        "entityId": "00ee0c1c-a3fe-43fb-8017-b97927b9a494_4bf27e2b-8347-407f-9ea2-ab9b587160a5_54b3fccc-2fe6-4bf4-b012-36fe940e140e_68c097b8-033a-4fae-a82b-1cd4b416a0dd_7f8ccff7-6815-486f-a44a-fbb5f308f47c",
+        "matchId": null,
+        "rank": 40,
+        "names": [
+          null,
+          "Ras V",
+          "M00NL1GHT",
+          null,
+          "Bendzor"
+        ]
+      },
+      {
+        "value": 71920,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_2c0d90be-3786-4c5d-b0e7-8138e79a3ea3_518c8d74-b773-4ca1-87bd-015a95d47e21_aa3c8ca4-625f-47cf-a955-ef97fecfc095_c425fb0e-bd3b-4772-8482-ce8eb7395233",
+        "matchId": null,
+        "rank": 41,
+        "names": [
+          "james193",
+          "xRuns",
+          "GreenBerry29",
+          "oPy",
+          "Qzin"
+        ]
+      },
+      {
+        "value": 71800,
+        "entityId": "1c7966fb-47cf-48bf-ade6-0e66e01b18a8_4c5c7227-20cc-4c4d-b204-d3103ec4bf37_6f43d351-7a1b-4946-9f57-1f37ca948893_72621cb9-56b5-45ed-b0f2-5f7a874daabc_fd004367-8c8c-4873-a5b2-f93beed34017",
+        "matchId": null,
+        "rank": 42,
+        "names": [
+          "Txetxuu",
+          "Myrastalia",
+          "RevokeR7",
+          "Stempiato",
+          "YamaGuchI"
+        ]
+      },
+      {
+        "value": 70450,
+        "entityId": "0d476fa0-407f-443e-bfd5-f2dd94720029_15e9e539-4cdb-4862-97e9-755e6b5cfc13_682bf59e-736b-46b6-b1b2-f42de01e496c_6f43d351-7a1b-4946-9f57-1f37ca948893_a5a674e5-7e64-4657-ab1a-5db9d95e7a38",
+        "matchId": null,
+        "rank": 43,
+        "names": [
+          "Abo Saleh",
+          "Hoksheleto",
+          "Sir Abed",
+          "RevokeR7",
+          "Be Heroo"
+        ]
+      },
+      {
+        "value": 70025,
+        "entityId": "00ee0c1c-a3fe-43fb-8017-b97927b9a494_4bf27e2b-8347-407f-9ea2-ab9b587160a5_8ed20890-a9bd-43d6-8907-208933e4d933_c82ef584-ef6a-4e70-a498-82cea0386da1_eb852454-b1a7-4293-bece-7d7c7d73e3ce",
+        "matchId": null,
+        "rank": 44,
+        "names": [
+          null,
+          "Ras V",
+          "3xGo",
+          "_Zarathustra",
+          "SeaDoggo"
+        ]
+      },
+      {
+        "value": 69675,
+        "entityId": "162f334f-5b1d-4e9e-a225-f09ab6058a10_1aab2001-e786-46bd-9237-a7c5d71b78a7_21d06907-1062-4a4c-a0de-53c556596755_2cd44ccc-f511-468d-90c3-4e57bdeca1de_43bdec1b-9ccb-4f39-820a-6bcc2e3ea9af",
+        "matchId": null,
+        "rank": 45,
+        "names": [
+          "iFleky",
+          "Rename16211",
+          "Yissuss",
+          "Rodri24",
+          "GROOM"
+        ]
+      },
+      {
+        "value": 69250,
+        "entityId": "13df5c30-66ec-45b1-8aab-16e043627518_4bf27e2b-8347-407f-9ea2-ab9b587160a5_68c097b8-033a-4fae-a82b-1cd4b416a0dd_7f8ccff7-6815-486f-a44a-fbb5f308f47c_885cfc02-4881-4f4c-8d2d-22f9f0907ba9",
+        "matchId": null,
+        "rank": 46,
+        "names": [
+          null,
+          "Ras V",
+          null,
+          "Bendzor",
+          null
+        ]
+      },
+      {
+        "value": 69060,
+        "entityId": "2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_44bbdd78-3594-4a5c-bb72-6493e0fd1e0c_67e2d8ca-e7a3-4fc9-8cb4-b82baebb0cc4_aa3c8ca4-625f-47cf-a955-ef97fecfc095_ded9ee17-0e76-438f-8905-ab26d3614541",
+        "matchId": null,
+        "rank": 47,
+        "names": [
+          "EfeAlanbel",
+          "ToDDy96",
+          "JIGG00",
+          "oPy",
+          "Ritka"
+        ]
+      },
+      {
+        "value": 68325,
+        "entityId": "13df5c30-66ec-45b1-8aab-16e043627518_4bf27e2b-8347-407f-9ea2-ab9b587160a5_7f8ccff7-6815-486f-a44a-fbb5f308f47c_885cfc02-4881-4f4c-8d2d-22f9f0907ba9_98176e7a-7c9a-4ee9-8d8b-f6431b55112e",
+        "matchId": null,
+        "rank": 48,
+        "names": [
+          null,
+          "Ras V",
+          "Bendzor",
+          null,
+          null
+        ]
+      },
+      {
+        "value": 67625,
+        "entityId": "00ee0c1c-a3fe-43fb-8017-b97927b9a494_4bf27e2b-8347-407f-9ea2-ab9b587160a5_8ed20890-a9bd-43d6-8907-208933e4d933_c82ef584-ef6a-4e70-a498-82cea0386da1_e171438c-41c3-4f9f-b954-ca40656f8db6",
+        "matchId": null,
+        "rank": 49,
+        "names": [
+          null,
+          "Ras V",
+          "3xGo",
+          "_Zarathustra",
+          "Deepes"
+        ]
+      },
+      {
+        "value": 66120,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_518c8d74-b773-4ca1-87bd-015a95d47e21_679613af-e56e-4bf8-9dfc-39eb443b997c_8b869b26-cef5-4494-a021-30f80bd63082_f7ff0460-c083-4371-9bb4-0440aa235446",
+        "matchId": null,
+        "rank": 50,
+        "names": [
+          "james193",
+          "GreenBerry29",
+          "xRockk",
+          "Gandalfgunshot",
+          "SirGregorClegane"
+        ]
+      },
+      {
+        "value": 65620,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_158cf4a3-95ed-4b77-8b07-e7634a3716ce_2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_679613af-e56e-4bf8-9dfc-39eb443b997c_c1120fbf-c45e-4068-802f-307b5b6e7ce5",
+        "matchId": null,
+        "rank": 51,
+        "names": [
+          "james193",
+          "SyLaRxD",
+          "EfeAlanbel",
+          "xRockk",
+          "daGBoNd"
+        ]
+      },
+      {
+        "value": 64420,
+        "entityId": "2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_62129f9a-2d40-4963-96c7-bdb90fbae2d2_a6aa6149-025d-4e0c-94c9-4440af99c80f_aa3c8ca4-625f-47cf-a955-ef97fecfc095_ded9ee17-0e76-438f-8905-ab26d3614541",
+        "matchId": null,
+        "rank": 52,
+        "names": [
+          "EfeAlanbel",
+          "pyromaniac1990",
+          "Neishatun",
+          "oPy",
+          "Ritka"
+        ]
+      },
+      {
+        "value": 64250,
+        "entityId": "1c7966fb-47cf-48bf-ade6-0e66e01b18a8_2bad4f55-260d-43ec-9673-32f747241078_4c5c7227-20cc-4c4d-b204-d3103ec4bf37_5b14bd48-31f9-46c5-8613-e8861e2b0340_72621cb9-56b5-45ed-b0f2-5f7a874daabc",
+        "matchId": null,
+        "rank": 53,
+        "names": [
+          "Txetxuu",
+          "Sultaq",
+          "Myrastalia",
+          "Eletto",
+          "Stempiato"
+        ]
+      },
+      {
+        "value": 63850,
+        "entityId": "00ee0c1c-a3fe-43fb-8017-b97927b9a494_4bf27e2b-8347-407f-9ea2-ab9b587160a5_63dd2f7e-657c-4578-b2fe-a88a1f55b72f_93f2d8e3-800d-421f-b810-b68e248f44a5_c82ef584-ef6a-4e70-a498-82cea0386da1",
+        "matchId": null,
+        "rank": 54,
+        "names": [
+          null,
+          "Ras V",
+          "Firzen",
+          null,
+          "_Zarathustra"
+        ]
+      },
+      {
+        "value": 63140,
+        "entityId": "7453f3fb-2589-486b-a923-57745287a145_8cfaef48-699f-45a8-8ba9-63d63d8f37e9_9e7ece26-1e23-4cb5-a35b-f403c9d175a8_d10e1b30-34a9-43b3-a64b-92c1ef1fcf62_ff3445f1-885e-4477-b2eb-b403069730c4",
+        "matchId": null,
+        "rank": 55,
+        "names": [
+          null,
+          "tccc",
+          "DiagonaL",
+          "xSob1",
+          "EvenbetterKO"
+        ]
+      },
+      {
+        "value": 63140,
+        "entityId": "5f6d55b8-c3f7-4d9f-a361-fb055a8b6342_a5d70cdc-63ed-4d2f-8d3a-246db3b00963_bca30386-6118-42e3-8da5-924d8c55d2e3_e71ecd98-7e49-410b-bc9a-29e154f9f126_ea733c5e-9345-4587-a862-8dea697c793b",
+        "matchId": null,
+        "rank": 55,
+        "names": [
+          "Pumalolakina",
+          "YoungR0se",
+          "supwitch",
+          "rivzone",
+          "Snanioliq8"
+        ]
+      },
+      {
+        "value": 63100,
+        "entityId": "2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_622f9c49-f85b-4036-bc85-c9700db0049f_8b869b26-cef5-4494-a021-30f80bd63082_a6aa6149-025d-4e0c-94c9-4440af99c80f_d0febe4f-6349-4e58-abd5-5062b87b12f2",
+        "matchId": null,
+        "rank": 57,
+        "names": [
+          "EfeAlanbel",
+          "Atlant737",
+          "Gandalfgunshot",
+          "Neishatun",
+          "H4rryPotterE"
+        ]
+      },
+      {
+        "value": 62720,
+        "entityId": "5c336a28-7594-4a79-99ab-aea9e246d381_89d051a7-d266-43b1-b863-ccb27aa5dbed_aeb2ffe9-0c8c-4633-ae87-f2dbba5ee3bd_b3430655-8bbb-4475-ab09-fa8aa64a41af_d1e55697-2ea0-4947-9e1a-1f1b10836bb3",
+        "matchId": null,
+        "rank": 58,
+        "names": [
+          "Shaq'a",
+          "YazMasvesely",
+          "Deadtrace",
+          "Hhenkka",
+          null
+        ]
+      },
+      {
+        "value": 62500,
+        "entityId": "1e9ddba4-cbf5-4068-b584-6e25be64fae5_2698cfaf-0b31-465a-8271-684f74eefd1a_2cc19a6a-7f65-4aa5-af3a-7e5bc9a4c19c_3289d729-e090-4871-a4c7-3c59ecbf3e7a_ddb7a091-273b-4b9f-8729-2dd3ad9453a4",
+        "matchId": null,
+        "rank": 59,
+        "names": [
+          "HioriKunn",
+          "Intxitxu",
+          "TOM HOUDINI",
+          "LightInYourEyes",
+          "Empty113"
+        ]
+      },
+      {
+        "value": 62020,
+        "entityId": "12a67cc1-f9a1-4269-bcf2-228b4ad7847c_15e9e539-4cdb-4862-97e9-755e6b5cfc13_3c4e0fee-d3a1-4714-b50a-83e70a48b05c_7e54d1a6-fdb3-42e7-9a68-e5b402e46b3c_f7ff0460-c083-4371-9bb4-0440aa235446",
+        "matchId": null,
+        "rank": 60,
+        "names": [
+          "Nayra Nevermore",
+          "Hoksheleto",
+          "Hyuse Kronin",
+          "Carissa",
+          "SirGregorClegane"
+        ]
+      },
+      {
+        "value": 61250,
+        "entityId": "1c79ab1d-45b2-44a8-8c57-3b42d6e1bb52_2ff43080-868d-4afb-b377-5c96b904d598_49d0bd88-66f0-4c41-9ff4-7a6cbb07e28b_65fea202-beed-47b5-9b3c-d150ede1a4a9_be7513a0-8b06-404c-9676-45a7907ffd01",
+        "matchId": null,
+        "rank": 61,
+        "names": [
+          null,
+          "DarkSaphirya",
+          "Carter95",
+          "danyturbo",
+          "thebigredgibbon"
+        ]
+      },
+      {
+        "value": 61050,
+        "entityId": "09b9a441-f464-4e8a-8e3a-b3bc86dc15c4_60f989f5-a2f2-47db-a32f-b13ea338bcb7_6d125044-f21b-4e7d-a419-187162bc266c_837fbeb3-c03a-4451-85eb-4071ed1094ca_9202be10-3cd3-44ae-9da2-c9e41897b56e",
+        "matchId": null,
+        "rank": 62,
+        "names": [
+          "Syneticx",
+          null,
+          "Pawlikus",
+          "2Doubleyou",
+          "Ischki"
+        ]
+      },
+      {
+        "value": 60440,
+        "entityId": "2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_3863999c-7e0d-4a2c-911a-adc874d7f29c_457468ce-18a1-4e56-a8fc-c3562a89470b_67e2d8ca-e7a3-4fc9-8cb4-b82baebb0cc4_d3bb9594-8546-4184-a1ce-924321c0250a",
+        "matchId": null,
+        "rank": 63,
+        "names": [
+          "EfeAlanbel",
+          "lLangi",
+          "h4rryPotter",
+          "JIGG00",
+          "rdmMoffman"
+        ]
+      },
+      {
+        "value": 60000,
+        "entityId": "238e6852-2aef-4b6e-bd19-d4f2e8c8832c_81d1898a-b987-43c2-b2f0-d917d156c4e7_845380f1-a039-4525-9f06-8bd9478fa1f6_dcab7e22-4efa-4d47-9c3b-3bb4510884cf_e171438c-41c3-4f9f-b954-ca40656f8db6",
+        "matchId": null,
+        "rank": 64,
+        "names": [
+          "Blacko9",
+          null,
+          null,
+          null,
+          "Deepes"
+        ]
+      },
+      {
+        "value": 59540,
+        "entityId": "3863999c-7e0d-4a2c-911a-adc874d7f29c_4fa396fa-d865-454d-a9c6-46fab0af0768_67e2d8ca-e7a3-4fc9-8cb4-b82baebb0cc4_89d051a7-d266-43b1-b863-ccb27aa5dbed_aa3c8ca4-625f-47cf-a955-ef97fecfc095",
+        "matchId": null,
+        "rank": 65,
+        "names": [
+          "lLangi",
+          "Zorlel1",
+          "JIGG00",
+          "YazMasvesely",
+          "oPy"
+        ]
+      },
+      {
+        "value": 59540,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_15e9e539-4cdb-4862-97e9-755e6b5cfc13_2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_679613af-e56e-4bf8-9dfc-39eb443b997c_7ee16b28-b499-45dc-9c97-8917773f3604",
+        "matchId": null,
+        "rank": 65,
+        "names": [
+          "james193",
+          "Hoksheleto",
+          "EfeAlanbel",
+          "xRockk",
+          "SyLaRxP"
+        ]
+      },
+      {
+        "value": 58920,
+        "entityId": "1103f5c7-7a35-4ea7-a03e-aa886072a35d_1af04c3f-e2aa-4319-9c64-04fd5578168a_46a60b22-53df-4d0f-9e73-ead2706aa9fc_5fed9e76-9677-44d8-b7ef-18024ac95dc0_da343877-d037-4462-8bfe-2f13cd3e8aed",
+        "matchId": null,
+        "rank": 67,
+        "names": [
+          "FB-Amrah",
+          "GlaschtGleich",
+          "Boendal2",
+          null,
+          "Eondur"
+        ]
+      },
+      {
+        "value": 56675,
+        "entityId": "1efdc713-6683-41a6-a0c2-953be8af7820_5137559b-e623-48a5-98e3-165f98ca67ff_792f3964-b670-4485-ad9f-2fe6a036fd20_9899cea7-2b5f-41ce-bd8a-482453b90c30_d702a6c0-dd76-4cbf-9293-d98301199a61",
+        "matchId": null,
+        "rank": 68,
+        "names": [
+          "SiegbertDer3",
+          "Phillhan",
+          "Lordess I",
+          "Luchs82",
+          "DocYoda"
+        ]
+      },
+      {
+        "value": 56560,
+        "entityId": "3d459518-d8c0-4612-8a0f-2280bdfd7d0a_682bf59e-736b-46b6-b1b2-f42de01e496c_7453f3fb-2589-486b-a923-57745287a145_9e7ece26-1e23-4cb5-a35b-f403c9d175a8_b3430655-8bbb-4475-ab09-fa8aa64a41af",
+        "matchId": null,
+        "rank": 69,
+        "names": [
+          "Valairon",
+          "Sir Abed",
+          null,
+          "DiagonaL",
+          "Hhenkka"
+        ]
+      },
+      {
+        "value": 55560,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_518c8d74-b773-4ca1-87bd-015a95d47e21_679613af-e56e-4bf8-9dfc-39eb443b997c_7ee16b28-b499-45dc-9c97-8917773f3604_ec775bd3-bda1-4620-8ca1-7e40aa48f221",
+        "matchId": null,
+        "rank": 70,
+        "names": [
+          "james193",
+          "GreenBerry29",
+          "xRockk",
+          "SyLaRxP",
+          "Buuky"
+        ]
+      },
+      {
+        "value": 54480,
+        "entityId": "7453f3fb-2589-486b-a923-57745287a145_89d051a7-d266-43b1-b863-ccb27aa5dbed_9e7ece26-1e23-4cb5-a35b-f403c9d175a8_b3430655-8bbb-4475-ab09-fa8aa64a41af_c880f82b-9116-4dcd-86c6-98ef3eb8fa02",
+        "matchId": null,
+        "rank": 71,
+        "names": [
+          null,
+          "YazMasvesely",
+          "DiagonaL",
+          "Hhenkka",
+          "M o 0 n D o C"
+        ]
+      },
+      {
+        "value": 54100,
+        "entityId": "44bbdd78-3594-4a5c-bb72-6493e0fd1e0c_8cfaef48-699f-45a8-8ba9-63d63d8f37e9_b9a3812a-48d6-401c-8d8f-858b925caf11_eba69aed-a201-40f8-ac80-0ee606a5b3ac_ff3445f1-885e-4477-b2eb-b403069730c4",
+        "matchId": null,
+        "rank": 72,
+        "names": [
+          "ToDDy96",
+          "tccc",
+          "AllEyesOnMe77",
+          "TTVEfeAlanbel",
+          "EvenbetterKO"
+        ]
+      },
+      {
+        "value": 52815,
+        "entityId": "44bbdd78-3594-4a5c-bb72-6493e0fd1e0c_67e2d8ca-e7a3-4fc9-8cb4-b82baebb0cc4_89d051a7-d266-43b1-b863-ccb27aa5dbed_b9a3812a-48d6-401c-8d8f-858b925caf11_c880f82b-9116-4dcd-86c6-98ef3eb8fa02",
+        "matchId": null,
+        "rank": 73,
+        "names": [
+          "ToDDy96",
+          "JIGG00",
+          "YazMasvesely",
+          "AllEyesOnMe77",
+          "M o 0 n D o C"
+        ]
+      },
+      {
+        "value": 52360,
+        "entityId": "0b5f1fb2-dfba-4d8f-886f-a21397334ecb_32436fef-aa8c-43b4-b471-6e4ead8fb409_5e7e1db8-1681-4341-a8d4-15e3a57c7434_7453f3fb-2589-486b-a923-57745287a145_e413a211-4557-489a-bde1-ac7cef093c40",
+        "matchId": null,
+        "rank": 74,
+        "names": [
+          "Moback",
+          "Leannael",
+          "SAUVAGE FR69",
+          null,
+          "gh3o3stt"
+        ]
+      },
+      {
+        "value": 51380,
+        "entityId": "1c7966fb-47cf-48bf-ade6-0e66e01b18a8_3d459518-d8c0-4612-8a0f-2280bdfd7d0a_457468ce-18a1-4e56-a8fc-c3562a89470b_4c5c7227-20cc-4c4d-b204-d3103ec4bf37_fe90a73a-ba38-467c-8df8-1c7f4447dc94",
+        "matchId": null,
+        "rank": 75,
+        "names": [
+          "Txetxuu",
+          "Valairon",
+          "h4rryPotter",
+          "Myrastalia",
+          "Syllvanna"
+        ]
+      },
+      {
+        "value": 51280,
+        "entityId": "01239cc3-89b9-4c9d-b298-3305bc1a6f3f_1da6f0dd-ce83-4302-9d88-2beb5ab271dc_4c5252c6-45fa-453e-a01c-d251dc2c81fe_904b1df2-77df-42f3-acc7-2e17b7bdd552_f3f93140-fbf9-4c70-9ce5-e421be685c38",
+        "matchId": null,
+        "rank": 76,
+        "names": [
+          null,
+          null,
+          "BangBang FR",
+          "Emeii",
+          "Medoc"
+        ]
+      },
+      {
+        "value": 51080,
+        "entityId": "00ee0c1c-a3fe-43fb-8017-b97927b9a494_4bf27e2b-8347-407f-9ea2-ab9b587160a5_68c097b8-033a-4fae-a82b-1cd4b416a0dd_81d1898a-b987-43c2-b2f0-d917d156c4e7_93f2d8e3-800d-421f-b810-b68e248f44a5",
+        "matchId": null,
+        "rank": 77,
+        "names": [
+          null,
+          "Ras V",
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "value": 50800,
+        "entityId": "1aab2001-e786-46bd-9237-a7c5d71b78a7_21d06907-1062-4a4c-a0de-53c556596755_47b3af24-f123-4464-93e9-0573f9ccd113_98a91436-b88d-4da7-b387-06ad5fbe330f_fd004367-8c8c-4873-a5b2-f93beed34017",
+        "matchId": null,
+        "rank": 78,
+        "names": [
+          "Rename16211",
+          "Yissuss",
+          "Liiukiin",
+          "playerxafk",
+          "YamaGuchI"
+        ]
+      },
+      {
+        "value": 50150,
+        "entityId": "13df5c30-66ec-45b1-8aab-16e043627518_4bf27e2b-8347-407f-9ea2-ab9b587160a5_68c097b8-033a-4fae-a82b-1cd4b416a0dd_842c4690-691a-4472-a9b9-1571fa3c21fe_93f2d8e3-800d-421f-b810-b68e248f44a5",
+        "matchId": null,
+        "rank": 79,
+        "names": [
+          null,
+          "Ras V",
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "value": 50060,
+        "entityId": "1e6a7dc1-59d7-49ce-ba48-758e00a320fb_5c9eb7cc-5262-49be-83b9-2a8b497d6900_7ec9767b-3fb8-4208-8bf0-f7b69eefb10c_96ee9d11-9f71-4efe-a853-a7a1961c6fd9_b110c595-87c5-4f3e-80af-4be2fd23c7a2",
+        "matchId": null,
+        "rank": 80,
+        "names": [
+          null,
+          null,
+          null,
+          "RONALDINHO",
+          null
+        ]
+      },
+      {
+        "value": 49280,
+        "entityId": "32436fef-aa8c-43b4-b471-6e4ead8fb409_5ca78e34-b7f7-42c4-b354-13eeacd3484d_5e7e1db8-1681-4341-a8d4-15e3a57c7434_7453f3fb-2589-486b-a923-57745287a145_e413a211-4557-489a-bde1-ac7cef093c40",
+        "matchId": null,
+        "rank": 81,
+        "names": [
+          "Leannael",
+          null,
+          "SAUVAGE FR69",
+          null,
+          "gh3o3stt"
+        ]
+      },
+      {
+        "value": 48945,
+        "entityId": "2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_3863999c-7e0d-4a2c-911a-adc874d7f29c_457468ce-18a1-4e56-a8fc-c3562a89470b_5f06449b-4cce-41ac-afba-8343d6371f8b_67e2d8ca-e7a3-4fc9-8cb4-b82baebb0cc4",
+        "matchId": null,
+        "rank": 82,
+        "names": [
+          "EfeAlanbel",
+          "lLangi",
+          "h4rryPotter",
+          null,
+          "JIGG00"
+        ]
+      },
+      {
+        "value": 48740,
+        "entityId": "67e2d8ca-e7a3-4fc9-8cb4-b82baebb0cc4_aa3c8ca4-625f-47cf-a955-ef97fecfc095_c425fb0e-bd3b-4772-8482-ce8eb7395233_c880f82b-9116-4dcd-86c6-98ef3eb8fa02",
+        "matchId": null,
+        "rank": 83,
+        "names": [
+          "JIGG00",
+          "oPy",
+          "Qzin",
+          "M o 0 n D o C"
+        ]
+      },
+      {
+        "value": 48060,
+        "entityId": "21d06907-1062-4a4c-a0de-53c556596755_2c0d90be-3786-4c5d-b0e7-8138e79a3ea3_47b3af24-f123-4464-93e9-0573f9ccd113_5f06449b-4cce-41ac-afba-8343d6371f8b_ef260a81-2a6e-4a56-a359-a75a0b0b7dcb",
+        "matchId": null,
+        "rank": 84,
+        "names": [
+          "Yissuss",
+          "xRuns",
+          "Liiukiin",
+          null,
+          "vgrace"
+        ]
+      },
+      {
+        "value": 47925,
+        "entityId": "159cc493-3261-4f97-800b-ab1b1206a388_1ccc39ea-536b-427e-aac6-8e8c23f6bbb2_81d1898a-b987-43c2-b2f0-d917d156c4e7_845380f1-a039-4525-9f06-8bd9478fa1f6_dcab7e22-4efa-4d47-9c3b-3bb4510884cf",
+        "matchId": null,
+        "rank": 85,
+        "names": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "value": 44675,
+        "entityId": "11fd769e-921c-43f2-8b29-b3ee51fa958d_6fc0d65f-dc14-4363-91b7-42c81de21d52_c889ce81-a69c-4eb5-ae64-3e51c92cf7b8_ceb367d8-1ed5-40e2-9e29-76c5a6db8e10_ef7641ca-6266-4cbe-bd1f-a8c35d416930",
+        "matchId": null,
+        "rank": 86,
+        "names": [
+          "Fibrissimo",
+          null,
+          "UniqLithic",
+          null,
+          "NAZGUL ANDRE"
+        ]
+      },
+      {
+        "value": 44565,
+        "entityId": "0d476fa0-407f-443e-bfd5-f2dd94720029_15e9e539-4cdb-4862-97e9-755e6b5cfc13_45e7d640-b6a6-48a1-8d0f-5e4ffa995edd_8cfaef48-699f-45a8-8ba9-63d63d8f37e9_e71ecd98-7e49-410b-bc9a-29e154f9f126",
+        "matchId": null,
+        "rank": 87,
+        "names": [
+          "Abo Saleh",
+          "Hoksheleto",
+          "Systemixx",
+          "tccc",
+          "rivzone"
+        ]
+      },
+      {
+        "value": 44460,
+        "entityId": "7963d989-e971-4858-a081-a57d27c0badb_8cfaef48-699f-45a8-8ba9-63d63d8f37e9_b9a3812a-48d6-401c-8d8f-858b925caf11_c880f82b-9116-4dcd-86c6-98ef3eb8fa02_ff3445f1-885e-4477-b2eb-b403069730c4",
+        "matchId": null,
+        "rank": 88,
+        "names": [
+          "Morok Baal",
+          "tccc",
+          "AllEyesOnMe77",
+          "M o 0 n D o C",
+          "EvenbetterKO"
+        ]
+      },
+      {
+        "value": 43560,
+        "entityId": "21d06907-1062-4a4c-a0de-53c556596755_2b91b45d-a852-4f00-b3a2-a27380909326_2c0d90be-3786-4c5d-b0e7-8138e79a3ea3_47b3af24-f123-4464-93e9-0573f9ccd113_ef260a81-2a6e-4a56-a359-a75a0b0b7dcb",
+        "matchId": null,
+        "rank": 89,
+        "names": [
+          "Yissuss",
+          "P-oPy-ette",
+          "xRuns",
+          "Liiukiin",
+          "vgrace"
+        ]
+      },
+      {
+        "value": 43260,
+        "entityId": "0038c022-7162-42e5-bf99-aa31f4e29bed_a6aa6149-025d-4e0c-94c9-4440af99c80f_b3430655-8bbb-4475-ab09-fa8aa64a41af_d0febe4f-6349-4e58-abd5-5062b87b12f2_eba69aed-a201-40f8-ac80-0ee606a5b3ac",
+        "matchId": null,
+        "rank": 90,
+        "names": [
+          "Caton le Censeur",
+          "Neishatun",
+          "Hhenkka",
+          "H4rryPotterE",
+          "TTVEfeAlanbel"
+        ]
+      },
+      {
+        "value": 42700,
+        "entityId": "132066c3-aa0b-42eb-9b5b-40699a36eabe_4562e452-1eb9-43a2-9bc4-fb118cc93a61_5e071e83-9585-476d-a4ca-bb337dc798b1_65e0a407-a8ab-4bf6-aa3d-48a576fbca6e_b110c595-87c5-4f3e-80af-4be2fd23c7a2",
+        "matchId": null,
+        "rank": 91,
+        "names": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "value": 42560,
+        "entityId": "0baaaa06-a74a-42f8-a437-a63c4bd68038_1c7966fb-47cf-48bf-ade6-0e66e01b18a8_2bad4f55-260d-43ec-9673-32f747241078_4c5c7227-20cc-4c4d-b204-d3103ec4bf37_6f43d351-7a1b-4946-9f57-1f37ca948893",
+        "matchId": null,
+        "rank": 92,
+        "names": [
+          null,
+          "Txetxuu",
+          "Sultaq",
+          "Myrastalia",
+          "RevokeR7"
+        ]
+      },
+      {
+        "value": 42340,
+        "entityId": "1aab2001-e786-46bd-9237-a7c5d71b78a7_21d06907-1062-4a4c-a0de-53c556596755_47b3af24-f123-4464-93e9-0573f9ccd113_619234cd-f3aa-45ec-affe-3a20c3726308_b63e0e13-48f9-4c2e-8081-7cba6edd1ba7",
+        "matchId": null,
+        "rank": 93,
+        "names": [
+          "Rename16211",
+          "Yissuss",
+          "Liiukiin",
+          "PudinG35",
+          "FromThe80s"
+        ]
+      },
+      {
+        "value": 42285,
+        "entityId": "682bf59e-736b-46b6-b1b2-f42de01e496c_6f43d351-7a1b-4946-9f57-1f37ca948893_bd07055b-23da-497e-88c5-b72a5f5251d7_ef260a81-2a6e-4a56-a359-a75a0b0b7dcb_fd004367-8c8c-4873-a5b2-f93beed34017",
+        "matchId": null,
+        "rank": 94,
+        "names": [
+          "Sir Abed",
+          "RevokeR7",
+          "Graisse O'Mollet",
+          "vgrace",
+          "YamaGuchI"
+        ]
+      },
+      {
+        "value": 39700,
+        "entityId": "0038c022-7162-42e5-bf99-aa31f4e29bed_457468ce-18a1-4e56-a8fc-c3562a89470b_6923256a-cca8-46fb-a2b1-542d69ea2a88_6f43d351-7a1b-4946-9f57-1f37ca948893_eba69aed-a201-40f8-ac80-0ee606a5b3ac",
+        "matchId": null,
+        "rank": 95,
+        "names": [
+          "Caton le Censeur",
+          "h4rryPotter",
+          "Varrange",
+          "RevokeR7",
+          "TTVEfeAlanbel"
+        ]
+      },
+      {
+        "value": 39600,
+        "entityId": "13df5c30-66ec-45b1-8aab-16e043627518_4bf27e2b-8347-407f-9ea2-ab9b587160a5_842c4690-691a-4472-a9b9-1571fa3c21fe_8ed20890-a9bd-43d6-8907-208933e4d933_eb852454-b1a7-4293-bece-7d7c7d73e3ce",
+        "matchId": null,
+        "rank": 96,
+        "names": [
+          null,
+          "Ras V",
+          null,
+          "3xGo",
+          "SeaDoggo"
+        ]
+      },
+      {
+        "value": 38640,
+        "entityId": "2b91b45d-a852-4f00-b3a2-a27380909326_2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_457468ce-18a1-4e56-a8fc-c3562a89470b_67e2d8ca-e7a3-4fc9-8cb4-b82baebb0cc4_8b869b26-cef5-4494-a021-30f80bd63082",
+        "matchId": null,
+        "rank": 97,
+        "names": [
+          "P-oPy-ette",
+          "EfeAlanbel",
+          "h4rryPotter",
+          "JIGG00",
+          "Gandalfgunshot"
+        ]
+      },
+      {
+        "value": 38550,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_a6aa6149-025d-4e0c-94c9-4440af99c80f_aa3c8ca4-625f-47cf-a955-ef97fecfc095_ded9ee17-0e76-438f-8905-ab26d3614541",
+        "matchId": null,
+        "rank": 98,
+        "names": [
+          "james193",
+          "EfeAlanbel",
+          "Neishatun",
+          "oPy",
+          "Ritka"
+        ]
+      },
+      {
+        "value": 37560,
+        "entityId": "355cd070-a639-4a0c-a2d1-c4d15bb502ea_8f462707-481f-4da7-a795-aae9908778e5_ab8efa65-289d-4d92-9e07-ca938102ce5f_ae1f3886-a7a4-4070-9f8a-7df5e97623ce_ec9f17b7-7ed0-4da2-8b8c-7be279790ee5",
+        "matchId": null,
+        "rank": 99,
+        "names": [
+          "PaToXy",
+          "BiIly Butcher",
+          null,
+          "sepasi",
+          null
+        ]
+      },
+      {
+        "value": 36940,
+        "entityId": "1e6a7dc1-59d7-49ce-ba48-758e00a320fb_4562e452-1eb9-43a2-9bc4-fb118cc93a61_66e9aaad-b86f-45b6-82c0-473efef5d587_7ec9767b-3fb8-4208-8bf0-f7b69eefb10c_b110c595-87c5-4f3e-80af-4be2fd23c7a2",
+        "matchId": null,
+        "rank": 100,
+        "names": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    ],
+    "leaderboardSize": 163,
+    "isBackedUp": true
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonGreatCleave00": {
+    "leaderboardEntries": [
+      {
+        "value": 660,
+        "entityId": "2bf319e1-9ccd-45a4-a636-4c06bd2bce02_7e54d1a6-fdb3-42e7-9a68-e5b402e46b3c_7f72ef37-d56c-42ff-812a-9fbeed3b9142_edf6c0ef-e9f9-4196-88b4-627d407940a7_ff6338be-e86d-4fe0-9c28-2af31f1edcbc",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "KEKWKEKW",
+          "Carissa",
+          "Sasha Braus",
+          "Elhakuna",
+          "nayaro"
+        ]
+      },
+      {
+        "value": 674,
+        "entityId": "6323f57b-1622-40c0-973d-acb4d7739dab_686e7019-714f-480c-8238-c07204fddfa4_832f4cc7-de80-408e-ac50-1233df2f243f_d10e1b30-34a9-43b3-a64b-92c1ef1fcf62_ecfccae7-8b5e-4e1e-9ff9-25c4c065c8c8",
+        "matchId": null,
+        "rank": 2,
+        "names": [
+          "Aresonia",
+          "Lo5iu",
+          "R0ziTa.-",
+          "xSob1",
+          null
+        ]
+      },
+      {
+        "value": 693,
+        "entityId": "12a67cc1-f9a1-4269-bcf2-228b4ad7847c_15e9e539-4cdb-4862-97e9-755e6b5cfc13_7e54d1a6-fdb3-42e7-9a68-e5b402e46b3c_7f72ef37-d56c-42ff-812a-9fbeed3b9142_f7ff0460-c083-4371-9bb4-0440aa235446",
+        "matchId": null,
+        "rank": 3,
+        "names": [
+          "Nayra Nevermore",
+          "Hoksheleto",
+          "Carissa",
+          "Sasha Braus",
+          "SirGregorClegane"
+        ]
+      },
+      {
+        "value": 725,
+        "entityId": "3c4e0fee-d3a1-4714-b50a-83e70a48b05c_4d6981b5-a347-4f46-85de-96a5418b24c2_7e54d1a6-fdb3-42e7-9a68-e5b402e46b3c_e71ecd98-7e49-410b-bc9a-29e154f9f126_edf6c0ef-e9f9-4196-88b4-627d407940a7",
+        "matchId": null,
+        "rank": 4,
+        "names": [
+          "Hyuse Kronin",
+          "Ze0na",
+          "Carissa",
+          "rivzone",
+          "Elhakuna"
+        ]
+      },
+      {
+        "value": 737,
+        "entityId": "1ad54fc0-8fbc-4980-99a6-8e7f512385d7_48d97908-a402-495d-af8d-5e96707719d9_518c8d74-b773-4ca1-87bd-015a95d47e21_679613af-e56e-4bf8-9dfc-39eb443b997c_7ee16b28-b499-45dc-9c97-8917773f3604",
+        "matchId": null,
+        "rank": 5,
+        "names": [
+          "Rox0gaming",
+          "Pbatata",
+          "GreenBerry29",
+          "xRockk",
+          "SyLaRxP"
+        ]
+      },
+      {
+        "value": 754,
+        "entityId": "0d476fa0-407f-443e-bfd5-f2dd94720029_4e826771-5536-4599-94fb-112bd18a4ea2_682bf59e-736b-46b6-b1b2-f42de01e496c_6f858041-0192-425c-8833-7b1876a71a74_735d7f44-7c71-4511-bbdc-0b58032a72a8",
+        "matchId": null,
+        "rank": 6,
+        "names": [
+          "Abo Saleh",
+          "Rox0gaming 2",
+          "Sir Abed",
+          "CHAOS I HERO",
+          null
+        ]
+      },
+      {
+        "value": 765,
+        "entityId": "3c4e0fee-d3a1-4714-b50a-83e70a48b05c_4d6981b5-a347-4f46-85de-96a5418b24c2_7e54d1a6-fdb3-42e7-9a68-e5b402e46b3c_e71ecd98-7e49-410b-bc9a-29e154f9f126_f7ff0460-c083-4371-9bb4-0440aa235446",
+        "matchId": null,
+        "rank": 7,
+        "names": [
+          "Hyuse Kronin",
+          "Ze0na",
+          "Carissa",
+          "rivzone",
+          "SirGregorClegane"
+        ]
+      },
+      {
+        "value": 789,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_2b91b45d-a852-4f00-b3a2-a27380909326_518c8d74-b773-4ca1-87bd-015a95d47e21_679613af-e56e-4bf8-9dfc-39eb443b997c_f7ff0460-c083-4371-9bb4-0440aa235446",
+        "matchId": null,
+        "rank": 8,
+        "names": [
+          "james193",
+          "P-oPy-ette",
+          "GreenBerry29",
+          "xRockk",
+          "SirGregorClegane"
+        ]
+      },
+      {
+        "value": 798,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_20611679-45f7-4b36-a914-07ecc2cbc7ec_518c8d74-b773-4ca1-87bd-015a95d47e21_679613af-e56e-4bf8-9dfc-39eb443b997c_aa3c8ca4-625f-47cf-a955-ef97fecfc095",
+        "matchId": null,
+        "rank": 9,
+        "names": [
+          "james193",
+          null,
+          "GreenBerry29",
+          "xRockk",
+          "oPy"
+        ]
+      },
+      {
+        "value": 798,
+        "entityId": "6323f57b-1622-40c0-973d-acb4d7739dab_832f4cc7-de80-408e-ac50-1233df2f243f_ecfccae7-8b5e-4e1e-9ff9-25c4c065c8c8_f7ff0460-c083-4371-9bb4-0440aa235446_fe90a73a-ba38-467c-8df8-1c7f4447dc94",
+        "matchId": null,
+        "rank": 9,
+        "names": [
+          "Aresonia",
+          "R0ziTa.-",
+          null,
+          "SirGregorClegane",
+          "Syllvanna"
+        ]
+      },
+      {
+        "value": 815,
+        "entityId": "679613af-e56e-4bf8-9dfc-39eb443b997c_7453f3fb-2589-486b-a923-57745287a145_8cfaef48-699f-45a8-8ba9-63d63d8f37e9_a6aa6149-025d-4e0c-94c9-4440af99c80f_aa3c8ca4-625f-47cf-a955-ef97fecfc095",
+        "matchId": null,
+        "rank": 11,
+        "names": [
+          "xRockk",
+          null,
+          "tccc",
+          "Neishatun",
+          "oPy"
+        ]
+      },
+      {
+        "value": 819,
+        "entityId": "15e9e539-4cdb-4862-97e9-755e6b5cfc13_7e54d1a6-fdb3-42e7-9a68-e5b402e46b3c_7f72ef37-d56c-42ff-812a-9fbeed3b9142_cbf99a5b-e7f4-431f-944c-64e4d3bff4f4_f7ff0460-c083-4371-9bb4-0440aa235446",
+        "matchId": null,
+        "rank": 12,
+        "names": [
+          "Hoksheleto",
+          "Carissa",
+          "Sasha Braus",
+          "TheBlightedKydl",
+          "SirGregorClegane"
+        ]
+      },
+      {
+        "value": 822,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_679613af-e56e-4bf8-9dfc-39eb443b997c_7453f3fb-2589-486b-a923-57745287a145_8cfaef48-699f-45a8-8ba9-63d63d8f37e9_aa3c8ca4-625f-47cf-a955-ef97fecfc095",
+        "matchId": null,
+        "rank": 13,
+        "names": [
+          "james193",
+          "xRockk",
+          null,
+          "tccc",
+          "oPy"
+        ]
+      },
+      {
+        "value": 836,
+        "entityId": "7453f3fb-2589-486b-a923-57745287a145_7963d989-e971-4858-a081-a57d27c0badb_8cfaef48-699f-45a8-8ba9-63d63d8f37e9_c880f82b-9116-4dcd-86c6-98ef3eb8fa02_ff3445f1-885e-4477-b2eb-b403069730c4",
+        "matchId": null,
+        "rank": 14,
+        "names": [
+          null,
+          "Morok Baal",
+          "tccc",
+          "M o 0 n D o C",
+          "EvenbetterKO"
+        ]
+      },
+      {
+        "value": 838,
+        "entityId": "5798bab8-c8bf-4269-9b74-eabfb6ee2c5e_7453f3fb-2589-486b-a923-57745287a145_b3430655-8bbb-4475-ab09-fa8aa64a41af_c880f82b-9116-4dcd-86c6-98ef3eb8fa02_ff3445f1-885e-4477-b2eb-b403069730c4",
+        "matchId": null,
+        "rank": 15,
+        "names": [
+          "Papa Bear322",
+          null,
+          "Hhenkka",
+          "M o 0 n D o C",
+          "EvenbetterKO"
+        ]
+      },
+      {
+        "value": 852,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_45e7d640-b6a6-48a1-8d0f-5e4ffa995edd_518c8d74-b773-4ca1-87bd-015a95d47e21_8b869b26-cef5-4494-a021-30f80bd63082_eba69aed-a201-40f8-ac80-0ee606a5b3ac",
+        "matchId": null,
+        "rank": 16,
+        "names": [
+          "james193",
+          "Systemixx",
+          "GreenBerry29",
+          "Gandalfgunshot",
+          "TTVEfeAlanbel"
+        ]
+      },
+      {
+        "value": 853,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_158cf4a3-95ed-4b77-8b07-e7634a3716ce_679613af-e56e-4bf8-9dfc-39eb443b997c_7453f3fb-2589-486b-a923-57745287a145_8cfaef48-699f-45a8-8ba9-63d63d8f37e9",
+        "matchId": null,
+        "rank": 17,
+        "names": [
+          "james193",
+          "SyLaRxD",
+          "xRockk",
+          null,
+          "tccc"
+        ]
+      },
+      {
+        "value": 858,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_518c8d74-b773-4ca1-87bd-015a95d47e21_679613af-e56e-4bf8-9dfc-39eb443b997c_7453f3fb-2589-486b-a923-57745287a145_eba69aed-a201-40f8-ac80-0ee606a5b3ac",
+        "matchId": null,
+        "rank": 18,
+        "names": [
+          "james193",
+          "GreenBerry29",
+          "xRockk",
+          null,
+          "TTVEfeAlanbel"
+        ]
+      },
+      {
+        "value": 862,
+        "entityId": "45e7d640-b6a6-48a1-8d0f-5e4ffa995edd_4e826771-5536-4599-94fb-112bd18a4ea2_518c8d74-b773-4ca1-87bd-015a95d47e21_679613af-e56e-4bf8-9dfc-39eb443b997c_7ee16b28-b499-45dc-9c97-8917773f3604",
+        "matchId": null,
+        "rank": 19,
+        "names": [
+          "Systemixx",
+          "Rox0gaming 2",
+          "GreenBerry29",
+          "xRockk",
+          "SyLaRxP"
+        ]
+      },
+      {
+        "value": 870,
+        "entityId": "1ad54fc0-8fbc-4980-99a6-8e7f512385d7_47b3af24-f123-4464-93e9-0573f9ccd113_518c8d74-b773-4ca1-87bd-015a95d47e21_aa3c8ca4-625f-47cf-a955-ef97fecfc095_b3430655-8bbb-4475-ab09-fa8aa64a41af",
+        "matchId": null,
+        "rank": 20,
+        "names": [
+          "Rox0gaming",
+          "Liiukiin",
+          "GreenBerry29",
+          "oPy",
+          "Hhenkka"
+        ]
+      },
+      {
+        "value": 879,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_15e9e539-4cdb-4862-97e9-755e6b5cfc13_2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_679613af-e56e-4bf8-9dfc-39eb443b997c_7ee16b28-b499-45dc-9c97-8917773f3604",
+        "matchId": null,
+        "rank": 21,
+        "names": [
+          "james193",
+          "Hoksheleto",
+          "EfeAlanbel",
+          "xRockk",
+          "SyLaRxP"
+        ]
+      },
+      {
+        "value": 890,
+        "entityId": "3863999c-7e0d-4a2c-911a-adc874d7f29c_4fa396fa-d865-454d-a9c6-46fab0af0768_67e2d8ca-e7a3-4fc9-8cb4-b82baebb0cc4_89d051a7-d266-43b1-b863-ccb27aa5dbed_aa3c8ca4-625f-47cf-a955-ef97fecfc095",
+        "matchId": null,
+        "rank": 22,
+        "names": [
+          "lLangi",
+          "Zorlel1",
+          "JIGG00",
+          "YazMasvesely",
+          "oPy"
+        ]
+      },
+      {
+        "value": 897,
+        "entityId": "3c4e0fee-d3a1-4714-b50a-83e70a48b05c_cbf99a5b-e7f4-431f-944c-64e4d3bff4f4_eb5b7f71-9758-4343-a134-534ff21d52ca_edf6c0ef-e9f9-4196-88b4-627d407940a7_fe90a73a-ba38-467c-8df8-1c7f4447dc94",
+        "matchId": null,
+        "rank": 23,
+        "names": [
+          "Hyuse Kronin",
+          "TheBlightedKydl",
+          "b-8LUE",
+          "Elhakuna",
+          "Syllvanna"
+        ]
+      },
+      {
+        "value": 908,
+        "entityId": "0038c022-7162-42e5-bf99-aa31f4e29bed_4e826771-5536-4599-94fb-112bd18a4ea2_5798bab8-c8bf-4269-9b74-eabfb6ee2c5e_ded9ee17-0e76-438f-8905-ab26d3614541_ff3445f1-885e-4477-b2eb-b403069730c4",
+        "matchId": null,
+        "rank": 24,
+        "names": [
+          "Caton le Censeur",
+          "Rox0gaming 2",
+          "Papa Bear322",
+          "Ritka",
+          "EvenbetterKO"
+        ]
+      },
+      {
+        "value": 908,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_15e9e539-4cdb-4862-97e9-755e6b5cfc13_2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_518c8d74-b773-4ca1-87bd-015a95d47e21_679613af-e56e-4bf8-9dfc-39eb443b997c",
+        "matchId": null,
+        "rank": 24,
+        "names": [
+          "james193",
+          "Hoksheleto",
+          "EfeAlanbel",
+          "GreenBerry29",
+          "xRockk"
+        ]
+      },
+      {
+        "value": 910,
+        "entityId": "4e826771-5536-4599-94fb-112bd18a4ea2_5798bab8-c8bf-4269-9b74-eabfb6ee2c5e_7453f3fb-2589-486b-a923-57745287a145_ded9ee17-0e76-438f-8905-ab26d3614541_ff3445f1-885e-4477-b2eb-b403069730c4",
+        "matchId": null,
+        "rank": 26,
+        "names": [
+          "Rox0gaming 2",
+          "Papa Bear322",
+          null,
+          "Ritka",
+          "EvenbetterKO"
+        ]
+      },
+      {
+        "value": 911,
+        "entityId": "3863999c-7e0d-4a2c-911a-adc874d7f29c_44bbdd78-3594-4a5c-bb72-6493e0fd1e0c_67e2d8ca-e7a3-4fc9-8cb4-b82baebb0cc4_89d051a7-d266-43b1-b863-ccb27aa5dbed_b9a3812a-48d6-401c-8d8f-858b925caf11",
+        "matchId": null,
+        "rank": 27,
+        "names": [
+          "lLangi",
+          "ToDDy96",
+          "JIGG00",
+          "YazMasvesely",
+          "AllEyesOnMe77"
+        ]
+      },
+      {
+        "value": 917,
+        "entityId": "7453f3fb-2589-486b-a923-57745287a145_8cfaef48-699f-45a8-8ba9-63d63d8f37e9_a5a674e5-7e64-4657-ab1a-5db9d95e7a38_d10e1b30-34a9-43b3-a64b-92c1ef1fcf62_edf6c0ef-e9f9-4196-88b4-627d407940a7",
+        "matchId": null,
+        "rank": 28,
+        "names": [
+          null,
+          "tccc",
+          "Be Heroo",
+          "xSob1",
+          "Elhakuna"
+        ]
+      },
+      {
+        "value": 931,
+        "entityId": "0d476fa0-407f-443e-bfd5-f2dd94720029_15e9e539-4cdb-4862-97e9-755e6b5cfc13_682bf59e-736b-46b6-b1b2-f42de01e496c_6f43d351-7a1b-4946-9f57-1f37ca948893_a5a674e5-7e64-4657-ab1a-5db9d95e7a38",
+        "matchId": null,
+        "rank": 29,
+        "names": [
+          "Abo Saleh",
+          "Hoksheleto",
+          "Sir Abed",
+          "RevokeR7",
+          "Be Heroo"
+        ]
+      },
+      {
+        "value": 935,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_158cf4a3-95ed-4b77-8b07-e7634a3716ce_2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_679613af-e56e-4bf8-9dfc-39eb443b997c_c1120fbf-c45e-4068-802f-307b5b6e7ce5",
+        "matchId": null,
+        "rank": 30,
+        "names": [
+          "james193",
+          "SyLaRxD",
+          "EfeAlanbel",
+          "xRockk",
+          "daGBoNd"
+        ]
+      },
+      {
+        "value": 935,
+        "entityId": "735d7f44-7c71-4511-bbdc-0b58032a72a8_7f4b3763-129a-49e0-886b-e3ad3f568bd8_a5a674e5-7e64-4657-ab1a-5db9d95e7a38_d10e1b30-34a9-43b3-a64b-92c1ef1fcf62_edf6c0ef-e9f9-4196-88b4-627d407940a7",
+        "matchId": null,
+        "rank": 30,
+        "names": [
+          null,
+          "AresoniaLX",
+          "Be Heroo",
+          "xSob1",
+          "Elhakuna"
+        ]
+      },
+      {
+        "value": 955,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_518c8d74-b773-4ca1-87bd-015a95d47e21_679613af-e56e-4bf8-9dfc-39eb443b997c_7ee16b28-b499-45dc-9c97-8917773f3604_ec775bd3-bda1-4620-8ca1-7e40aa48f221",
+        "matchId": null,
+        "rank": 32,
+        "names": [
+          "james193",
+          "GreenBerry29",
+          "xRockk",
+          "SyLaRxP",
+          "Buuky"
+        ]
+      },
+      {
+        "value": 963,
+        "entityId": "2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_44bbdd78-3594-4a5c-bb72-6493e0fd1e0c_67e2d8ca-e7a3-4fc9-8cb4-b82baebb0cc4_aa3c8ca4-625f-47cf-a955-ef97fecfc095_ded9ee17-0e76-438f-8905-ab26d3614541",
+        "matchId": null,
+        "rank": 33,
+        "names": [
+          "EfeAlanbel",
+          "ToDDy96",
+          "JIGG00",
+          "oPy",
+          "Ritka"
+        ]
+      },
+      {
+        "value": 970,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_158cf4a3-95ed-4b77-8b07-e7634a3716ce_679613af-e56e-4bf8-9dfc-39eb443b997c_8cfaef48-699f-45a8-8ba9-63d63d8f37e9_c425fb0e-bd3b-4772-8482-ce8eb7395233",
+        "matchId": null,
+        "rank": 34,
+        "names": [
+          "james193",
+          "SyLaRxD",
+          "xRockk",
+          "tccc",
+          "Qzin"
+        ]
+      },
+      {
+        "value": 981,
+        "entityId": "2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_3863999c-7e0d-4a2c-911a-adc874d7f29c_457468ce-18a1-4e56-a8fc-c3562a89470b_67e2d8ca-e7a3-4fc9-8cb4-b82baebb0cc4_d3bb9594-8546-4184-a1ce-924321c0250a",
+        "matchId": null,
+        "rank": 35,
+        "names": [
+          "EfeAlanbel",
+          "lLangi",
+          "h4rryPotter",
+          "JIGG00",
+          "rdmMoffman"
+        ]
+      },
+      {
+        "value": 995,
+        "entityId": "44bbdd78-3594-4a5c-bb72-6493e0fd1e0c_67e2d8ca-e7a3-4fc9-8cb4-b82baebb0cc4_89d051a7-d266-43b1-b863-ccb27aa5dbed_b9a3812a-48d6-401c-8d8f-858b925caf11_c880f82b-9116-4dcd-86c6-98ef3eb8fa02",
+        "matchId": null,
+        "rank": 36,
+        "names": [
+          "ToDDy96",
+          "JIGG00",
+          "YazMasvesely",
+          "AllEyesOnMe77",
+          "M o 0 n D o C"
+        ]
+      },
+      {
+        "value": 1024,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_2c0d90be-3786-4c5d-b0e7-8138e79a3ea3_518c8d74-b773-4ca1-87bd-015a95d47e21_aa3c8ca4-625f-47cf-a955-ef97fecfc095_c425fb0e-bd3b-4772-8482-ce8eb7395233",
+        "matchId": null,
+        "rank": 37,
+        "names": [
+          "james193",
+          "xRuns",
+          "GreenBerry29",
+          "oPy",
+          "Qzin"
+        ]
+      },
+      {
+        "value": 1028,
+        "entityId": "12a67cc1-f9a1-4269-bcf2-228b4ad7847c_15e9e539-4cdb-4862-97e9-755e6b5cfc13_3c4e0fee-d3a1-4714-b50a-83e70a48b05c_7e54d1a6-fdb3-42e7-9a68-e5b402e46b3c_f7ff0460-c083-4371-9bb4-0440aa235446",
+        "matchId": null,
+        "rank": 38,
+        "names": [
+          "Nayra Nevermore",
+          "Hoksheleto",
+          "Hyuse Kronin",
+          "Carissa",
+          "SirGregorClegane"
+        ]
+      },
+      {
+        "value": 1041,
+        "entityId": "457468ce-18a1-4e56-a8fc-c3562a89470b_7e54d1a6-fdb3-42e7-9a68-e5b402e46b3c_7f72ef37-d56c-42ff-812a-9fbeed3b9142_cbf99a5b-e7f4-431f-944c-64e4d3bff4f4_edf6c0ef-e9f9-4196-88b4-627d407940a7",
+        "matchId": null,
+        "rank": 39,
+        "names": [
+          "h4rryPotter",
+          "Carissa",
+          "Sasha Braus",
+          "TheBlightedKydl",
+          "Elhakuna"
+        ]
+      },
+      {
+        "value": 1043,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_518c8d74-b773-4ca1-87bd-015a95d47e21_679613af-e56e-4bf8-9dfc-39eb443b997c_8b869b26-cef5-4494-a021-30f80bd63082_f7ff0460-c083-4371-9bb4-0440aa235446",
+        "matchId": null,
+        "rank": 40,
+        "names": [
+          "james193",
+          "GreenBerry29",
+          "xRockk",
+          "Gandalfgunshot",
+          "SirGregorClegane"
+        ]
+      },
+      {
+        "value": 1046,
+        "entityId": "0038c022-7162-42e5-bf99-aa31f4e29bed_2bad4f55-260d-43ec-9673-32f747241078_9e7ece26-1e23-4cb5-a35b-f403c9d175a8_d0febe4f-6349-4e58-abd5-5062b87b12f2_eba69aed-a201-40f8-ac80-0ee606a5b3ac",
+        "matchId": null,
+        "rank": 41,
+        "names": [
+          "Caton le Censeur",
+          "Sultaq",
+          "DiagonaL",
+          "H4rryPotterE",
+          "TTVEfeAlanbel"
+        ]
+      },
+      {
+        "value": 1081,
+        "entityId": "2b91b45d-a852-4f00-b3a2-a27380909326_2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_457468ce-18a1-4e56-a8fc-c3562a89470b_45e7d640-b6a6-48a1-8d0f-5e4ffa995edd_a5d70cdc-63ed-4d2f-8d3a-246db3b00963",
+        "matchId": null,
+        "rank": 42,
+        "names": [
+          "P-oPy-ette",
+          "EfeAlanbel",
+          "h4rryPotter",
+          "Systemixx",
+          "YoungR0se"
+        ]
+      },
+      {
+        "value": 1125,
+        "entityId": "7453f3fb-2589-486b-a923-57745287a145_89d051a7-d266-43b1-b863-ccb27aa5dbed_9e7ece26-1e23-4cb5-a35b-f403c9d175a8_b3430655-8bbb-4475-ab09-fa8aa64a41af_c880f82b-9116-4dcd-86c6-98ef3eb8fa02",
+        "matchId": null,
+        "rank": 43,
+        "names": [
+          null,
+          "YazMasvesely",
+          "DiagonaL",
+          "Hhenkka",
+          "M o 0 n D o C"
+        ]
+      },
+      {
+        "value": 1145,
+        "entityId": "1e9ddba4-cbf5-4068-b584-6e25be64fae5_2698cfaf-0b31-465a-8271-684f74eefd1a_2cc19a6a-7f65-4aa5-af3a-7e5bc9a4c19c_60768d0a-74f8-4b0b-beb5-35fd99b7c083_ddb7a091-273b-4b9f-8729-2dd3ad9453a4",
+        "matchId": null,
+        "rank": 44,
+        "names": [
+          "HioriKunn",
+          "Intxitxu",
+          "TOM HOUDINI",
+          "Takeru",
+          "Empty113"
+        ]
+      },
+      {
+        "value": 1165,
+        "entityId": "051de0af-e7eb-44f6-809b-2b98bc83cd3f_2b91b45d-a852-4f00-b3a2-a27380909326_518c8d74-b773-4ca1-87bd-015a95d47e21_679613af-e56e-4bf8-9dfc-39eb443b997c_cbf99a5b-e7f4-431f-944c-64e4d3bff4f4",
+        "matchId": null,
+        "rank": 45,
+        "names": [
+          "james193",
+          "P-oPy-ette",
+          "GreenBerry29",
+          "xRockk",
+          "TheBlightedKydl"
+        ]
+      },
+      {
+        "value": 1172,
+        "entityId": "7453f3fb-2589-486b-a923-57745287a145_8cfaef48-699f-45a8-8ba9-63d63d8f37e9_9e7ece26-1e23-4cb5-a35b-f403c9d175a8_d10e1b30-34a9-43b3-a64b-92c1ef1fcf62_ff3445f1-885e-4477-b2eb-b403069730c4",
+        "matchId": null,
+        "rank": 46,
+        "names": [
+          null,
+          "tccc",
+          "DiagonaL",
+          "xSob1",
+          "EvenbetterKO"
+        ]
+      },
+      {
+        "value": 1198,
+        "entityId": "15e9e539-4cdb-4862-97e9-755e6b5cfc13_2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_457468ce-18a1-4e56-a8fc-c3562a89470b_45e7d640-b6a6-48a1-8d0f-5e4ffa995edd_8b869b26-cef5-4494-a021-30f80bd63082",
+        "matchId": null,
+        "rank": 47,
+        "names": [
+          "Hoksheleto",
+          "EfeAlanbel",
+          "h4rryPotter",
+          "Systemixx",
+          "Gandalfgunshot"
+        ]
+      },
+      {
+        "value": 1208,
+        "entityId": "2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_62129f9a-2d40-4963-96c7-bdb90fbae2d2_a6aa6149-025d-4e0c-94c9-4440af99c80f_aa3c8ca4-625f-47cf-a955-ef97fecfc095_ded9ee17-0e76-438f-8905-ab26d3614541",
+        "matchId": null,
+        "rank": 48,
+        "names": [
+          "EfeAlanbel",
+          "pyromaniac1990",
+          "Neishatun",
+          "oPy",
+          "Ritka"
+        ]
+      },
+      {
+        "value": 1244,
+        "entityId": "44bbdd78-3594-4a5c-bb72-6493e0fd1e0c_8cfaef48-699f-45a8-8ba9-63d63d8f37e9_b9a3812a-48d6-401c-8d8f-858b925caf11_eba69aed-a201-40f8-ac80-0ee606a5b3ac_ff3445f1-885e-4477-b2eb-b403069730c4",
+        "matchId": null,
+        "rank": 49,
+        "names": [
+          "ToDDy96",
+          "tccc",
+          "AllEyesOnMe77",
+          "TTVEfeAlanbel",
+          "EvenbetterKO"
+        ]
+      },
+      {
+        "value": 1292,
+        "entityId": "5f6d55b8-c3f7-4d9f-a361-fb055a8b6342_a5d70cdc-63ed-4d2f-8d3a-246db3b00963_bca30386-6118-42e3-8da5-924d8c55d2e3_e71ecd98-7e49-410b-bc9a-29e154f9f126_ea733c5e-9345-4587-a862-8dea697c793b",
+        "matchId": null,
+        "rank": 50,
+        "names": [
+          "Pumalolakina",
+          "YoungR0se",
+          "supwitch",
+          "rivzone",
+          "Snanioliq8"
+        ]
+      },
+      {
+        "value": 1324,
+        "entityId": "00ee0c1c-a3fe-43fb-8017-b97927b9a494_4bf27e2b-8347-407f-9ea2-ab9b587160a5_8ed20890-a9bd-43d6-8907-208933e4d933_c82ef584-ef6a-4e70-a498-82cea0386da1_e171438c-41c3-4f9f-b954-ca40656f8db6",
+        "matchId": null,
+        "rank": 51,
+        "names": [
+          null,
+          "Ras V",
+          "3xGo",
+          "_Zarathustra",
+          "Deepes"
+        ]
+      },
+      {
+        "value": 1352,
+        "entityId": "1e9ddba4-cbf5-4068-b584-6e25be64fae5_2698cfaf-0b31-465a-8271-684f74eefd1a_2cc19a6a-7f65-4aa5-af3a-7e5bc9a4c19c_3289d729-e090-4871-a4c7-3c59ecbf3e7a_ddb7a091-273b-4b9f-8729-2dd3ad9453a4",
+        "matchId": null,
+        "rank": 52,
+        "names": [
+          "HioriKunn",
+          "Intxitxu",
+          "TOM HOUDINI",
+          "LightInYourEyes",
+          "Empty113"
+        ]
+      },
+      {
+        "value": 1376,
+        "entityId": "13df5c30-66ec-45b1-8aab-16e043627518_4bf27e2b-8347-407f-9ea2-ab9b587160a5_7f8ccff7-6815-486f-a44a-fbb5f308f47c_885cfc02-4881-4f4c-8d2d-22f9f0907ba9_eb852454-b1a7-4293-bece-7d7c7d73e3ce",
+        "matchId": null,
+        "rank": 53,
+        "names": [
+          null,
+          "Ras V",
+          "Bendzor",
+          null,
+          "SeaDoggo"
+        ]
+      },
+      {
+        "value": 1401,
+        "entityId": "3d459518-d8c0-4612-8a0f-2280bdfd7d0a_682bf59e-736b-46b6-b1b2-f42de01e496c_7453f3fb-2589-486b-a923-57745287a145_9e7ece26-1e23-4cb5-a35b-f403c9d175a8_b3430655-8bbb-4475-ab09-fa8aa64a41af",
+        "matchId": null,
+        "rank": 54,
+        "names": [
+          "Valairon",
+          "Sir Abed",
+          null,
+          "DiagonaL",
+          "Hhenkka"
+        ]
+      },
+      {
+        "value": 1419,
+        "entityId": "00ee0c1c-a3fe-43fb-8017-b97927b9a494_13df5c30-66ec-45b1-8aab-16e043627518_4bf27e2b-8347-407f-9ea2-ab9b587160a5_885cfc02-4881-4f4c-8d2d-22f9f0907ba9_8ed20890-a9bd-43d6-8907-208933e4d933",
+        "matchId": null,
+        "rank": 55,
+        "names": [
+          null,
+          null,
+          "Ras V",
+          null,
+          "3xGo"
+        ]
+      },
+      {
+        "value": 1428,
+        "entityId": "00ee0c1c-a3fe-43fb-8017-b97927b9a494_4bf27e2b-8347-407f-9ea2-ab9b587160a5_8ed20890-a9bd-43d6-8907-208933e4d933_c82ef584-ef6a-4e70-a498-82cea0386da1_eb852454-b1a7-4293-bece-7d7c7d73e3ce",
+        "matchId": null,
+        "rank": 56,
+        "names": [
+          null,
+          "Ras V",
+          "3xGo",
+          "_Zarathustra",
+          "SeaDoggo"
+        ]
+      },
+      {
+        "value": 1493,
+        "entityId": "5c336a28-7594-4a79-99ab-aea9e246d381_89d051a7-d266-43b1-b863-ccb27aa5dbed_aeb2ffe9-0c8c-4633-ae87-f2dbba5ee3bd_b3430655-8bbb-4475-ab09-fa8aa64a41af_d1e55697-2ea0-4947-9e1a-1f1b10836bb3",
+        "matchId": null,
+        "rank": 57,
+        "names": [
+          "Shaq'a",
+          "YazMasvesely",
+          "Deadtrace",
+          "Hhenkka",
+          null
+        ]
+      },
+      {
+        "value": 1494,
+        "entityId": "2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_622f9c49-f85b-4036-bc85-c9700db0049f_8b869b26-cef5-4494-a021-30f80bd63082_a6aa6149-025d-4e0c-94c9-4440af99c80f_d0febe4f-6349-4e58-abd5-5062b87b12f2",
+        "matchId": null,
+        "rank": 58,
+        "names": [
+          "EfeAlanbel",
+          "Atlant737",
+          "Gandalfgunshot",
+          "Neishatun",
+          "H4rryPotterE"
+        ]
+      },
+      {
+        "value": 1511,
+        "entityId": "0b5f1fb2-dfba-4d8f-886f-a21397334ecb_32436fef-aa8c-43b4-b471-6e4ead8fb409_5e7e1db8-1681-4341-a8d4-15e3a57c7434_7453f3fb-2589-486b-a923-57745287a145_e413a211-4557-489a-bde1-ac7cef093c40",
+        "matchId": null,
+        "rank": 59,
+        "names": [
+          "Moback",
+          "Leannael",
+          "SAUVAGE FR69",
+          null,
+          "gh3o3stt"
+        ]
+      },
+      {
+        "value": 1529,
+        "entityId": "238e6852-2aef-4b6e-bd19-d4f2e8c8832c_81d1898a-b987-43c2-b2f0-d917d156c4e7_845380f1-a039-4525-9f06-8bd9478fa1f6_dcab7e22-4efa-4d47-9c3b-3bb4510884cf_e171438c-41c3-4f9f-b954-ca40656f8db6",
+        "matchId": null,
+        "rank": 60,
+        "names": [
+          "Blacko9",
+          null,
+          null,
+          null,
+          "Deepes"
+        ]
+      },
+      {
+        "value": 1550,
+        "entityId": "1b2fba8e-1ed0-4da5-8e22-d5b9fb9b4b87_1f827ed3-730b-49ae-8b05-b36bd66bcda0_2110f7eb-6606-45ae-b1c2-316a958f54a2_4b735f12-2e17-471e-9ea9-835e4a1e2a7b_cd16047b-f0c4-4a13-a65e-c0419133d814",
+        "matchId": null,
+        "rank": 61,
+        "names": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "value": 1575,
+        "entityId": "00ee0c1c-a3fe-43fb-8017-b97927b9a494_4bf27e2b-8347-407f-9ea2-ab9b587160a5_63dd2f7e-657c-4578-b2fe-a88a1f55b72f_93f2d8e3-800d-421f-b810-b68e248f44a5_c82ef584-ef6a-4e70-a498-82cea0386da1",
+        "matchId": null,
+        "rank": 62,
+        "names": [
+          null,
+          "Ras V",
+          "Firzen",
+          null,
+          "_Zarathustra"
+        ]
+      },
+      {
+        "value": 1612,
+        "entityId": "13df5c30-66ec-45b1-8aab-16e043627518_3d3f2a05-389e-4823-909c-4851e6a09e4f_4bf27e2b-8347-407f-9ea2-ab9b587160a5_7f8ccff7-6815-486f-a44a-fbb5f308f47c_885cfc02-4881-4f4c-8d2d-22f9f0907ba9",
+        "matchId": null,
+        "rank": 63,
+        "names": [
+          null,
+          null,
+          "Ras V",
+          "Bendzor",
+          null
+        ]
+      },
+      {
+        "value": 1625,
+        "entityId": "21d06907-1062-4a4c-a0de-53c556596755_47b3af24-f123-4464-93e9-0573f9ccd113_74819a72-da5b-4b28-b485-62791f5c911e_98a91436-b88d-4da7-b387-06ad5fbe330f_fd004367-8c8c-4873-a5b2-f93beed34017",
+        "matchId": null,
+        "rank": 64,
+        "names": [
+          "Yissuss",
+          "Liiukiin",
+          "Urimas",
+          "playerxafk",
+          "YamaGuchI"
+        ]
+      },
+      {
+        "value": 1659,
+        "entityId": "13df5c30-66ec-45b1-8aab-16e043627518_4bf27e2b-8347-407f-9ea2-ab9b587160a5_68c097b8-033a-4fae-a82b-1cd4b416a0dd_7f8ccff7-6815-486f-a44a-fbb5f308f47c_885cfc02-4881-4f4c-8d2d-22f9f0907ba9",
+        "matchId": null,
+        "rank": 65,
+        "names": [
+          null,
+          "Ras V",
+          null,
+          "Bendzor",
+          null
+        ]
+      },
+      {
+        "value": 1660,
+        "entityId": "1c7966fb-47cf-48bf-ade6-0e66e01b18a8_3d459518-d8c0-4612-8a0f-2280bdfd7d0a_457468ce-18a1-4e56-a8fc-c3562a89470b_4c5c7227-20cc-4c4d-b204-d3103ec4bf37_fe90a73a-ba38-467c-8df8-1c7f4447dc94",
+        "matchId": null,
+        "rank": 66,
+        "names": [
+          "Txetxuu",
+          "Valairon",
+          "h4rryPotter",
+          "Myrastalia",
+          "Syllvanna"
+        ]
+      },
+      {
+        "value": 1675,
+        "entityId": "00ee0c1c-a3fe-43fb-8017-b97927b9a494_4bf27e2b-8347-407f-9ea2-ab9b587160a5_68c097b8-033a-4fae-a82b-1cd4b416a0dd_81d1898a-b987-43c2-b2f0-d917d156c4e7_93f2d8e3-800d-421f-b810-b68e248f44a5",
+        "matchId": null,
+        "rank": 67,
+        "names": [
+          null,
+          "Ras V",
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "value": 1683,
+        "entityId": "1103f5c7-7a35-4ea7-a03e-aa886072a35d_1af04c3f-e2aa-4319-9c64-04fd5578168a_46a60b22-53df-4d0f-9e73-ead2706aa9fc_5fed9e76-9677-44d8-b7ef-18024ac95dc0_da343877-d037-4462-8bfe-2f13cd3e8aed",
+        "matchId": null,
+        "rank": 68,
+        "names": [
+          "FB-Amrah",
+          "GlaschtGleich",
+          "Boendal2",
+          null,
+          "Eondur"
+        ]
+      },
+      {
+        "value": 1707,
+        "entityId": "00ee0c1c-a3fe-43fb-8017-b97927b9a494_4bf27e2b-8347-407f-9ea2-ab9b587160a5_54b3fccc-2fe6-4bf4-b012-36fe940e140e_68c097b8-033a-4fae-a82b-1cd4b416a0dd_7f8ccff7-6815-486f-a44a-fbb5f308f47c",
+        "matchId": null,
+        "rank": 69,
+        "names": [
+          null,
+          "Ras V",
+          "M00NL1GHT",
+          null,
+          "Bendzor"
+        ]
+      },
+      {
+        "value": 1723,
+        "entityId": "13df5c30-66ec-45b1-8aab-16e043627518_4bf27e2b-8347-407f-9ea2-ab9b587160a5_68c097b8-033a-4fae-a82b-1cd4b416a0dd_842c4690-691a-4472-a9b9-1571fa3c21fe_93f2d8e3-800d-421f-b810-b68e248f44a5",
+        "matchId": null,
+        "rank": 70,
+        "names": [
+          null,
+          "Ras V",
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "value": 1757,
+        "entityId": "1c7966fb-47cf-48bf-ade6-0e66e01b18a8_4c5c7227-20cc-4c4d-b204-d3103ec4bf37_6f43d351-7a1b-4946-9f57-1f37ca948893_72621cb9-56b5-45ed-b0f2-5f7a874daabc_fd004367-8c8c-4873-a5b2-f93beed34017",
+        "matchId": null,
+        "rank": 71,
+        "names": [
+          "Txetxuu",
+          "Myrastalia",
+          "RevokeR7",
+          "Stempiato",
+          "YamaGuchI"
+        ]
+      },
+      {
+        "value": 1796,
+        "entityId": "13df5c30-66ec-45b1-8aab-16e043627518_4bf27e2b-8347-407f-9ea2-ab9b587160a5_7f8ccff7-6815-486f-a44a-fbb5f308f47c_885cfc02-4881-4f4c-8d2d-22f9f0907ba9_98176e7a-7c9a-4ee9-8d8b-f6431b55112e",
+        "matchId": null,
+        "rank": 72,
+        "names": [
+          null,
+          "Ras V",
+          "Bendzor",
+          null,
+          null
+        ]
+      },
+      {
+        "value": 1842,
+        "entityId": "162f334f-5b1d-4e9e-a225-f09ab6058a10_1aab2001-e786-46bd-9237-a7c5d71b78a7_21d06907-1062-4a4c-a0de-53c556596755_2cd44ccc-f511-468d-90c3-4e57bdeca1de_43bdec1b-9ccb-4f39-820a-6bcc2e3ea9af",
+        "matchId": null,
+        "rank": 73,
+        "names": [
+          "iFleky",
+          "Rename16211",
+          "Yissuss",
+          "Rodri24",
+          "GROOM"
+        ]
+      },
+      {
+        "value": 1859,
+        "entityId": "1c7966fb-47cf-48bf-ade6-0e66e01b18a8_2bad4f55-260d-43ec-9673-32f747241078_4c5c7227-20cc-4c4d-b204-d3103ec4bf37_5b14bd48-31f9-46c5-8613-e8861e2b0340_72621cb9-56b5-45ed-b0f2-5f7a874daabc",
+        "matchId": null,
+        "rank": 74,
+        "names": [
+          "Txetxuu",
+          "Sultaq",
+          "Myrastalia",
+          "Eletto",
+          "Stempiato"
+        ]
+      },
+      {
+        "value": 1962,
+        "entityId": "1efdc713-6683-41a6-a0c2-953be8af7820_5137559b-e623-48a5-98e3-165f98ca67ff_792f3964-b670-4485-ad9f-2fe6a036fd20_9899cea7-2b5f-41ce-bd8a-482453b90c30_d702a6c0-dd76-4cbf-9293-d98301199a61",
+        "matchId": null,
+        "rank": 75,
+        "names": [
+          "SiegbertDer3",
+          "Phillhan",
+          "Lordess I",
+          "Luchs82",
+          "DocYoda"
+        ]
+      },
+      {
+        "value": 1987,
+        "entityId": "09b9a441-f464-4e8a-8e3a-b3bc86dc15c4_60f989f5-a2f2-47db-a32f-b13ea338bcb7_6d125044-f21b-4e7d-a419-187162bc266c_837fbeb3-c03a-4451-85eb-4071ed1094ca_9202be10-3cd3-44ae-9da2-c9e41897b56e",
+        "matchId": null,
+        "rank": 76,
+        "names": [
+          "Syneticx",
+          null,
+          "Pawlikus",
+          "2Doubleyou",
+          "Ischki"
+        ]
+      },
+      {
+        "value": 1997,
+        "entityId": "1aab2001-e786-46bd-9237-a7c5d71b78a7_21d06907-1062-4a4c-a0de-53c556596755_47b3af24-f123-4464-93e9-0573f9ccd113_98a91436-b88d-4da7-b387-06ad5fbe330f_fd004367-8c8c-4873-a5b2-f93beed34017",
+        "matchId": null,
+        "rank": 77,
+        "names": [
+          "Rename16211",
+          "Yissuss",
+          "Liiukiin",
+          "playerxafk",
+          "YamaGuchI"
+        ]
+      },
+      {
+        "value": 2026,
+        "entityId": "1e6a7dc1-59d7-49ce-ba48-758e00a320fb_5c9eb7cc-5262-49be-83b9-2a8b497d6900_7ec9767b-3fb8-4208-8bf0-f7b69eefb10c_96ee9d11-9f71-4efe-a853-a7a1961c6fd9_b110c595-87c5-4f3e-80af-4be2fd23c7a2",
+        "matchId": null,
+        "rank": 78,
+        "names": [
+          null,
+          null,
+          null,
+          "RONALDINHO",
+          null
+        ]
+      },
+      {
+        "value": 2065,
+        "entityId": "01239cc3-89b9-4c9d-b298-3305bc1a6f3f_1da6f0dd-ce83-4302-9d88-2beb5ab271dc_4c5252c6-45fa-453e-a01c-d251dc2c81fe_904b1df2-77df-42f3-acc7-2e17b7bdd552_f3f93140-fbf9-4c70-9ce5-e421be685c38",
+        "matchId": null,
+        "rank": 79,
+        "names": [
+          null,
+          null,
+          "BangBang FR",
+          "Emeii",
+          "Medoc"
+        ]
+      },
+      {
+        "value": 2379,
+        "entityId": "1c79ab1d-45b2-44a8-8c57-3b42d6e1bb52_2ff43080-868d-4afb-b377-5c96b904d598_49d0bd88-66f0-4c41-9ff4-7a6cbb07e28b_65fea202-beed-47b5-9b3c-d150ede1a4a9_be7513a0-8b06-404c-9676-45a7907ffd01",
+        "matchId": null,
+        "rank": 80,
+        "names": [
+          null,
+          "DarkSaphirya",
+          "Carter95",
+          "danyturbo",
+          "thebigredgibbon"
+        ]
+      }
+    ],
+    "leaderboardSize": 80,
+    "isBackedUp": true
+  },
+  "top-group-expedition-score.DungeonGreatCleave01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonGreatCleave01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonReekwater00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonReekwater00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonRestlessShores01": {
+    "leaderboardEntries": [
+      {
+        "value": 91375,
+        "entityId": "3d459518-d8c0-4612-8a0f-2280bdfd7d0a_5ec6bbb4-7ab6-4704-a854-cec7c91c6f35_a3f9c972-e7fc-4fbe-b3d2-41d1ae04c06e_bd07055b-23da-497e-88c5-b72a5f5251d7_e9f9f69b-4b5a-4c10-8a64-c1ff3d69eabb",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "Valairon",
+          "flofrenchcore60",
+          "Chello Bra",
+          "Graisse O'Mollet",
+          "Deathhob"
+        ]
+      },
+      {
+        "value": 89600,
+        "entityId": "3d459518-d8c0-4612-8a0f-2280bdfd7d0a_5ec6bbb4-7ab6-4704-a854-cec7c91c6f35_a3f9c972-e7fc-4fbe-b3d2-41d1ae04c06e_e9f9f69b-4b5a-4c10-8a64-c1ff3d69eabb_f7ff0460-c083-4371-9bb4-0440aa235446",
+        "matchId": null,
+        "rank": 2,
+        "names": [
+          "Valairon",
+          "flofrenchcore60",
+          "Chello Bra",
+          "Deathhob",
+          "SirGregorClegane"
+        ]
+      },
+      {
+        "value": 87575,
+        "entityId": "3d459518-d8c0-4612-8a0f-2280bdfd7d0a_5ec6bbb4-7ab6-4704-a854-cec7c91c6f35_7e62e2e3-ba98-4fa2-b658-b3023b66f6a7_8b869b26-cef5-4494-a021-30f80bd63082_c880f82b-9116-4dcd-86c6-98ef3eb8fa02",
+        "matchId": null,
+        "rank": 3,
+        "names": [
+          "Valairon",
+          "flofrenchcore60",
+          "Tortfeazor III",
+          "Gandalfgunshot",
+          "M o 0 n D o C"
+        ]
+      },
+      {
+        "value": 73575,
+        "entityId": "0b5f1fb2-dfba-4d8f-886f-a21397334ecb_5e7e1db8-1681-4341-a8d4-15e3a57c7434_94a6fd0e-b879-4510-a25f-92aa8727c518_a4556abb-03d2-45ba-8aa4-dae4c392b65c_e413a211-4557-489a-bde1-ac7cef093c40",
+        "matchId": null,
+        "rank": 4,
+        "names": [
+          "Moback",
+          "SAUVAGE FR69",
+          "Kourny",
+          "ptitbohom",
+          "gh3o3stt"
+        ]
+      },
+      {
+        "value": 67125,
+        "entityId": "3d459518-d8c0-4612-8a0f-2280bdfd7d0a_536ce18d-93fb-46bb-a032-a9a9a860cbde_9bc0af2b-be67-457b-b608-d7f6af22223c_c425fb0e-bd3b-4772-8482-ce8eb7395233",
+        "matchId": null,
+        "rank": 5,
+        "names": [
+          "Valairon",
+          "Reloaded0815",
+          "herkatka",
+          "Qzin"
+        ]
+      },
+      {
+        "value": 65025,
+        "entityId": "0b5f1fb2-dfba-4d8f-886f-a21397334ecb_32436fef-aa8c-43b4-b471-6e4ead8fb409_5ca78e34-b7f7-42c4-b354-13eeacd3484d_d061d777-6cd0-4264-a600-3f4b09f9311d_e413a211-4557-489a-bde1-ac7cef093c40",
+        "matchId": null,
+        "rank": 6,
+        "names": [
+          "Moback",
+          "Leannael",
+          null,
+          "Krapos",
+          "gh3o3stt"
+        ]
+      },
+      {
+        "value": 52200,
+        "entityId": "32436fef-aa8c-43b4-b471-6e4ead8fb409_5e7e1db8-1681-4341-a8d4-15e3a57c7434_a4556abb-03d2-45ba-8aa4-dae4c392b65c_e413a211-4557-489a-bde1-ac7cef093c40_f91aaae0-80eb-4c7a-b25c-df51f980d5c3",
+        "matchId": null,
+        "rank": 7,
+        "names": [
+          "Leannael",
+          "SAUVAGE FR69",
+          "ptitbohom",
+          "gh3o3stt",
+          "Bradani"
+        ]
+      },
+      {
+        "value": 50280,
+        "entityId": "0b5f1fb2-dfba-4d8f-886f-a21397334ecb_32436fef-aa8c-43b4-b471-6e4ead8fb409_6f43d351-7a1b-4946-9f57-1f37ca948893_700e6806-e15c-45a5-a1d2-98c90fc53977_e413a211-4557-489a-bde1-ac7cef093c40",
+        "matchId": null,
+        "rank": 8,
+        "names": [
+          "Moback",
+          "Leannael",
+          "RevokeR7",
+          "Aloz7z",
+          "gh3o3stt"
+        ]
+      },
+      {
+        "value": 38223,
+        "entityId": "32436fef-aa8c-43b4-b471-6e4ead8fb409_3a5641cd-04ea-4320-b136-1f21a79772be_5e7e1db8-1681-4341-a8d4-15e3a57c7434_89d051a7-d266-43b1-b863-ccb27aa5dbed_e413a211-4557-489a-bde1-ac7cef093c40",
+        "matchId": null,
+        "rank": 9,
+        "names": [
+          "Leannael",
+          "spartans-qatar",
+          "SAUVAGE FR69",
+          "YazMasvesely",
+          "gh3o3stt"
+        ]
+      },
+      {
+        "value": 31185,
+        "entityId": "3d459518-d8c0-4612-8a0f-2280bdfd7d0a_457468ce-18a1-4e56-a8fc-c3562a89470b_5ec6bbb4-7ab6-4704-a854-cec7c91c6f35_a3f9c972-e7fc-4fbe-b3d2-41d1ae04c06e_e9f9f69b-4b5a-4c10-8a64-c1ff3d69eabb",
+        "matchId": null,
+        "rank": 10,
+        "names": [
+          "Valairon",
+          "h4rryPotter",
+          "flofrenchcore60",
+          "Chello Bra",
+          "Deathhob"
+        ]
+      },
+      {
+        "value": 29700,
+        "entityId": "11fd769e-921c-43f2-8b29-b3ee51fa958d_700e6806-e15c-45a5-a1d2-98c90fc53977_70d6dcda-a75b-4b68-bca4-3478f9210ad5_7b6644cd-1482-4a5c-bf1a-4a7abbc96b49_f612f44f-356d-4622-8e69-8eeac856b96e",
+        "matchId": null,
+        "rank": 11,
+        "names": [
+          "Fibrissimo",
+          "Aloz7z",
+          "ni el tato",
+          "Ryuzzah",
+          null
+        ]
+      },
+      {
+        "value": 25656,
+        "entityId": "3d459518-d8c0-4612-8a0f-2280bdfd7d0a_5ca78e34-b7f7-42c4-b354-13eeacd3484d_5e7e1db8-1681-4341-a8d4-15e3a57c7434_94a6fd0e-b879-4510-a25f-92aa8727c518_e413a211-4557-489a-bde1-ac7cef093c40",
+        "matchId": null,
+        "rank": 12,
+        "names": [
+          "Valairon",
+          null,
+          "SAUVAGE FR69",
+          "Kourny",
+          "gh3o3stt"
+        ]
+      },
+      {
+        "value": 24010,
+        "entityId": "09dcfefd-36f7-4e9d-b738-4ad416c75b48_5f06449b-4cce-41ac-afba-8343d6371f8b_7e62e2e3-ba98-4fa2-b658-b3023b66f6a7_ceb367d8-1ed5-40e2-9e29-76c5a6db8e10_d061d777-6cd0-4264-a600-3f4b09f9311d",
+        "matchId": null,
+        "rank": 13,
+        "names": [
+          "RoMoLo1993",
+          null,
+          "Tortfeazor III",
+          null,
+          "Krapos"
+        ]
+      },
+      {
+        "value": 21555,
+        "entityId": "3d459518-d8c0-4612-8a0f-2280bdfd7d0a_457468ce-18a1-4e56-a8fc-c3562a89470b_5ec6bbb4-7ab6-4704-a854-cec7c91c6f35_622f9c49-f85b-4036-bc85-c9700db0049f_a3f9c972-e7fc-4fbe-b3d2-41d1ae04c06e",
+        "matchId": null,
+        "rank": 14,
+        "names": [
+          "Valairon",
+          "h4rryPotter",
+          "flofrenchcore60",
+          "Atlant737",
+          "Chello Bra"
+        ]
+      },
+      {
+        "value": 18386,
+        "entityId": "32436fef-aa8c-43b4-b471-6e4ead8fb409_5e7e1db8-1681-4341-a8d4-15e3a57c7434_78f7da8d-44cc-4e28-8817-04e226701a90_a4556abb-03d2-45ba-8aa4-dae4c392b65c_d061d777-6cd0-4264-a600-3f4b09f9311d",
+        "matchId": null,
+        "rank": 15,
+        "names": [
+          "Leannael",
+          "SAUVAGE FR69",
+          null,
+          "ptitbohom",
+          "Krapos"
+        ]
+      },
+      {
+        "value": 17740,
+        "entityId": "3a5641cd-04ea-4320-b136-1f21a79772be_5e7e1db8-1681-4341-a8d4-15e3a57c7434_89d051a7-d266-43b1-b863-ccb27aa5dbed_a4556abb-03d2-45ba-8aa4-dae4c392b65c_ec46f564-f113-47c3-867b-c88ff1b104ab",
+        "matchId": null,
+        "rank": 16,
+        "names": [
+          "spartans-qatar",
+          "SAUVAGE FR69",
+          "YazMasvesely",
+          "ptitbohom",
+          null
+        ]
+      },
+      {
+        "value": 12330,
+        "entityId": "3a5641cd-04ea-4320-b136-1f21a79772be_4f6cfea5-5256-4e68-b21c-285adc457045_536ce18d-93fb-46bb-a032-a9a9a860cbde_5ca78e34-b7f7-42c4-b354-13eeacd3484d_aeb2ffe9-0c8c-4633-ae87-f2dbba5ee3bd",
+        "matchId": null,
+        "rank": 17,
+        "names": [
+          "spartans-qatar",
+          "PaniChaos",
+          "Reloaded0815",
+          null,
+          "Deadtrace"
+        ]
+      },
+      {
+        "value": 9540,
+        "entityId": "09b9a441-f464-4e8a-8e3a-b3bc86dc15c4_60f989f5-a2f2-47db-a32f-b13ea338bcb7_6d125044-f21b-4e7d-a419-187162bc266c_837fbeb3-c03a-4451-85eb-4071ed1094ca_9202be10-3cd3-44ae-9da2-c9e41897b56e",
+        "matchId": null,
+        "rank": 18,
+        "names": [
+          "Syneticx",
+          null,
+          "Pawlikus",
+          "2Doubleyou",
+          "Ischki"
+        ]
+      },
+      {
+        "value": 1650,
+        "entityId": "32436fef-aa8c-43b4-b471-6e4ead8fb409_5e7e1db8-1681-4341-a8d4-15e3a57c7434_5ec6bbb4-7ab6-4704-a854-cec7c91c6f35_a4556abb-03d2-45ba-8aa4-dae4c392b65c_e413a211-4557-489a-bde1-ac7cef093c40",
+        "matchId": null,
+        "rank": 19,
+        "names": [
+          "Leannael",
+          "SAUVAGE FR69",
+          "flofrenchcore60",
+          "ptitbohom",
+          "gh3o3stt"
+        ]
+      }
+    ],
+    "leaderboardSize": 19,
+    "isBackedUp": true
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonRestlessShores01": {
+    "leaderboardEntries": [
+      {
+        "value": 1078,
+        "entityId": "3d459518-d8c0-4612-8a0f-2280bdfd7d0a_5ec6bbb4-7ab6-4704-a854-cec7c91c6f35_a3f9c972-e7fc-4fbe-b3d2-41d1ae04c06e_bd07055b-23da-497e-88c5-b72a5f5251d7_e9f9f69b-4b5a-4c10-8a64-c1ff3d69eabb",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "Valairon",
+          "flofrenchcore60",
+          "Chello Bra",
+          "Graisse O'Mollet",
+          "Deathhob"
+        ]
+      },
+      {
+        "value": 1181,
+        "entityId": "3d459518-d8c0-4612-8a0f-2280bdfd7d0a_5ec6bbb4-7ab6-4704-a854-cec7c91c6f35_7e62e2e3-ba98-4fa2-b658-b3023b66f6a7_8b869b26-cef5-4494-a021-30f80bd63082_c880f82b-9116-4dcd-86c6-98ef3eb8fa02",
+        "matchId": null,
+        "rank": 2,
+        "names": [
+          "Valairon",
+          "flofrenchcore60",
+          "Tortfeazor III",
+          "Gandalfgunshot",
+          "M o 0 n D o C"
+        ]
+      },
+      {
+        "value": 1200,
+        "entityId": "3d459518-d8c0-4612-8a0f-2280bdfd7d0a_5ec6bbb4-7ab6-4704-a854-cec7c91c6f35_a3f9c972-e7fc-4fbe-b3d2-41d1ae04c06e_e9f9f69b-4b5a-4c10-8a64-c1ff3d69eabb_f7ff0460-c083-4371-9bb4-0440aa235446",
+        "matchId": null,
+        "rank": 3,
+        "names": [
+          "Valairon",
+          "flofrenchcore60",
+          "Chello Bra",
+          "Deathhob",
+          "SirGregorClegane"
+        ]
+      },
+      {
+        "value": 1707,
+        "entityId": "0b5f1fb2-dfba-4d8f-886f-a21397334ecb_5e7e1db8-1681-4341-a8d4-15e3a57c7434_94a6fd0e-b879-4510-a25f-92aa8727c518_a4556abb-03d2-45ba-8aa4-dae4c392b65c_e413a211-4557-489a-bde1-ac7cef093c40",
+        "matchId": null,
+        "rank": 4,
+        "names": [
+          "Moback",
+          "SAUVAGE FR69",
+          "Kourny",
+          "ptitbohom",
+          "gh3o3stt"
+        ]
+      },
+      {
+        "value": 1774,
+        "entityId": "32436fef-aa8c-43b4-b471-6e4ead8fb409_5e7e1db8-1681-4341-a8d4-15e3a57c7434_a4556abb-03d2-45ba-8aa4-dae4c392b65c_e413a211-4557-489a-bde1-ac7cef093c40_f91aaae0-80eb-4c7a-b25c-df51f980d5c3",
+        "matchId": null,
+        "rank": 5,
+        "names": [
+          "Leannael",
+          "SAUVAGE FR69",
+          "ptitbohom",
+          "gh3o3stt",
+          "Bradani"
+        ]
+      },
+      {
+        "value": 1783,
+        "entityId": "0b5f1fb2-dfba-4d8f-886f-a21397334ecb_32436fef-aa8c-43b4-b471-6e4ead8fb409_5ca78e34-b7f7-42c4-b354-13eeacd3484d_d061d777-6cd0-4264-a600-3f4b09f9311d_e413a211-4557-489a-bde1-ac7cef093c40",
+        "matchId": null,
+        "rank": 6,
+        "names": [
+          "Moback",
+          "Leannael",
+          null,
+          "Krapos",
+          "gh3o3stt"
+        ]
+      },
+      {
+        "value": 1839,
+        "entityId": "3d459518-d8c0-4612-8a0f-2280bdfd7d0a_536ce18d-93fb-46bb-a032-a9a9a860cbde_9bc0af2b-be67-457b-b608-d7f6af22223c_c425fb0e-bd3b-4772-8482-ce8eb7395233",
+        "matchId": null,
+        "rank": 7,
+        "names": [
+          "Valairon",
+          "Reloaded0815",
+          "herkatka",
+          "Qzin"
+        ]
+      },
+      {
+        "value": 1970,
+        "entityId": "0b5f1fb2-dfba-4d8f-886f-a21397334ecb_32436fef-aa8c-43b4-b471-6e4ead8fb409_6f43d351-7a1b-4946-9f57-1f37ca948893_700e6806-e15c-45a5-a1d2-98c90fc53977_e413a211-4557-489a-bde1-ac7cef093c40",
+        "matchId": null,
+        "rank": 8,
+        "names": [
+          "Moback",
+          "Leannael",
+          "RevokeR7",
+          "Aloz7z",
+          "gh3o3stt"
+        ]
+      }
+    ],
+    "leaderboardSize": 8,
+    "isBackedUp": true
+  },
+  "top-group-expedition-score.DungeonShatterMtn00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonShatterMtn00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonShatteredObelisk": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonShatteredObelisk": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  }
+}

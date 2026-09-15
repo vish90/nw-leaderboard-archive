@@ -1,0 +1,950 @@
+{
+  "top-group-expedition-score.DungeonBrimstoneSands00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonBrimstoneSands00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonCutlassKeys00": {
+    "leaderboardEntries": [
+      {
+        "value": 85450,
+        "entityId": "2b91b45d-a852-4f00-b3a2-a27380909326_5e7e1db8-1681-4341-a8d4-15e3a57c7434_7453f3fb-2589-486b-a923-57745287a145_b5c242fe-e4c5-4e2b-8c23-d9f0b44d70ec_fe90a73a-ba38-467c-8df8-1c7f4447dc94",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "P-oPy-ette",
+          "SAUVAGE FR69",
+          null,
+          "Owen Abe",
+          "Syllvanna"
+        ]
+      }
+    ],
+    "leaderboardSize": 1,
+    "isBackedUp": true
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonCutlassKeys00": {
+    "leaderboardEntries": [
+      {
+        "value": 1652,
+        "entityId": "2b91b45d-a852-4f00-b3a2-a27380909326_5e7e1db8-1681-4341-a8d4-15e3a57c7434_7453f3fb-2589-486b-a923-57745287a145_b5c242fe-e4c5-4e2b-8c23-d9f0b44d70ec_fe90a73a-ba38-467c-8df8-1c7f4447dc94",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "P-oPy-ette",
+          "SAUVAGE FR69",
+          null,
+          "Owen Abe",
+          "Syllvanna"
+        ]
+      }
+    ],
+    "leaderboardSize": 1,
+    "isBackedUp": true
+  },
+  "top-group-expedition-score.DungeonEbonscale00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonEbonscale00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonEdengrove00": {
+    "leaderboardEntries": [
+      {
+        "value": 78800,
+        "matchId": null,
+        "entityId": "0b739d78-685c-4239-b1f2-e59ae5c453f2_62129f9a-2d40-4963-96c7-bdb90fbae2d2_7453f3fb-2589-486b-a923-57745287a145_a6aa6149-025d-4e0c-94c9-4440af99c80f_aa3c8ca4-625f-47cf-a955-ef97fecfc095",
+        "rank": 1,
+        "names": [
+          "Banquier de nw",
+          "pyromaniac1990",
+          null,
+          "Neishatun",
+          "oPy"
+        ]
+      },
+      {
+        "value": 74925,
+        "matchId": null,
+        "entityId": "1658f138-b387-4b22-8878-199d4926c71f_2d0fb5ee-db6a-434d-a15e-00a64b299b91_9ecd93f2-fe37-4f5e-9434-0abe2165b76b_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_c7201942-569a-4960-a158-2416f79bc835",
+        "rank": 2,
+        "names": [
+          "Devlish",
+          "Bad Omen261",
+          null,
+          "Weisske",
+          "HolynWan"
+        ]
+      },
+      {
+        "value": 72125,
+        "matchId": null,
+        "entityId": "2273574e-811c-483d-bf9b-61abd6bf345f_2d0fb5ee-db6a-434d-a15e-00a64b299b91_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_c7201942-569a-4960-a158-2416f79bc835_ea4850d5-6ddf-46af-a4fd-aed19d61a9ca",
+        "rank": 3,
+        "names": [
+          null,
+          "Bad Omen261",
+          "Weisske",
+          "HolynWan",
+          "Soul Slayer 3"
+        ]
+      },
+      {
+        "value": 65625,
+        "matchId": null,
+        "entityId": "0798466c-0345-4b1d-b338-d680d5c7f5b6_566c607d-4321-45c3-9a49-dfd4313e7aaf_9e7aa2c4-d7e5-4304-8a14-d9f766df3922_9f842077-9984-4d19-96b5-3a9c763c1dd3_a807917a-8869-4f2d-b3ed-c220bca26285",
+        "rank": 4,
+        "names": [
+          null,
+          "Fl0th1x",
+          null,
+          null,
+          "TheySeeMeGaming"
+        ]
+      },
+      {
+        "value": 65075,
+        "matchId": null,
+        "entityId": "2b91b45d-a852-4f00-b3a2-a27380909326_5e7e1db8-1681-4341-a8d4-15e3a57c7434_7453f3fb-2589-486b-a923-57745287a145_93fedd5a-e7a2-4665-8922-c67903a9c070_ee287bb9-10e7-4a88-adaf-fdcb5c12181a",
+        "rank": 5,
+        "names": [
+          "P-oPy-ette",
+          "SAUVAGE FR69",
+          null,
+          "Spara Pluie",
+          "Volcane"
+        ]
+      },
+      {
+        "value": 63475,
+        "matchId": null,
+        "entityId": "0b739d78-685c-4239-b1f2-e59ae5c453f2_7453f3fb-2589-486b-a923-57745287a145_93fedd5a-e7a2-4665-8922-c67903a9c070_aa3c8ca4-625f-47cf-a955-ef97fecfc095_b5c242fe-e4c5-4e2b-8c23-d9f0b44d70ec",
+        "rank": 6,
+        "names": [
+          "Banquier de nw",
+          null,
+          "Spara Pluie",
+          "oPy",
+          "Owen Abe"
+        ]
+      },
+      {
+        "value": 63050,
+        "matchId": null,
+        "entityId": "5e7e1db8-1681-4341-a8d4-15e3a57c7434_7453f3fb-2589-486b-a923-57745287a145_aa3c8ca4-625f-47cf-a955-ef97fecfc095_db5a6c61-bcd2-4657-9bba-3e7b8a07be71_fe90a73a-ba38-467c-8df8-1c7f4447dc94",
+        "rank": 7,
+        "names": [
+          "SAUVAGE FR69",
+          null,
+          "oPy",
+          null,
+          "Syllvanna"
+        ]
+      },
+      {
+        "value": 58350,
+        "matchId": null,
+        "entityId": "18229cb5-be99-4bb6-8153-98dbc2df9749_2d0fb5ee-db6a-434d-a15e-00a64b299b91_5e7e1db8-1681-4341-a8d4-15e3a57c7434_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_aa3c8ca4-625f-47cf-a955-ef97fecfc095",
+        "rank": 8,
+        "names": [
+          "MerlinTheWitch",
+          "Bad Omen261",
+          "SAUVAGE FR69",
+          "Weisske",
+          "oPy"
+        ]
+      },
+      {
+        "value": 52640,
+        "matchId": null,
+        "entityId": "0b41a8d9-c62c-4e5b-b1c3-dd5fea484b07_1332b033-b5e7-4079-9cdd-870847fdda47_4535522a-3033-44c0-b3c2-582840c0a96a_c22e24a5-2494-4fef-bb81-4d808239d60c_fe90a73a-ba38-467c-8df8-1c7f4447dc94",
+        "rank": 9,
+        "names": [
+          "cyborgbag",
+          "Pinkviini",
+          "ToDDy",
+          "Solariaz",
+          "Syllvanna"
+        ]
+      },
+      {
+        "value": 52520,
+        "matchId": null,
+        "entityId": "0b41a8d9-c62c-4e5b-b1c3-dd5fea484b07_1332b033-b5e7-4079-9cdd-870847fdda47_4535522a-3033-44c0-b3c2-582840c0a96a_c22e24a5-2494-4fef-bb81-4d808239d60c_c895fbaa-b906-4f7f-8905-afbb5c1de7c8",
+        "rank": 10,
+        "names": [
+          "cyborgbag",
+          "Pinkviini",
+          "ToDDy",
+          "Solariaz",
+          "LilNatalie"
+        ]
+      },
+      {
+        "value": 52080,
+        "matchId": null,
+        "entityId": "18229cb5-be99-4bb6-8153-98dbc2df9749_2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_4535522a-3033-44c0-b3c2-582840c0a96a_c22e24a5-2494-4fef-bb81-4d808239d60c_c895fbaa-b906-4f7f-8905-afbb5c1de7c8",
+        "rank": 11,
+        "names": [
+          "MerlinTheWitch",
+          "EfeAlanbel",
+          "ToDDy",
+          "Solariaz",
+          "LilNatalie"
+        ]
+      },
+      {
+        "value": 51520,
+        "matchId": null,
+        "entityId": "3dad4f6f-db42-4144-899c-10c46e590e3b_87e5ce12-56a9-46c9-8069-1fb333eeb7f8_8c717b6e-96c3-41be-a829-4b477ae0a82c_a3369d2e-6488-44c6-b236-46122bfecd77_b474ba52-fc2b-4442-a9ce-57f6ef84fbbb",
+        "rank": 12,
+        "names": [
+          "Nethil",
+          "Cwar97",
+          null,
+          null,
+          "Cat a'KIysm"
+        ]
+      },
+      {
+        "value": 51380,
+        "matchId": null,
+        "entityId": "5e7e1db8-1681-4341-a8d4-15e3a57c7434_7453f3fb-2589-486b-a923-57745287a145_93fedd5a-e7a2-4665-8922-c67903a9c070_aa3c8ca4-625f-47cf-a955-ef97fecfc095_b5c242fe-e4c5-4e2b-8c23-d9f0b44d70ec",
+        "rank": 13,
+        "names": [
+          "SAUVAGE FR69",
+          null,
+          "Spara Pluie",
+          "oPy",
+          "Owen Abe"
+        ]
+      },
+      {
+        "value": 50040,
+        "matchId": null,
+        "entityId": "03f0453d-ab02-47f6-9f34-28d42e8266cd_18229cb5-be99-4bb6-8153-98dbc2df9749_2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_62129f9a-2d40-4963-96c7-bdb90fbae2d2_a6aa6149-025d-4e0c-94c9-4440af99c80f",
+        "rank": 14,
+        "names": [
+          "NA speed runner",
+          "MerlinTheWitch",
+          "EfeAlanbel",
+          "pyromaniac1990",
+          "Neishatun"
+        ]
+      },
+      {
+        "value": 49340,
+        "matchId": null,
+        "entityId": "0b41a8d9-c62c-4e5b-b1c3-dd5fea484b07_18229cb5-be99-4bb6-8153-98dbc2df9749_4535522a-3033-44c0-b3c2-582840c0a96a_c22e24a5-2494-4fef-bb81-4d808239d60c_eba69aed-a201-40f8-ac80-0ee606a5b3ac",
+        "rank": 15,
+        "names": [
+          "cyborgbag",
+          "MerlinTheWitch",
+          "ToDDy",
+          "Solariaz",
+          "TTVEfeAlanbel"
+        ]
+      },
+      {
+        "value": 49280,
+        "matchId": null,
+        "entityId": "0b41a8d9-c62c-4e5b-b1c3-dd5fea484b07_2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_4535522a-3033-44c0-b3c2-582840c0a96a_62129f9a-2d40-4963-96c7-bdb90fbae2d2_a6aa6149-025d-4e0c-94c9-4440af99c80f",
+        "rank": 16,
+        "names": [
+          "cyborgbag",
+          "EfeAlanbel",
+          "ToDDy",
+          "pyromaniac1990",
+          "Neishatun"
+        ]
+      },
+      {
+        "value": 48140,
+        "matchId": null,
+        "entityId": "18229cb5-be99-4bb6-8153-98dbc2df9749_4535522a-3033-44c0-b3c2-582840c0a96a_c22e24a5-2494-4fef-bb81-4d808239d60c_c895fbaa-b906-4f7f-8905-afbb5c1de7c8_eba69aed-a201-40f8-ac80-0ee606a5b3ac",
+        "rank": 17,
+        "names": [
+          "MerlinTheWitch",
+          "ToDDy",
+          "Solariaz",
+          "LilNatalie",
+          "TTVEfeAlanbel"
+        ]
+      },
+      {
+        "value": 46220,
+        "matchId": null,
+        "entityId": "5e7e1db8-1681-4341-a8d4-15e3a57c7434_7453f3fb-2589-486b-a923-57745287a145_aa3c8ca4-625f-47cf-a955-ef97fecfc095_b5c242fe-e4c5-4e2b-8c23-d9f0b44d70ec_fe90a73a-ba38-467c-8df8-1c7f4447dc94",
+        "rank": 18,
+        "names": [
+          "SAUVAGE FR69",
+          null,
+          "oPy",
+          "Owen Abe",
+          "Syllvanna"
+        ]
+      },
+      {
+        "value": 46140,
+        "matchId": null,
+        "entityId": "1658f138-b387-4b22-8878-199d4926c71f_2d0fb5ee-db6a-434d-a15e-00a64b299b91_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_c7201942-569a-4960-a158-2416f79bc835_ea4850d5-6ddf-46af-a4fd-aed19d61a9ca",
+        "rank": 19,
+        "names": [
+          "Devlish",
+          "Bad Omen261",
+          "Weisske",
+          "HolynWan",
+          "Soul Slayer 3"
+        ]
+      },
+      {
+        "value": 42100,
+        "matchId": null,
+        "entityId": "012a7f97-7900-4a07-aaff-09355952411e_15e9e539-4cdb-4862-97e9-755e6b5cfc13_6323f57b-1622-40c0-973d-acb4d7739dab_832f4cc7-de80-408e-ac50-1233df2f243f_fe90a73a-ba38-467c-8df8-1c7f4447dc94",
+        "rank": 20,
+        "names": [
+          "Qeps",
+          "Hoksheleto",
+          "Aresonia",
+          "R0ziTa.-",
+          "Syllvanna"
+        ]
+      },
+      {
+        "value": 40140,
+        "matchId": null,
+        "entityId": "2d0fb5ee-db6a-434d-a15e-00a64b299b91_9ecd93f2-fe37-4f5e-9434-0abe2165b76b_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_c7201942-569a-4960-a158-2416f79bc835_ea4850d5-6ddf-46af-a4fd-aed19d61a9ca",
+        "rank": 21,
+        "names": [
+          "Bad Omen261",
+          null,
+          "Weisske",
+          "HolynWan",
+          "Soul Slayer 3"
+        ]
+      },
+      {
+        "value": 39360,
+        "matchId": null,
+        "entityId": "0b41a8d9-c62c-4e5b-b1c3-dd5fea484b07_1332b033-b5e7-4079-9cdd-870847fdda47_18229cb5-be99-4bb6-8153-98dbc2df9749_4535522a-3033-44c0-b3c2-582840c0a96a_c895fbaa-b906-4f7f-8905-afbb5c1de7c8",
+        "rank": 22,
+        "names": [
+          "cyborgbag",
+          "Pinkviini",
+          "MerlinTheWitch",
+          "ToDDy",
+          "LilNatalie"
+        ]
+      },
+      {
+        "value": 38370,
+        "matchId": null,
+        "entityId": "2b91b45d-a852-4f00-b3a2-a27380909326_5e7e1db8-1681-4341-a8d4-15e3a57c7434_7453f3fb-2589-486b-a923-57745287a145_93fedd5a-e7a2-4665-8922-c67903a9c070_b5c242fe-e4c5-4e2b-8c23-d9f0b44d70ec",
+        "rank": 23,
+        "names": [
+          "P-oPy-ette",
+          "SAUVAGE FR69",
+          null,
+          "Spara Pluie",
+          "Owen Abe"
+        ]
+      },
+      {
+        "value": 35800,
+        "matchId": null,
+        "entityId": "2d0fb5ee-db6a-434d-a15e-00a64b299b91_5c0a1c8b-df50-4909-9952-382e923f30cd_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_c7201942-569a-4960-a158-2416f79bc835_ea4850d5-6ddf-46af-a4fd-aed19d61a9ca",
+        "rank": 24,
+        "names": [
+          "Bad Omen261",
+          "TheWitchMerlin",
+          "Weisske",
+          "HolynWan",
+          "Soul Slayer 3"
+        ]
+      },
+      {
+        "value": 32380,
+        "matchId": null,
+        "entityId": "5c0a1c8b-df50-4909-9952-382e923f30cd_62129f9a-2d40-4963-96c7-bdb90fbae2d2_a6aa6149-025d-4e0c-94c9-4440af99c80f_c22e24a5-2494-4fef-bb81-4d808239d60c_eba69aed-a201-40f8-ac80-0ee606a5b3ac",
+        "rank": 25,
+        "names": [
+          "TheWitchMerlin",
+          "pyromaniac1990",
+          "Neishatun",
+          "Solariaz",
+          "TTVEfeAlanbel"
+        ]
+      },
+      {
+        "value": 31035,
+        "matchId": null,
+        "entityId": "0b41a8d9-c62c-4e5b-b1c3-dd5fea484b07_18229cb5-be99-4bb6-8153-98dbc2df9749_2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_4535522a-3033-44c0-b3c2-582840c0a96a_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "rank": 26,
+        "names": [
+          "cyborgbag",
+          "MerlinTheWitch",
+          "EfeAlanbel",
+          "ToDDy",
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 28360,
+        "matchId": null,
+        "entityId": "2b91b45d-a852-4f00-b3a2-a27380909326_2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_7453f3fb-2589-486b-a923-57745287a145_93fedd5a-e7a2-4665-8922-c67903a9c070_a6aa6149-025d-4e0c-94c9-4440af99c80f",
+        "rank": 27,
+        "names": [
+          "P-oPy-ette",
+          "EfeAlanbel",
+          null,
+          "Spara Pluie",
+          "Neishatun"
+        ]
+      },
+      {
+        "value": 27555,
+        "matchId": null,
+        "entityId": "2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_4535522a-3033-44c0-b3c2-582840c0a96a_62129f9a-2d40-4963-96c7-bdb90fbae2d2_a6aa6149-025d-4e0c-94c9-4440af99c80f_c895fbaa-b906-4f7f-8905-afbb5c1de7c8",
+        "rank": 28,
+        "names": [
+          "EfeAlanbel",
+          "ToDDy",
+          "pyromaniac1990",
+          "Neishatun",
+          "LilNatalie"
+        ]
+      },
+      {
+        "value": 25605,
+        "matchId": null,
+        "entityId": "0b41a8d9-c62c-4e5b-b1c3-dd5fea484b07_18229cb5-be99-4bb6-8153-98dbc2df9749_62129f9a-2d40-4963-96c7-bdb90fbae2d2_a6aa6149-025d-4e0c-94c9-4440af99c80f_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "rank": 29,
+        "names": [
+          "cyborgbag",
+          "MerlinTheWitch",
+          "pyromaniac1990",
+          "Neishatun",
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 23910,
+        "matchId": null,
+        "entityId": "0b41a8d9-c62c-4e5b-b1c3-dd5fea484b07_1332b033-b5e7-4079-9cdd-870847fdda47_2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_4535522a-3033-44c0-b3c2-582840c0a96a_fe90a73a-ba38-467c-8df8-1c7f4447dc94",
+        "rank": 30,
+        "names": [
+          "cyborgbag",
+          "Pinkviini",
+          "EfeAlanbel",
+          "ToDDy",
+          "Syllvanna"
+        ]
+      },
+      {
+        "value": 23280,
+        "matchId": null,
+        "entityId": "03f0453d-ab02-47f6-9f34-28d42e8266cd_3dad4f6f-db42-4144-899c-10c46e590e3b_87e5ce12-56a9-46c9-8069-1fb333eeb7f8_8c717b6e-96c3-41be-a829-4b477ae0a82c_a3369d2e-6488-44c6-b236-46122bfecd77",
+        "rank": 31,
+        "names": [
+          "NA speed runner",
+          "Nethil",
+          "Cwar97",
+          null,
+          null
+        ]
+      },
+      {
+        "value": 22880,
+        "matchId": null,
+        "entityId": "2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_4535522a-3033-44c0-b3c2-582840c0a96a_5c0a1c8b-df50-4909-9952-382e923f30cd_a6aa6149-025d-4e0c-94c9-4440af99c80f_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "rank": 32,
+        "names": [
+          "EfeAlanbel",
+          "ToDDy",
+          "TheWitchMerlin",
+          "Neishatun",
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 22110,
+        "matchId": null,
+        "entityId": "054b8001-26bf-496d-863c-ef05347c9ec6_7321c2a7-bea1-4a00-9de1-1a2d2f07ea3b_78cce96a-a0f8-4e68-802e-9c7ea3c4da91_b88ada8a-149b-44f4-9610-00328cd7ade8_e01c48ff-c6e9-4e7b-b049-1a9ac743b7d4",
+        "rank": 33,
+        "names": [
+          "Phueben",
+          "Feehi81",
+          "Flemke",
+          "BrunHilde Perkel",
+          "Rederig"
+        ]
+      },
+      {
+        "value": 21315,
+        "matchId": null,
+        "entityId": "18229cb5-be99-4bb6-8153-98dbc2df9749_7453f3fb-2589-486b-a923-57745287a145_93fedd5a-e7a2-4665-8922-c67903a9c070_aa3c8ca4-625f-47cf-a955-ef97fecfc095_b5c242fe-e4c5-4e2b-8c23-d9f0b44d70ec",
+        "rank": 34,
+        "names": [
+          "MerlinTheWitch",
+          null,
+          "Spara Pluie",
+          "oPy",
+          "Owen Abe"
+        ]
+      },
+      {
+        "value": 19815,
+        "matchId": null,
+        "entityId": "2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_7453f3fb-2589-486b-a923-57745287a145_93fedd5a-e7a2-4665-8922-c67903a9c070_a6aa6149-025d-4e0c-94c9-4440af99c80f_aa3c8ca4-625f-47cf-a955-ef97fecfc095",
+        "rank": 35,
+        "names": [
+          "EfeAlanbel",
+          null,
+          "Spara Pluie",
+          "Neishatun",
+          "oPy"
+        ]
+      },
+      {
+        "value": 17820,
+        "matchId": null,
+        "entityId": "2b91b45d-a852-4f00-b3a2-a27380909326_2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_5e7e1db8-1681-4341-a8d4-15e3a57c7434_7453f3fb-2589-486b-a923-57745287a145_93fedd5a-e7a2-4665-8922-c67903a9c070",
+        "rank": 36,
+        "names": [
+          "P-oPy-ette",
+          "EfeAlanbel",
+          "SAUVAGE FR69",
+          null,
+          "Spara Pluie"
+        ]
+      },
+      {
+        "value": 16200,
+        "matchId": null,
+        "entityId": "411f19c1-fbe4-4f64-a356-7ed5db9721b1_48dbe78e-f646-4b3d-8d99-fa63d7273fa9_9a306ecf-bfbc-49aa-8228-f2494bc1486b_9f5cd95d-e54f-410c-ac1f-c5779e86a096_db5a6c61-bcd2-4657-9bba-3e7b8a07be71",
+        "rank": 37,
+        "names": [
+          "Lexi T",
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      {
+        "value": 15870,
+        "matchId": null,
+        "entityId": "03f0453d-ab02-47f6-9f34-28d42e8266cd_3dad4f6f-db42-4144-899c-10c46e590e3b_87e5ce12-56a9-46c9-8069-1fb333eeb7f8_8c717b6e-96c3-41be-a829-4b477ae0a82c_b474ba52-fc2b-4442-a9ce-57f6ef84fbbb",
+        "rank": 38,
+        "names": [
+          "NA speed runner",
+          "Nethil",
+          "Cwar97",
+          null,
+          "Cat a'KIysm"
+        ]
+      },
+      {
+        "value": 13395,
+        "matchId": null,
+        "entityId": "4535522a-3033-44c0-b3c2-582840c0a96a_5c0a1c8b-df50-4909-9952-382e923f30cd_a6aa6149-025d-4e0c-94c9-4440af99c80f_c22e24a5-2494-4fef-bb81-4d808239d60c_eba69aed-a201-40f8-ac80-0ee606a5b3ac",
+        "rank": 39,
+        "names": [
+          "ToDDy",
+          "TheWitchMerlin",
+          "Neishatun",
+          "Solariaz",
+          "TTVEfeAlanbel"
+        ]
+      },
+      {
+        "value": 13275,
+        "matchId": null,
+        "entityId": "411f19c1-fbe4-4f64-a356-7ed5db9721b1_6365bdaf-cbef-4416-8995-23d45e29b877_b3b3e00b-ef19-417c-b15d-9cd39c576d4a_db5a6c61-bcd2-4657-9bba-3e7b8a07be71_ea4850d5-6ddf-46af-a4fd-aed19d61a9ca",
+        "rank": 40,
+        "names": [
+          "Lexi T",
+          null,
+          null,
+          null,
+          "Soul Slayer 3"
+        ]
+      },
+      {
+        "value": 2800,
+        "matchId": null,
+        "entityId": "0b41a8d9-c62c-4e5b-b1c3-dd5fea484b07_5c0a1c8b-df50-4909-9952-382e923f30cd_a6aa6149-025d-4e0c-94c9-4440af99c80f_c22e24a5-2494-4fef-bb81-4d808239d60c_eba69aed-a201-40f8-ac80-0ee606a5b3ac",
+        "rank": 41,
+        "names": [
+          "cyborgbag",
+          "TheWitchMerlin",
+          "Neishatun",
+          "Solariaz",
+          "TTVEfeAlanbel"
+        ]
+      }
+    ],
+    "leaderboardSize": 41,
+    "isBackedUp": true
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonEdengrove00": {
+    "leaderboardEntries": [
+      {
+        "value": 751,
+        "entityId": "5e7e1db8-1681-4341-a8d4-15e3a57c7434_7453f3fb-2589-486b-a923-57745287a145_93fedd5a-e7a2-4665-8922-c67903a9c070_aa3c8ca4-625f-47cf-a955-ef97fecfc095_b5c242fe-e4c5-4e2b-8c23-d9f0b44d70ec",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "SAUVAGE FR69",
+          null,
+          "Spara Pluie",
+          "oPy",
+          "Owen Abe"
+        ]
+      },
+      {
+        "value": 768,
+        "entityId": "0b41a8d9-c62c-4e5b-b1c3-dd5fea484b07_1332b033-b5e7-4079-9cdd-870847fdda47_4535522a-3033-44c0-b3c2-582840c0a96a_c22e24a5-2494-4fef-bb81-4d808239d60c_fe90a73a-ba38-467c-8df8-1c7f4447dc94",
+        "matchId": null,
+        "rank": 2,
+        "names": [
+          "cyborgbag",
+          "Pinkviini",
+          "ToDDy",
+          "Solariaz",
+          "Syllvanna"
+        ]
+      },
+      {
+        "value": 796,
+        "entityId": "18229cb5-be99-4bb6-8153-98dbc2df9749_2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_4535522a-3033-44c0-b3c2-582840c0a96a_c22e24a5-2494-4fef-bb81-4d808239d60c_c895fbaa-b906-4f7f-8905-afbb5c1de7c8",
+        "matchId": null,
+        "rank": 3,
+        "names": [
+          "MerlinTheWitch",
+          "EfeAlanbel",
+          "ToDDy",
+          "Solariaz",
+          "LilNatalie"
+        ]
+      },
+      {
+        "value": 854,
+        "entityId": "0b41a8d9-c62c-4e5b-b1c3-dd5fea484b07_1332b033-b5e7-4079-9cdd-870847fdda47_4535522a-3033-44c0-b3c2-582840c0a96a_c22e24a5-2494-4fef-bb81-4d808239d60c_c895fbaa-b906-4f7f-8905-afbb5c1de7c8",
+        "matchId": null,
+        "rank": 4,
+        "names": [
+          "cyborgbag",
+          "Pinkviini",
+          "ToDDy",
+          "Solariaz",
+          "LilNatalie"
+        ]
+      },
+      {
+        "value": 878,
+        "entityId": "03f0453d-ab02-47f6-9f34-28d42e8266cd_18229cb5-be99-4bb6-8153-98dbc2df9749_2bf214a3-1ca9-4366-aaf7-1f70469c5cdb_62129f9a-2d40-4963-96c7-bdb90fbae2d2_a6aa6149-025d-4e0c-94c9-4440af99c80f",
+        "matchId": null,
+        "rank": 5,
+        "names": [
+          "NA speed runner",
+          "MerlinTheWitch",
+          "EfeAlanbel",
+          "pyromaniac1990",
+          "Neishatun"
+        ]
+      },
+      {
+        "value": 1068,
+        "entityId": "0b739d78-685c-4239-b1f2-e59ae5c453f2_62129f9a-2d40-4963-96c7-bdb90fbae2d2_7453f3fb-2589-486b-a923-57745287a145_a6aa6149-025d-4e0c-94c9-4440af99c80f_aa3c8ca4-625f-47cf-a955-ef97fecfc095",
+        "matchId": null,
+        "rank": 6,
+        "names": [
+          "Banquier de nw",
+          "pyromaniac1990",
+          null,
+          "Neishatun",
+          "oPy"
+        ]
+      },
+      {
+        "value": 1104,
+        "entityId": "3dad4f6f-db42-4144-899c-10c46e590e3b_87e5ce12-56a9-46c9-8069-1fb333eeb7f8_8c717b6e-96c3-41be-a829-4b477ae0a82c_a3369d2e-6488-44c6-b236-46122bfecd77_b474ba52-fc2b-4442-a9ce-57f6ef84fbbb",
+        "matchId": null,
+        "rank": 7,
+        "names": [
+          "Nethil",
+          "Cwar97",
+          null,
+          null,
+          "Cat a'KIysm"
+        ]
+      },
+      {
+        "value": 1123,
+        "entityId": "1658f138-b387-4b22-8878-199d4926c71f_2d0fb5ee-db6a-434d-a15e-00a64b299b91_9ecd93f2-fe37-4f5e-9434-0abe2165b76b_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_c7201942-569a-4960-a158-2416f79bc835",
+        "matchId": null,
+        "rank": 8,
+        "names": [
+          "Devlish",
+          "Bad Omen261",
+          null,
+          "Weisske",
+          "HolynWan"
+        ]
+      },
+      {
+        "value": 1137,
+        "entityId": "2273574e-811c-483d-bf9b-61abd6bf345f_2d0fb5ee-db6a-434d-a15e-00a64b299b91_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_c7201942-569a-4960-a158-2416f79bc835_ea4850d5-6ddf-46af-a4fd-aed19d61a9ca",
+        "matchId": null,
+        "rank": 9,
+        "names": [
+          null,
+          "Bad Omen261",
+          "Weisske",
+          "HolynWan",
+          "Soul Slayer 3"
+        ]
+      },
+      {
+        "value": 1217,
+        "entityId": "2b91b45d-a852-4f00-b3a2-a27380909326_5e7e1db8-1681-4341-a8d4-15e3a57c7434_7453f3fb-2589-486b-a923-57745287a145_93fedd5a-e7a2-4665-8922-c67903a9c070_ee287bb9-10e7-4a88-adaf-fdcb5c12181a",
+        "matchId": null,
+        "rank": 10,
+        "names": [
+          "P-oPy-ette",
+          "SAUVAGE FR69",
+          null,
+          "Spara Pluie",
+          "Volcane"
+        ]
+      },
+      {
+        "value": 1218,
+        "entityId": "5e7e1db8-1681-4341-a8d4-15e3a57c7434_7453f3fb-2589-486b-a923-57745287a145_aa3c8ca4-625f-47cf-a955-ef97fecfc095_db5a6c61-bcd2-4657-9bba-3e7b8a07be71_fe90a73a-ba38-467c-8df8-1c7f4447dc94",
+        "matchId": null,
+        "rank": 11,
+        "names": [
+          "SAUVAGE FR69",
+          null,
+          "oPy",
+          null,
+          "Syllvanna"
+        ]
+      },
+      {
+        "value": 1281,
+        "entityId": "0b739d78-685c-4239-b1f2-e59ae5c453f2_7453f3fb-2589-486b-a923-57745287a145_93fedd5a-e7a2-4665-8922-c67903a9c070_aa3c8ca4-625f-47cf-a955-ef97fecfc095_b5c242fe-e4c5-4e2b-8c23-d9f0b44d70ec",
+        "matchId": null,
+        "rank": 12,
+        "names": [
+          "Banquier de nw",
+          null,
+          "Spara Pluie",
+          "oPy",
+          "Owen Abe"
+        ]
+      },
+      {
+        "value": 1286,
+        "entityId": "18229cb5-be99-4bb6-8153-98dbc2df9749_2d0fb5ee-db6a-434d-a15e-00a64b299b91_5e7e1db8-1681-4341-a8d4-15e3a57c7434_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_aa3c8ca4-625f-47cf-a955-ef97fecfc095",
+        "matchId": null,
+        "rank": 13,
+        "names": [
+          "MerlinTheWitch",
+          "Bad Omen261",
+          "SAUVAGE FR69",
+          "Weisske",
+          "oPy"
+        ]
+      },
+      {
+        "value": 1595,
+        "entityId": "0798466c-0345-4b1d-b338-d680d5c7f5b6_566c607d-4321-45c3-9a49-dfd4313e7aaf_9e7aa2c4-d7e5-4304-8a14-d9f766df3922_9f842077-9984-4d19-96b5-3a9c763c1dd3_a807917a-8869-4f2d-b3ed-c220bca26285",
+        "matchId": null,
+        "rank": 14,
+        "names": [
+          null,
+          "Fl0th1x",
+          null,
+          null,
+          "TheySeeMeGaming"
+        ]
+      }
+    ],
+    "leaderboardSize": 14,
+    "isBackedUp": true
+  },
+  "top-group-expedition-score.DungeonFirstLight01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonFirstLight01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonGreatCleave00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonGreatCleave00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonGreatCleave01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonGreatCleave01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonReekwater00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonReekwater00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonRestlessShores01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonRestlessShores01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonShatterMtn00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonShatterMtn00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonShatteredObelisk": {
+    "leaderboardEntries": [
+      {
+        "value": 77725,
+        "matchId": null,
+        "entityId": "2b91b45d-a852-4f00-b3a2-a27380909326_5e7e1db8-1681-4341-a8d4-15e3a57c7434_7453f3fb-2589-486b-a923-57745287a145_93fedd5a-e7a2-4665-8922-c67903a9c070_b5c242fe-e4c5-4e2b-8c23-d9f0b44d70ec",
+        "rank": 1,
+        "names": [
+          "P-oPy-ette",
+          "SAUVAGE FR69",
+          null,
+          "Spara Pluie",
+          "Owen Abe"
+        ]
+      },
+      {
+        "value": 46325,
+        "matchId": null,
+        "entityId": "2b91b45d-a852-4f00-b3a2-a27380909326_5e7e1db8-1681-4341-a8d4-15e3a57c7434_7453f3fb-2589-486b-a923-57745287a145_93fedd5a-e7a2-4665-8922-c67903a9c070_c7201942-569a-4960-a158-2416f79bc835",
+        "rank": 2,
+        "names": [
+          "P-oPy-ette",
+          "SAUVAGE FR69",
+          null,
+          "Spara Pluie",
+          "HolynWan"
+        ]
+      },
+      {
+        "value": 38600,
+        "matchId": null,
+        "entityId": "2273574e-811c-483d-bf9b-61abd6bf345f_2d0fb5ee-db6a-434d-a15e-00a64b299b91_3a2eb86b-edbd-4761-a60b-2ab9abb8a0c5_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_c7201942-569a-4960-a158-2416f79bc835",
+        "rank": 3,
+        "names": [
+          null,
+          "Bad Omen261",
+          null,
+          "Weisske",
+          "HolynWan"
+        ]
+      },
+      {
+        "value": 33980,
+        "matchId": null,
+        "entityId": "1658f138-b387-4b22-8878-199d4926c71f_2d0fb5ee-db6a-434d-a15e-00a64b299b91_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_b3b3e00b-ef19-417c-b15d-9cd39c576d4a_c7201942-569a-4960-a158-2416f79bc835",
+        "rank": 4,
+        "names": [
+          "Devlish",
+          "Bad Omen261",
+          "Weisske",
+          null,
+          "HolynWan"
+        ]
+      },
+      {
+        "value": 26280,
+        "matchId": null,
+        "entityId": "1658f138-b387-4b22-8878-199d4926c71f_2d0fb5ee-db6a-434d-a15e-00a64b299b91_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_c7201942-569a-4960-a158-2416f79bc835_ea4850d5-6ddf-46af-a4fd-aed19d61a9ca",
+        "rank": 5,
+        "names": [
+          "Devlish",
+          "Bad Omen261",
+          "Weisske",
+          "HolynWan",
+          "Soul Slayer 3"
+        ]
+      },
+      {
+        "value": 13540,
+        "matchId": null,
+        "entityId": "2d0fb5ee-db6a-434d-a15e-00a64b299b91_3a2eb86b-edbd-4761-a60b-2ab9abb8a0c5_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_c7201942-569a-4960-a158-2416f79bc835_ea4850d5-6ddf-46af-a4fd-aed19d61a9ca",
+        "rank": 6,
+        "names": [
+          "Bad Omen261",
+          null,
+          "Weisske",
+          "HolynWan",
+          "Soul Slayer 3"
+        ]
+      }
+    ],
+    "leaderboardSize": 6,
+    "isBackedUp": true
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonShatteredObelisk": {
+    "leaderboardEntries": [
+      {
+        "value": 1591,
+        "entityId": "2b91b45d-a852-4f00-b3a2-a27380909326_5e7e1db8-1681-4341-a8d4-15e3a57c7434_7453f3fb-2589-486b-a923-57745287a145_93fedd5a-e7a2-4665-8922-c67903a9c070_b5c242fe-e4c5-4e2b-8c23-d9f0b44d70ec",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "P-oPy-ette",
+          "SAUVAGE FR69",
+          null,
+          "Spara Pluie",
+          "Owen Abe"
+        ]
+      }
+    ],
+    "leaderboardSize": 1,
+    "isBackedUp": true
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "top-group-expedition-score.DungeonBrimstoneSands00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonBrimstoneSands00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonCutlassKeys00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonCutlassKeys00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonEbonscale00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonEbonscale00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonEdengrove00": {
+    "leaderboardEntries": [
+      {
+        "value": 72475,
+        "entityId": "037b35a0-e03f-455d-bc72-bcf5464e18f1_0a168e22-017a-4200-aa0a-c7d4c1a48fec_344b8b20-9f31-42c3-aac2-6f95dcfa59d8_98684354-36dc-48b0-aa59-d1233a92d923_a3369d2e-6488-44c6-b236-46122bfecd77",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "Uniten",
+          "RoelRug",
+          null,
+          "ChardonNaay",
+          null
+        ]
+      },
+      {
+        "value": 51780,
+        "entityId": "0b41a8d9-c62c-4e5b-b1c3-dd5fea484b07_1332b033-b5e7-4079-9cdd-870847fdda47_4535522a-3033-44c0-b3c2-582840c0a96a_5c0a1c8b-df50-4909-9952-382e923f30cd_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "matchId": null,
+        "rank": 2,
+        "names": [
+          "cyborgbag",
+          "Pinkviini",
+          "ToDDy",
+          "TheWitchMerlin",
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 50300,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_4535522a-3033-44c0-b3c2-582840c0a96a_5c0a1c8b-df50-4909-9952-382e923f30cd_62129f9a-2d40-4963-96c7-bdb90fbae2d2_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38",
+        "matchId": null,
+        "rank": 3,
+        "names": [
+          "Pinkviini",
+          "ToDDy",
+          "TheWitchMerlin",
+          "pyromaniac1990",
+          "Weisske"
+        ]
+      },
+      {
+        "value": 49460,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_4535522a-3033-44c0-b3c2-582840c0a96a_5c0a1c8b-df50-4909-9952-382e923f30cd_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_a3369d2e-6488-44c6-b236-46122bfecd77",
+        "matchId": null,
+        "rank": 4,
+        "names": [
+          "Pinkviini",
+          "ToDDy",
+          "TheWitchMerlin",
+          "Weisske",
+          null
+        ]
+      },
+      {
+        "value": 48740,
+        "entityId": "0b41a8d9-c62c-4e5b-b1c3-dd5fea484b07_1332b033-b5e7-4079-9cdd-870847fdda47_4535522a-3033-44c0-b3c2-582840c0a96a_5c0a1c8b-df50-4909-9952-382e923f30cd_a6aa6149-025d-4e0c-94c9-4440af99c80f",
+        "matchId": null,
+        "rank": 5,
+        "names": [
+          "cyborgbag",
+          "Pinkviini",
+          "ToDDy",
+          "TheWitchMerlin",
+          "Neishatun"
+        ]
+      }
+    ],
+    "leaderboardSize": 5,
+    "isBackedUp": true
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonEdengrove00": {
+    "leaderboardEntries": [
+      {
+        "value": 651,
+        "entityId": "0b41a8d9-c62c-4e5b-b1c3-dd5fea484b07_1332b033-b5e7-4079-9cdd-870847fdda47_4535522a-3033-44c0-b3c2-582840c0a96a_5c0a1c8b-df50-4909-9952-382e923f30cd_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "cyborgbag",
+          "Pinkviini",
+          "ToDDy",
+          "TheWitchMerlin",
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 705,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_4535522a-3033-44c0-b3c2-582840c0a96a_5c0a1c8b-df50-4909-9952-382e923f30cd_62129f9a-2d40-4963-96c7-bdb90fbae2d2_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38",
+        "matchId": null,
+        "rank": 2,
+        "names": [
+          "Pinkviini",
+          "ToDDy",
+          "TheWitchMerlin",
+          "pyromaniac1990",
+          "Weisske"
+        ]
+      },
+      {
+        "value": 1109,
+        "entityId": "037b35a0-e03f-455d-bc72-bcf5464e18f1_0a168e22-017a-4200-aa0a-c7d4c1a48fec_344b8b20-9f31-42c3-aac2-6f95dcfa59d8_98684354-36dc-48b0-aa59-d1233a92d923_a3369d2e-6488-44c6-b236-46122bfecd77",
+        "matchId": null,
+        "rank": 3,
+        "names": [
+          "Uniten",
+          "RoelRug",
+          null,
+          "ChardonNaay",
+          null
+        ]
+      }
+    ],
+    "leaderboardSize": 3,
+    "isBackedUp": true
+  },
+  "top-group-expedition-score.DungeonFirstLight01": {
+    "leaderboardEntries": [
+      {
+        "value": 91850,
+        "entityId": "2d02362a-2a70-489e-8788-027b4994346c_5137559b-e623-48a5-98e3-165f98ca67ff_637927f6-22a8-476e-a084-f966a1092112_792f3964-b670-4485-ad9f-2fe6a036fd20_d702a6c0-dd76-4cbf-9293-d98301199a61",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          null,
+          "Phillhan",
+          "Ionessa Blue",
+          "Lordess I",
+          "DocYoda"
+        ]
+      },
+      {
+        "value": 42120,
+        "entityId": "411f19c1-fbe4-4f64-a356-7ed5db9721b1_71c13ba0-4a03-4808-8f4a-cdb24c7ecbf5_7da88ff5-6849-45bc-8358-4b35ddb0303b_94b56ca1-a6dc-4abd-a7ac-765c9538c711_ec9c98f6-4753-4ada-a789-124d484bd892",
+        "matchId": null,
+        "rank": 2,
+        "names": [
+          "Lexi T",
+          null,
+          null,
+          "Veralux",
+          null
+        ]
+      },
+      {
+        "value": 38775,
+        "entityId": "2d02362a-2a70-489e-8788-027b4994346c_508f78b8-e36a-4f85-a19c-3d2bd1176bf1_637927f6-22a8-476e-a084-f966a1092112_792f3964-b670-4485-ad9f-2fe6a036fd20_d702a6c0-dd76-4cbf-9293-d98301199a61",
+        "matchId": null,
+        "rank": 3,
+        "names": [
+          null,
+          "Bella89",
+          "Ionessa Blue",
+          "Lordess I",
+          "DocYoda"
+        ]
+      }
+    ],
+    "leaderboardSize": 3,
+    "isBackedUp": true
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonFirstLight01": {
+    "leaderboardEntries": [
+      {
+        "value": 1946,
+        "matchId": null,
+        "entityId": "2d02362a-2a70-489e-8788-027b4994346c_5137559b-e623-48a5-98e3-165f98ca67ff_637927f6-22a8-476e-a084-f966a1092112_792f3964-b670-4485-ad9f-2fe6a036fd20_d702a6c0-dd76-4cbf-9293-d98301199a61",
+        "rank": 1,
+        "names": [
+          null,
+          "Phillhan",
+          "Ionessa Blue",
+          "Lordess I",
+          "DocYoda"
+        ]
+      }
+    ],
+    "leaderboardSize": 1,
+    "isBackedUp": true
+  },
+  "top-group-expedition-score.DungeonGreatCleave00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonGreatCleave00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonGreatCleave01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonGreatCleave01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonReekwater00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonReekwater00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonRestlessShores01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonRestlessShores01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonShatterMtn00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonShatterMtn00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonShatteredObelisk": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonShatteredObelisk": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  }
+}

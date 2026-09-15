@@ -1,0 +1,715 @@
+{
+  "top-group-expedition-score.DungeonBrimstoneSands00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonBrimstoneSands00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonCutlassKeys00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonCutlassKeys00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonEbonscale00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonEbonscale00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonEdengrove00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonEdengrove00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonFirstLight01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonFirstLight01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonGreatCleave00": {
+    "leaderboardEntries": [
+      {
+        "value": 92500,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_62129f9a-2d40-4963-96c7-bdb90fbae2d2_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_a6aa6149-025d-4e0c-94c9-4440af99c80f_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "Pinkviini",
+          "pyromaniac1990",
+          "Weisske",
+          "Neishatun",
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 89650,
+        "entityId": "037b35a0-e03f-455d-bc72-bcf5464e18f1_0a168e22-017a-4200-aa0a-c7d4c1a48fec_5e7e1db8-1681-4341-a8d4-15e3a57c7434_a3369d2e-6488-44c6-b236-46122bfecd77_aa3c8ca4-625f-47cf-a955-ef97fecfc095",
+        "matchId": null,
+        "rank": 2,
+        "names": [
+          "Uniten",
+          "RoelRug",
+          "SAUVAGE FR69",
+          null,
+          "oPy"
+        ]
+      }
+    ],
+    "leaderboardSize": 2,
+    "isBackedUp": true
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonGreatCleave00": {
+    "leaderboardEntries": [
+      {
+        "value": 1029,
+        "matchId": null,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_62129f9a-2d40-4963-96c7-bdb90fbae2d2_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_a6aa6149-025d-4e0c-94c9-4440af99c80f_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "rank": 1,
+        "names": [
+          "Pinkviini",
+          "pyromaniac1990",
+          "Weisske",
+          "Neishatun",
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 1143,
+        "matchId": null,
+        "entityId": "037b35a0-e03f-455d-bc72-bcf5464e18f1_0a168e22-017a-4200-aa0a-c7d4c1a48fec_5e7e1db8-1681-4341-a8d4-15e3a57c7434_a3369d2e-6488-44c6-b236-46122bfecd77_aa3c8ca4-625f-47cf-a955-ef97fecfc095",
+        "rank": 2,
+        "names": [
+          "Uniten",
+          "RoelRug",
+          "SAUVAGE FR69",
+          null,
+          "oPy"
+        ]
+      }
+    ],
+    "leaderboardSize": 2,
+    "isBackedUp": true
+  },
+  "top-group-expedition-score.DungeonGreatCleave01": {
+    "leaderboardEntries": [
+      {
+        "value": 87600,
+        "entityId": "037b35a0-e03f-455d-bc72-bcf5464e18f1_0a168e22-017a-4200-aa0a-c7d4c1a48fec_5e7e1db8-1681-4341-a8d4-15e3a57c7434_a3369d2e-6488-44c6-b236-46122bfecd77_aa3c8ca4-625f-47cf-a955-ef97fecfc095",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "Uniten",
+          "RoelRug",
+          "SAUVAGE FR69",
+          null,
+          "oPy"
+        ]
+      },
+      {
+        "value": 85075,
+        "entityId": "2d0fb5ee-db6a-434d-a15e-00a64b299b91_5c0a1c8b-df50-4909-9952-382e923f30cd_62129f9a-2d40-4963-96c7-bdb90fbae2d2_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_a6aa6149-025d-4e0c-94c9-4440af99c80f",
+        "matchId": null,
+        "rank": 2,
+        "names": [
+          "Bad Omen261",
+          "TheWitchMerlin",
+          "pyromaniac1990",
+          "Weisske",
+          "Neishatun"
+        ]
+      },
+      {
+        "value": 68125,
+        "entityId": "054b8001-26bf-496d-863c-ef05347c9ec6_566c607d-4321-45c3-9a49-dfd4313e7aaf_7321c2a7-bea1-4a00-9de1-1a2d2f07ea3b_78cce96a-a0f8-4e68-802e-9c7ea3c4da91_b88ada8a-149b-44f4-9610-00328cd7ade8",
+        "matchId": null,
+        "rank": 3,
+        "names": [
+          "Phueben",
+          "Fl0th1x",
+          "Feehi81",
+          "Flemke",
+          "BrunHilde Perkel"
+        ]
+      },
+      {
+        "value": 63225,
+        "entityId": "3b3f9ec6-ec72-46b8-b54f-cb3e8b417e5a_566c607d-4321-45c3-9a49-dfd4313e7aaf_9e7aa2c4-d7e5-4304-8a14-d9f766df3922_a807917a-8869-4f2d-b3ed-c220bca26285_e018c305-415c-4fb8-a4b2-eec4938154ca",
+        "matchId": null,
+        "rank": 4,
+        "names": [
+          null,
+          "Fl0th1x",
+          null,
+          "TheySeeMeGaming",
+          null
+        ]
+      },
+      {
+        "value": 63120,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_62129f9a-2d40-4963-96c7-bdb90fbae2d2_8b2b854c-6865-4567-8d74-b8c46ed9716c_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_a6aa6149-025d-4e0c-94c9-4440af99c80f",
+        "matchId": null,
+        "rank": 5,
+        "names": [
+          "Pinkviini",
+          "pyromaniac1990",
+          null,
+          "Weisske",
+          "Neishatun"
+        ]
+      },
+      {
+        "value": 57050,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_2d0fb5ee-db6a-434d-a15e-00a64b299b91_4535522a-3033-44c0-b3c2-582840c0a96a_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "matchId": null,
+        "rank": 6,
+        "names": [
+          "Pinkviini",
+          "Bad Omen261",
+          "ToDDy",
+          "Weisske",
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 49160,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_4535522a-3033-44c0-b3c2-582840c0a96a_62129f9a-2d40-4963-96c7-bdb90fbae2d2_8b2b854c-6865-4567-8d74-b8c46ed9716c_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38",
+        "matchId": null,
+        "rank": 7,
+        "names": [
+          "Pinkviini",
+          "ToDDy",
+          "pyromaniac1990",
+          null,
+          "Weisske"
+        ]
+      },
+      {
+        "value": 30960,
+        "entityId": "03f0453d-ab02-47f6-9f34-28d42e8266cd_1332b033-b5e7-4079-9cdd-870847fdda47_2d0fb5ee-db6a-434d-a15e-00a64b299b91_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_c895fbaa-b906-4f7f-8905-afbb5c1de7c8",
+        "matchId": null,
+        "rank": 8,
+        "names": [
+          "NA speed runner",
+          "Pinkviini",
+          "Bad Omen261",
+          "Weisske",
+          "LilNatalie"
+        ]
+      },
+      {
+        "value": 4792,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_2d0fb5ee-db6a-434d-a15e-00a64b299b91_5c0a1c8b-df50-4909-9952-382e923f30cd_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_c895fbaa-b906-4f7f-8905-afbb5c1de7c8",
+        "matchId": null,
+        "rank": 9,
+        "names": [
+          "Pinkviini",
+          "Bad Omen261",
+          "TheWitchMerlin",
+          "Weisske",
+          "LilNatalie"
+        ]
+      },
+      {
+        "value": 3600,
+        "entityId": "411f19c1-fbe4-4f64-a356-7ed5db9721b1_4a5a7da4-2ca9-4911-aa48-93102cfa2971_71c13ba0-4a03-4808-8f4a-cdb24c7ecbf5_8bc3e960-d10c-4bab-8097-5a4f22cdce41_fddd5dca-ff87-485c-8327-7860f207941a",
+        "matchId": null,
+        "rank": 10,
+        "names": [
+          "Lexi T",
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    ],
+    "leaderboardSize": 10,
+    "isBackedUp": true
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonGreatCleave01": {
+    "leaderboardEntries": [
+      {
+        "value": 1304,
+        "matchId": null,
+        "entityId": "037b35a0-e03f-455d-bc72-bcf5464e18f1_0a168e22-017a-4200-aa0a-c7d4c1a48fec_5e7e1db8-1681-4341-a8d4-15e3a57c7434_a3369d2e-6488-44c6-b236-46122bfecd77_aa3c8ca4-625f-47cf-a955-ef97fecfc095",
+        "rank": 1,
+        "names": [
+          "Uniten",
+          "RoelRug",
+          "SAUVAGE FR69",
+          null,
+          "oPy"
+        ]
+      },
+      {
+        "value": 1405,
+        "matchId": null,
+        "entityId": "2d0fb5ee-db6a-434d-a15e-00a64b299b91_5c0a1c8b-df50-4909-9952-382e923f30cd_62129f9a-2d40-4963-96c7-bdb90fbae2d2_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_a6aa6149-025d-4e0c-94c9-4440af99c80f",
+        "rank": 2,
+        "names": [
+          "Bad Omen261",
+          "TheWitchMerlin",
+          "pyromaniac1990",
+          "Weisske",
+          "Neishatun"
+        ]
+      },
+      {
+        "value": 1466,
+        "matchId": null,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_2d0fb5ee-db6a-434d-a15e-00a64b299b91_4535522a-3033-44c0-b3c2-582840c0a96a_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "rank": 3,
+        "names": [
+          "Pinkviini",
+          "Bad Omen261",
+          "ToDDy",
+          "Weisske",
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 1552,
+        "matchId": null,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_62129f9a-2d40-4963-96c7-bdb90fbae2d2_8b2b854c-6865-4567-8d74-b8c46ed9716c_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_a6aa6149-025d-4e0c-94c9-4440af99c80f",
+        "rank": 4,
+        "names": [
+          "Pinkviini",
+          "pyromaniac1990",
+          null,
+          "Weisske",
+          "Neishatun"
+        ]
+      },
+      {
+        "value": 1883,
+        "matchId": null,
+        "entityId": "054b8001-26bf-496d-863c-ef05347c9ec6_566c607d-4321-45c3-9a49-dfd4313e7aaf_7321c2a7-bea1-4a00-9de1-1a2d2f07ea3b_78cce96a-a0f8-4e68-802e-9c7ea3c4da91_b88ada8a-149b-44f4-9610-00328cd7ade8",
+        "rank": 5,
+        "names": [
+          "Phueben",
+          "Fl0th1x",
+          "Feehi81",
+          "Flemke",
+          "BrunHilde Perkel"
+        ]
+      },
+      {
+        "value": 2099,
+        "matchId": null,
+        "entityId": "3b3f9ec6-ec72-46b8-b54f-cb3e8b417e5a_566c607d-4321-45c3-9a49-dfd4313e7aaf_9e7aa2c4-d7e5-4304-8a14-d9f766df3922_a807917a-8869-4f2d-b3ed-c220bca26285_e018c305-415c-4fb8-a4b2-eec4938154ca",
+        "rank": 6,
+        "names": [
+          null,
+          "Fl0th1x",
+          null,
+          "TheySeeMeGaming",
+          null
+        ]
+      }
+    ],
+    "leaderboardSize": 6,
+    "isBackedUp": true
+  },
+  "top-group-expedition-score.DungeonReekwater00": {
+    "leaderboardEntries": [
+      {
+        "value": 79050,
+        "matchId": null,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_2d0fb5ee-db6a-434d-a15e-00a64b299b91_44bbdd78-3594-4a5c-bb72-6493e0fd1e0c_a6aa6149-025d-4e0c-94c9-4440af99c80f_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "rank": 1,
+        "names": [
+          "Pinkviini",
+          "Bad Omen261",
+          "ToDDy96",
+          "Neishatun",
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 79050,
+        "matchId": null,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_2d0fb5ee-db6a-434d-a15e-00a64b299b91_44bbdd78-3594-4a5c-bb72-6493e0fd1e0c_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "rank": 1,
+        "names": [
+          "Pinkviini",
+          "Bad Omen261",
+          "ToDDy96",
+          "Weisske",
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 75275,
+        "matchId": null,
+        "entityId": "037b35a0-e03f-455d-bc72-bcf5464e18f1_0a168e22-017a-4200-aa0a-c7d4c1a48fec_2b91b45d-a852-4f00-b3a2-a27380909326_5e7e1db8-1681-4341-a8d4-15e3a57c7434_a3369d2e-6488-44c6-b236-46122bfecd77",
+        "rank": 3,
+        "names": [
+          "Uniten",
+          "RoelRug",
+          "P-oPy-ette",
+          "SAUVAGE FR69",
+          null
+        ]
+      },
+      {
+        "value": 73600,
+        "matchId": null,
+        "entityId": "0b739d78-685c-4239-b1f2-e59ae5c453f2_566c607d-4321-45c3-9a49-dfd4313e7aaf_67e2d8ca-e7a3-4fc9-8cb4-b82baebb0cc4_8b2b854c-6865-4567-8d74-b8c46ed9716c_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "rank": 4,
+        "names": [
+          "Banquier de nw",
+          "Fl0th1x",
+          "JIGG00",
+          null,
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 71950,
+        "matchId": null,
+        "entityId": "2d0fb5ee-db6a-434d-a15e-00a64b299b91_4535522a-3033-44c0-b3c2-582840c0a96a_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_a3369d2e-6488-44c6-b236-46122bfecd77_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "rank": 5,
+        "names": [
+          "Bad Omen261",
+          "ToDDy",
+          "Weisske",
+          null,
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 70025,
+        "matchId": null,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_44bbdd78-3594-4a5c-bb72-6493e0fd1e0c_8b2b854c-6865-4567-8d74-b8c46ed9716c_aa3c8ca4-625f-47cf-a955-ef97fecfc095_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "rank": 6,
+        "names": [
+          "Pinkviini",
+          "ToDDy96",
+          null,
+          "oPy",
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 54100,
+        "matchId": null,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_2d0fb5ee-db6a-434d-a15e-00a64b299b91_44bbdd78-3594-4a5c-bb72-6493e0fd1e0c_62129f9a-2d40-4963-96c7-bdb90fbae2d2_a6aa6149-025d-4e0c-94c9-4440af99c80f",
+        "rank": 7,
+        "names": [
+          "Pinkviini",
+          "Bad Omen261",
+          "ToDDy96",
+          "pyromaniac1990",
+          "Neishatun"
+        ]
+      },
+      {
+        "value": 36120,
+        "matchId": null,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_2d0fb5ee-db6a-434d-a15e-00a64b299b91_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_c22e24a5-2494-4fef-bb81-4d808239d60c_c895fbaa-b906-4f7f-8905-afbb5c1de7c8",
+        "rank": 8,
+        "names": [
+          "Pinkviini",
+          "Bad Omen261",
+          "Weisske",
+          "Solariaz",
+          "LilNatalie"
+        ]
+      },
+      {
+        "value": 35600,
+        "matchId": null,
+        "entityId": "037b35a0-e03f-455d-bc72-bcf5464e18f1_0b739d78-685c-4239-b1f2-e59ae5c453f2_2b91b45d-a852-4f00-b3a2-a27380909326_67e2d8ca-e7a3-4fc9-8cb4-b82baebb0cc4_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "rank": 9,
+        "names": [
+          "Uniten",
+          "Banquier de nw",
+          "P-oPy-ette",
+          "JIGG00",
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 29025,
+        "matchId": null,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_2d0fb5ee-db6a-434d-a15e-00a64b299b91_44bbdd78-3594-4a5c-bb72-6493e0fd1e0c_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_aa3c8ca4-625f-47cf-a955-ef97fecfc095",
+        "rank": 10,
+        "names": [
+          "Pinkviini",
+          "Bad Omen261",
+          "ToDDy96",
+          "Weisske",
+          "oPy"
+        ]
+      },
+      {
+        "value": 25590,
+        "matchId": null,
+        "entityId": "2d0fb5ee-db6a-434d-a15e-00a64b299b91_44bbdd78-3594-4a5c-bb72-6493e0fd1e0c_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_aa3c8ca4-625f-47cf-a955-ef97fecfc095_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "rank": 11,
+        "names": [
+          "Bad Omen261",
+          "ToDDy96",
+          "Weisske",
+          "oPy",
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 20610,
+        "matchId": null,
+        "entityId": "054b8001-26bf-496d-863c-ef05347c9ec6_566c607d-4321-45c3-9a49-dfd4313e7aaf_7321c2a7-bea1-4a00-9de1-1a2d2f07ea3b_78cce96a-a0f8-4e68-802e-9c7ea3c4da91_b88ada8a-149b-44f4-9610-00328cd7ade8",
+        "rank": 12,
+        "names": [
+          "Phueben",
+          "Fl0th1x",
+          "Feehi81",
+          "Flemke",
+          "BrunHilde Perkel"
+        ]
+      },
+      {
+        "value": 19320,
+        "matchId": null,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_2d0fb5ee-db6a-434d-a15e-00a64b299b91_5c0a1c8b-df50-4909-9952-382e923f30cd_a6aa6149-025d-4e0c-94c9-4440af99c80f_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "rank": 13,
+        "names": [
+          "Pinkviini",
+          "Bad Omen261",
+          "TheWitchMerlin",
+          "Neishatun",
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 16485,
+        "matchId": null,
+        "entityId": "2d0fb5ee-db6a-434d-a15e-00a64b299b91_44bbdd78-3594-4a5c-bb72-6493e0fd1e0c_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_c22e24a5-2494-4fef-bb81-4d808239d60c_c895fbaa-b906-4f7f-8905-afbb5c1de7c8",
+        "rank": 14,
+        "names": [
+          "Bad Omen261",
+          "ToDDy96",
+          "Weisske",
+          "Solariaz",
+          "LilNatalie"
+        ]
+      },
+      {
+        "value": 13440,
+        "matchId": null,
+        "entityId": "0a168e22-017a-4200-aa0a-c7d4c1a48fec_2b91b45d-a852-4f00-b3a2-a27380909326_5e7e1db8-1681-4341-a8d4-15e3a57c7434_98684354-36dc-48b0-aa59-d1233a92d923_a3369d2e-6488-44c6-b236-46122bfecd77",
+        "rank": 15,
+        "names": [
+          "RoelRug",
+          "P-oPy-ette",
+          "SAUVAGE FR69",
+          "ChardonNaay",
+          null
+        ]
+      },
+      {
+        "value": 11505,
+        "matchId": null,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_2d0fb5ee-db6a-434d-a15e-00a64b299b91_44bbdd78-3594-4a5c-bb72-6493e0fd1e0c_8b2b854c-6865-4567-8d74-b8c46ed9716c_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "rank": 16,
+        "names": [
+          "Pinkviini",
+          "Bad Omen261",
+          "ToDDy96",
+          null,
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 5540,
+        "matchId": null,
+        "entityId": "2d0fb5ee-db6a-434d-a15e-00a64b299b91_4535522a-3033-44c0-b3c2-582840c0a96a_62129f9a-2d40-4963-96c7-bdb90fbae2d2_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_a3369d2e-6488-44c6-b236-46122bfecd77",
+        "rank": 17,
+        "names": [
+          "Bad Omen261",
+          "ToDDy",
+          "pyromaniac1990",
+          "Weisske",
+          null
+        ]
+      },
+      {
+        "value": 3780,
+        "matchId": null,
+        "entityId": "2d0fb5ee-db6a-434d-a15e-00a64b299b91_4535522a-3033-44c0-b3c2-582840c0a96a_8b2b854c-6865-4567-8d74-b8c46ed9716c_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_a3369d2e-6488-44c6-b236-46122bfecd77",
+        "rank": 18,
+        "names": [
+          "Bad Omen261",
+          "ToDDy",
+          null,
+          "Weisske",
+          null
+        ]
+      },
+      {
+        "value": 330,
+        "matchId": null,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_2d0fb5ee-db6a-434d-a15e-00a64b299b91_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "rank": 19,
+        "names": [
+          "Pinkviini",
+          "Bad Omen261",
+          "Weisske",
+          "Solariaz"
+        ]
+      }
+    ],
+    "leaderboardSize": 19,
+    "isBackedUp": true
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonReekwater00": {
+    "leaderboardEntries": [
+      {
+        "value": 1102,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_2d0fb5ee-db6a-434d-a15e-00a64b299b91_44bbdd78-3594-4a5c-bb72-6493e0fd1e0c_a6aa6149-025d-4e0c-94c9-4440af99c80f_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "matchId": null,
+        "rank": 1,
+        "names": [
+          "Pinkviini",
+          "Bad Omen261",
+          "ToDDy96",
+          "Neishatun",
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 1163,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_2d0fb5ee-db6a-434d-a15e-00a64b299b91_44bbdd78-3594-4a5c-bb72-6493e0fd1e0c_62129f9a-2d40-4963-96c7-bdb90fbae2d2_a6aa6149-025d-4e0c-94c9-4440af99c80f",
+        "matchId": null,
+        "rank": 2,
+        "names": [
+          "Pinkviini",
+          "Bad Omen261",
+          "ToDDy96",
+          "pyromaniac1990",
+          "Neishatun"
+        ]
+      },
+      {
+        "value": 1189,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_44bbdd78-3594-4a5c-bb72-6493e0fd1e0c_8b2b854c-6865-4567-8d74-b8c46ed9716c_aa3c8ca4-625f-47cf-a955-ef97fecfc095_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "matchId": null,
+        "rank": 3,
+        "names": [
+          "Pinkviini",
+          "ToDDy96",
+          null,
+          "oPy",
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 1238,
+        "entityId": "1332b033-b5e7-4079-9cdd-870847fdda47_2d0fb5ee-db6a-434d-a15e-00a64b299b91_44bbdd78-3594-4a5c-bb72-6493e0fd1e0c_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "matchId": null,
+        "rank": 4,
+        "names": [
+          "Pinkviini",
+          "Bad Omen261",
+          "ToDDy96",
+          "Weisske",
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 1289,
+        "entityId": "037b35a0-e03f-455d-bc72-bcf5464e18f1_0a168e22-017a-4200-aa0a-c7d4c1a48fec_2b91b45d-a852-4f00-b3a2-a27380909326_5e7e1db8-1681-4341-a8d4-15e3a57c7434_a3369d2e-6488-44c6-b236-46122bfecd77",
+        "matchId": null,
+        "rank": 5,
+        "names": [
+          "Uniten",
+          "RoelRug",
+          "P-oPy-ette",
+          "SAUVAGE FR69",
+          null
+        ]
+      },
+      {
+        "value": 1296,
+        "entityId": "2d0fb5ee-db6a-434d-a15e-00a64b299b91_4535522a-3033-44c0-b3c2-582840c0a96a_9f12d35f-417c-4fd7-b6ed-6f71fc3b6f38_a3369d2e-6488-44c6-b236-46122bfecd77_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "matchId": null,
+        "rank": 6,
+        "names": [
+          "Bad Omen261",
+          "ToDDy",
+          "Weisske",
+          null,
+          "Solariaz"
+        ]
+      },
+      {
+        "value": 1356,
+        "entityId": "0b739d78-685c-4239-b1f2-e59ae5c453f2_566c607d-4321-45c3-9a49-dfd4313e7aaf_67e2d8ca-e7a3-4fc9-8cb4-b82baebb0cc4_8b2b854c-6865-4567-8d74-b8c46ed9716c_c22e24a5-2494-4fef-bb81-4d808239d60c",
+        "matchId": null,
+        "rank": 7,
+        "names": [
+          "Banquier de nw",
+          "Fl0th1x",
+          "JIGG00",
+          null,
+          "Solariaz"
+        ]
+      }
+    ],
+    "leaderboardSize": 7,
+    "isBackedUp": true
+  },
+  "top-group-expedition-score.DungeonRestlessShores01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonRestlessShores01": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonShatterMtn00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonShatterMtn00": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "top-group-expedition-score.DungeonShatteredObelisk": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  },
+  "min-dungeon-group-gold-medal-expedition-clear-time.DungeonShatteredObelisk": {
+    "leaderboardEntries": [],
+    "leaderboardSize": 0,
+    "isBackedUp": null
+  }
+}

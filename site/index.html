@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>New World Mutated Dungeon Leaderboard Archive</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div class="app">
+  <header>
+    <h1>Mutated Dungeon Leaderboard Archive</h1>
+    <p class="subtitle" id="subtitle">Loading…</p>
+  </header>
+
+  <div class="filters">
+    <div class="field">
+      <label for="dungeon-filter">Dungeon</label>
+      <select id="dungeon-filter">
+        <option value="">All dungeons</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="week-filter">Week</label>
+      <select id="week-filter">
+        <option value="">All weeks</option>
+      </select>
+    </div>
+    <div class="field">
+      <label for="metric-filter">Category</label>
+      <select id="metric-filter">
+        <option value="">Both</option>
+        <option value="score">Score</option>
+        <option value="time">Clear time</option>
+      </select>
+    </div>
+    <div class="field field-grow">
+      <label for="player-search">Player search</label>
+      <input id="player-search" type="text" placeholder="Search a player name…" />
+    </div>
+    <div class="field field-check">
+      <label><input type="checkbox" id="resolved-only" /> Resolved players only</label>
+    </div>
+  </div>
+
+  <div class="result-info" id="result-info"></div>
+
+  <table id="results">
+    <thead>
+      <tr>
+        <th data-sort="rank" class="sortable">Rank</th>
+        <th data-sort="value" class="sortable">Value</th>
+        <th data-sort="week" class="sortable">Week</th>
+        <th data-sort="dungeon" class="sortable">Dungeon</th>
+        <th data-sort="metric" class="sortable">Category</th>
+        <th>Players</th>
+      </tr>
+    </thead>
+    <tbody id="rows"></tbody>
+  </table>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
