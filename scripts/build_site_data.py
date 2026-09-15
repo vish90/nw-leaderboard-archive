@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Flatten leaderboard-data/*.json into one consolidated dataset for the
-static site (site/data.json). Run this after any pipeline update
+static site (docs/data.json). Run this after any pipeline update
 (apply_name_directory.py, mark_done.py, etc.) to refresh the site.
 
 Usage:
@@ -13,7 +13,7 @@ from pathlib import Path
 HERE = Path(__file__).resolve().parent
 ROOT = HERE.parent
 LEADERBOARD_DIR = ROOT / "leaderboard-data"
-OUT_PATH = ROOT / "site" / "data.json"
+OUT_PATH = ROOT / "docs" / "data.json"
 
 WEEK_RE = re.compile(r"week_(\d+)\.json$")
 

@@ -15,11 +15,12 @@ entries without a resolved name are marked `unresolved`.
 - `visited_pages.txt` — week/dungeon/category pages already captured, so the
   priority tool doesn't re-suggest them.
 - `scripts/` — the processing pipeline (see below).
-- `site/` — static site for browsing the archive (filters, sorting, player
-  search). Open `site/index.html` via a local server (not `file://`, since it
-  `fetch()`s `data.json`), e.g.:
+- `docs/` — static site for browsing the archive (filters, sorting, player
+  search), served directly via GitHub Pages. To run it locally instead, open
+  `docs/index.html` via a local server (not `file://`, since it `fetch()`s
+  `data.json`), e.g.:
   ```
-  cd site && python3 -m http.server 8000
+  cd docs && python3 -m http.server 8000
   ```
   then visit `http://localhost:8000`.
 
@@ -43,7 +44,7 @@ entries without a resolved name are marked `unresolved`.
   session's HTTPS capture) and marks them done, then applies everything and
   prints an updated coverage report.
 - `build_site_data.py` — flattens `leaderboard-data/*.json` into
-  `site/data.json` for the static site. Re-run after any pipeline update.
+  `docs/data.json` for the static site. Re-run after any pipeline update.
 
 ## Updating
 
