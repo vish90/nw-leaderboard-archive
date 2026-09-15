@@ -1,16 +1,22 @@
-const MAX_RENDERED_ROWS = 500;
+const MAX_RENDERED_ROWS = 300;
 
 let DATA = { rows: [], dungeons: [], weeks: [] };
-let sortKey = "value";
-let sortDir = "desc";
+
+// Per-dungeon UI state: which metric tab is active, and current sort.
+const sectionState = {}; // dungeon -> { metric: 'score'|'time', sortKey, sortDir }
+
+function getSectionState(dungeon) {
+  if (!sectionState[dungeon]) {
+    sectionState[dungeon] = { metric: "score", sortKey: "rank", sortDir: "asc" };
+  }
+  return sectionState[dungeon];
+}
 
 const dungeonFilter = document.getElementById("dungeon-filter");
 const weekFilter = document.getElementById("week-filter");
-const metricFilter = document.getElementById("metric-filter");
 const playerSearch = document.getElementById("player-search");
 const resolvedOnly = document.getElementById("resolved-only");
-const resultInfo = document.getElementById("result-info");
-const rowsBody = document.getElementById("rows");
+const sectionsEl = document.getElementById("sections");
 const subtitle = document.getElementById("subtitle");
 
 function formatValue(value, metric) {
@@ -29,52 +35,100 @@ function rowMatchesPlayer(row, query) {
   return row.players.some(p => p && p.toLowerCase().includes(q));
 }
 
-function getFiltered() {
+function baseFiltered() {
   const dungeon = dungeonFilter.value;
   const week = weekFilter.value ? parseInt(weekFilter.value, 10) : null;
-  const metric = metricFilter.value;
   const query = playerSearch.value.trim();
   const onlyResolved = resolvedOnly.checked;
 
   return DATA.rows.filter(r => {
     if (dungeon && r.dungeon !== dungeon) return false;
     if (week !== null && r.week !== week) return false;
-    if (metric && r.metric !== metric) return false;
     if (!rowMatchesPlayer(r, query)) return false;
     if (onlyResolved && !r.players.some(p => p)) return false;
     return true;
   });
 }
 
-function sortRows(rows) {
+function sortRows(rows, sortKey, sortDir) {
   const dir = sortDir === "asc" ? 1 : -1;
   return rows.slice().sort((a, b) => {
     let av = a[sortKey];
     let bv = b[sortKey];
-    if (sortKey === "dungeon" || sortKey === "metric") {
-      av = (av || "").toLowerCase();
-      bv = (bv || "").toLowerCase();
-      if (av < bv) return -1 * dir;
-      if (av > bv) return 1 * dir;
-      return 0;
-    }
     av = av === null || av === undefined ? -Infinity : av;
     bv = bv === null || bv === undefined ? -Infinity : bv;
     return (av - bv) * dir;
   });
 }
 
-function render() {
-  const filtered = getFiltered();
-  const sorted = sortRows(filtered);
+function buildSectionEl(dungeon, rowsForDungeon, query) {
+  const state = getSectionState(dungeon);
+
+  const section = document.createElement("div");
+  section.className = "dungeon-section";
+
+  const header = document.createElement("div");
+  header.className = "dungeon-header";
+  const h2 = document.createElement("h2");
+  h2.textContent = dungeon;
+  header.appendChild(h2);
+
+  const tabs = document.createElement("div");
+  tabs.className = "tabs";
+  ["score", "time"].forEach(m => {
+    const btn = document.createElement("button");
+    btn.className = "tab" + (state.metric === m ? " active" : "");
+    btn.textContent = m === "time" ? "Clear Time" : "Score";
+    btn.addEventListener("click", () => {
+      state.metric = m;
+      render();
+    });
+    tabs.appendChild(btn);
+  });
+  header.appendChild(tabs);
+  section.appendChild(header);
+
+  const metricRows = rowsForDungeon.filter(r => r.metric === state.metric);
+  const sorted = sortRows(metricRows, state.sortKey, state.sortDir);
   const shown = sorted.slice(0, MAX_RENDERED_ROWS);
-  const query = playerSearch.value.trim().toLowerCase();
 
-  resultInfo.textContent = filtered.length > MAX_RENDERED_ROWS
-    ? `Showing first ${MAX_RENDERED_ROWS.toLocaleString()} of ${filtered.length.toLocaleString()} matching rows -- narrow your filters to see more`
-    : `${filtered.length.toLocaleString()} matching row${filtered.length === 1 ? "" : "s"}`;
+  const info = document.createElement("div");
+  info.className = "result-info";
+  info.textContent = metricRows.length > MAX_RENDERED_ROWS
+    ? `Showing first ${MAX_RENDERED_ROWS} of ${metricRows.length.toLocaleString()} rows`
+    : `${metricRows.length.toLocaleString()} row${metricRows.length === 1 ? "" : "s"}`;
+  section.appendChild(info);
 
-  rowsBody.textContent = "";
+  const table = document.createElement("table");
+  const thead = document.createElement("thead");
+  const headRow = document.createElement("tr");
+  const columns = [
+    { key: "rank", label: "Rank" },
+    { key: "value", label: state.metric === "time" ? "Time" : "Score" },
+    { key: "week", label: "Week" },
+    { key: null, label: "Players" },
+  ];
+  columns.forEach(col => {
+    const th = document.createElement("th");
+    th.textContent = col.label;
+    if (col.key) {
+      th.className = "sortable" + (state.sortKey === col.key ? " sort-active" : "");
+      th.addEventListener("click", () => {
+        if (state.sortKey === col.key) {
+          state.sortDir = state.sortDir === "asc" ? "desc" : "asc";
+        } else {
+          state.sortKey = col.key;
+          state.sortDir = col.key === "rank" ? "asc" : "desc";
+        }
+        render();
+      });
+    }
+    headRow.appendChild(th);
+  });
+  thead.appendChild(headRow);
+  table.appendChild(thead);
+
+  const tbody = document.createElement("tbody");
   for (const row of shown) {
     const tr = document.createElement("tr");
 
@@ -89,14 +143,6 @@ function render() {
     const weekTd = document.createElement("td");
     weekTd.textContent = row.week ?? "";
     tr.appendChild(weekTd);
-
-    const dungeonTd = document.createElement("td");
-    dungeonTd.textContent = row.dungeon;
-    tr.appendChild(dungeonTd);
-
-    const metricTd = document.createElement("td");
-    metricTd.textContent = row.metric === "time" ? "Clear time" : "Score";
-    tr.appendChild(metricTd);
 
     const playersTd = document.createElement("td");
     row.players.forEach((p, i) => {
@@ -113,7 +159,36 @@ function render() {
     });
     tr.appendChild(playersTd);
 
-    rowsBody.appendChild(tr);
+    tbody.appendChild(tr);
+  }
+  table.appendChild(tbody);
+  section.appendChild(table);
+
+  return section;
+}
+
+function render() {
+  const filtered = baseFiltered();
+  const query = playerSearch.value.trim().toLowerCase();
+
+  const byDungeon = new Map();
+  for (const r of filtered) {
+    if (!byDungeon.has(r.dungeon)) byDungeon.set(r.dungeon, []);
+    byDungeon.get(r.dungeon).push(r);
+  }
+
+  const dungeonsToShow = DATA.dungeons.filter(d => byDungeon.has(d));
+
+  sectionsEl.textContent = "";
+  for (const dungeon of dungeonsToShow) {
+    sectionsEl.appendChild(buildSectionEl(dungeon, byDungeon.get(dungeon), query));
+  }
+
+  if (dungeonsToShow.length === 0) {
+    const empty = document.createElement("p");
+    empty.className = "result-info";
+    empty.textContent = "No matching rows.";
+    sectionsEl.appendChild(empty);
   }
 }
 
@@ -132,25 +207,8 @@ function populateFilterOptions() {
   }
 }
 
-function setupSortHeaders() {
-  document.querySelectorAll("th.sortable").forEach(th => {
-    th.addEventListener("click", () => {
-      const key = th.dataset.sort;
-      if (sortKey === key) {
-        sortDir = sortDir === "asc" ? "desc" : "asc";
-      } else {
-        sortKey = key;
-        sortDir = key === "rank" ? "asc" : "desc";
-      }
-      document.querySelectorAll("th.sortable").forEach(t => t.classList.remove("sort-active"));
-      th.classList.add("sort-active");
-      render();
-    });
-  });
-}
-
 function setupFilterListeners() {
-  [dungeonFilter, weekFilter, metricFilter, resolvedOnly].forEach(el =>
+  [dungeonFilter, weekFilter, resolvedOnly].forEach(el =>
     el.addEventListener("change", render)
   );
   playerSearch.addEventListener("input", render);
@@ -163,7 +221,6 @@ fetch("data.json")
     subtitle.textContent =
       `${DATA.rows.length.toLocaleString()} rows across ${DATA.weeks.length} weeks and ${DATA.dungeons.length} dungeons`;
     populateFilterOptions();
-    setupSortHeaders();
     setupFilterListeners();
     render();
   })

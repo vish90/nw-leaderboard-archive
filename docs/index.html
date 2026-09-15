@@ -25,14 +25,6 @@
         <option value="">All weeks</option>
       </select>
     </div>
-    <div class="field">
-      <label for="metric-filter">Category</label>
-      <select id="metric-filter">
-        <option value="">Both</option>
-        <option value="score">Score</option>
-        <option value="time">Clear time</option>
-      </select>
-    </div>
     <div class="field field-grow">
       <label for="player-search">Player search</label>
       <input id="player-search" type="text" placeholder="Search a player name…" />
@@ -42,21 +34,7 @@
     </div>
   </div>
 
-  <div class="result-info" id="result-info"></div>
-
-  <table id="results">
-    <thead>
-      <tr>
-        <th data-sort="rank" class="sortable">Rank</th>
-        <th data-sort="value" class="sortable">Value</th>
-        <th data-sort="week" class="sortable">Week</th>
-        <th data-sort="dungeon" class="sortable">Dungeon</th>
-        <th data-sort="metric" class="sortable">Category</th>
-        <th>Players</th>
-      </tr>
-    </thead>
-    <tbody id="rows"></tbody>
-  </table>
+  <div id="sections"></div>
 </div>
 <script src="app.js"></script>
 </body>

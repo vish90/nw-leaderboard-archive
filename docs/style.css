@@ -49,6 +49,23 @@ h1 { font-size: 22px; margin: 0 0 4px; }
 
 .result-info { font-size: 12px; color: var(--text-secondary); margin: 4px 0 12px; }
 
+.dungeon-section {
+  background: var(--surface-2); border: 1px solid var(--card-border);
+  border-radius: 10px; padding: 16px 20px; margin-bottom: 20px;
+}
+.dungeon-header {
+  display: flex; align-items: center; justify-content: space-between;
+  margin-bottom: 4px;
+}
+.dungeon-header h2 { font-size: 16px; margin: 0; }
+.tabs { display: flex; gap: 4px; }
+.tab {
+  font-size: 12px; padding: 6px 12px; border-radius: 6px; border: 1px solid var(--card-border);
+  background: var(--surface-1); color: var(--text-secondary); cursor: pointer;
+}
+.tab:hover { color: var(--text-primary); }
+.tab.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+
 table { width: 100%; border-collapse: collapse; font-size: 13px; }
 thead th {
   text-align: left; font-size: 11px; text-transform: uppercase; letter-spacing: 0.03em;
