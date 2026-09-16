@@ -35,6 +35,24 @@ def add_hit(directory, hits, uid, name):
     hits[0] += 1
 
 
+def decode_name(name_bytes):
+    """Decode a length-prefixed name field as UTF-8 (not ASCII-only), so
+    accented/non-Latin characters (e.g. Zenon d Cittium) aren't silently
+    dropped. The length prefix is a byte count, so multi-byte UTF-8
+    sequences are already correctly bounded by the slice; only the
+    decode/validation step needs to be Unicode-aware. Rejects control
+    characters but otherwise allows any printable Unicode."""
+    try:
+        name = name_bytes.decode("utf-8")
+    except UnicodeDecodeError:
+        return None
+    if not name or not name.strip():
+        return None
+    if any(ord(c) < 32 or ord(c) == 127 for c in name):
+        return None
+    return name
+
+
 def scan_payload_raw_uuid(data, directory, hits):
     n = len(data)
     i = 0
@@ -45,13 +63,9 @@ def scan_payload_raw_uuid(data, directory, hits):
             length = data[j]
             if 3 <= length <= 40 and j + 1 + length <= n:
                 name_bytes = data[j + 1:j + 1 + length]
-                if all(32 <= b < 127 for b in name_bytes):
-                    try:
-                        name = name_bytes.decode("ascii")
-                    except UnicodeDecodeError:
-                        name = None
-                    if name and name.strip():
-                        add_hit(directory, hits, format_uuid(uuid_bytes), name)
+                name = decode_name(name_bytes)
+                if name:
+                    add_hit(directory, hits, format_uuid(uuid_bytes), name)
         i += 1
 
 
@@ -63,13 +77,9 @@ def scan_payload_string_uuid(data, directory, hits):
         length = data[end]
         if 2 <= length <= 24 and end + 1 + length <= len(data):
             name_bytes = data[end + 1:end + 1 + length]
-            if all(32 <= b < 127 for b in name_bytes):
-                try:
-                    name = name_bytes.decode("ascii")
-                except UnicodeDecodeError:
-                    continue
-                if name.strip():
-                    add_hit(directory, hits, m.group().decode("ascii"), name)
+            name = decode_name(name_bytes)
+            if name:
+                add_hit(directory, hits, m.group().decode("ascii"), name)
 
 
 def main():
