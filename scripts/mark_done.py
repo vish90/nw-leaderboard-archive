@@ -10,7 +10,7 @@ Usage:
 import sys
 from pathlib import Path
 
-VISITED_FILE = Path(__file__).resolve().parent / "visited_pages.txt"
+VISITED_FILE = Path(__file__).resolve().parent.parent / "visited_pages.txt"
 
 
 def main():

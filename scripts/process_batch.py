@@ -26,13 +26,14 @@ import zipfile
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
+ROOT = HERE.parent
 DECODE_SCRIPT = HERE / "decode_dtls_ledger.py"
 EXTRACT_SCRIPT = HERE / "extract_name_directory.py"
 APPLY_SCRIPT = HERE / "apply_name_directory.py"
 REPORT_SCRIPT = HERE / "coverage_report.py"
-DIRECTORY_PATH = HERE / "name_directory.json"
-LEADERBOARD_DIR = HERE / "leaderboard-data"
-VISITED_FILE = HERE / "visited_pages.txt"
+DIRECTORY_PATH = ROOT / "name_directory.json"
+LEADERBOARD_DIR = ROOT / "leaderboard-data"
+VISITED_FILE = ROOT / "visited_pages.txt"
 
 LEADERBOARD_PATH_RE = re.compile(
     r"leaderboards/([a-z-]+)\.(Dungeon[A-Za-z0-9]+)\.\d+\.w(\d+)"
