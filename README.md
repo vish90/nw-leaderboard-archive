@@ -14,6 +14,10 @@ entries without a resolved name are marked `unresolved`.
   DTLS capture sessions.
 - `visited_pages.txt` — week/dungeon/category pages already captured, so the
   priority tool doesn't re-suggest them.
+- `mutations-data/` — one JSON file per week (`week_N.json`) summarizing that
+  week's active mutation rotation (dungeons, Mutation/Promotion/Curse names,
+  inferred element), parsed from the Nysa PVE Discord server's
+  `current-mutations` channel.
 - `scripts/` — the processing pipeline (see below).
 - `docs/` — static site for browsing the archive (filters, sorting, player
   search), served directly via GitHub Pages. To run it locally instead, open
@@ -45,11 +49,37 @@ entries without a resolved name are marked `unresolved`.
   prints an updated coverage report.
 - `build_site_data.py` — flattens `leaderboard-data/*.json` into
   `docs/data.json` for the static site. Re-run after any pipeline update.
+- `weekly_update.sh` — end-to-end weekly score update: harvests the next
+  week (if a fresh token is in `nw_auth_token.txt`), applies the name
+  directory, rebuilds `docs/data.json`, commits, and pushes. Run via a
+  Tuesday-night launchd job; reports outcomes to Discord.
+- `parse_mutations.py` / `build_mutations_data.py` / `add_mutation_week.sh` —
+  parse a copy-pasted Nysa PVE `current-mutations` post into
+  `mutations-data/week_N.json`, rebuild `docs/mutations.json`, and
+  commit/push. There's no bot access to that channel, so this step is
+  always manual: `pbpaste | bash scripts/add_mutation_week.sh <week>`.
+  The site uses the latest entry to theme the currently-mutated dungeon
+  cards (element-colored accent + a badge with the Mutation/Promotion/
+  Curse names). Mutation icons are the 32x32 tooltip icons from
+  [nw-buddy](https://github.com/giniedp/nw-buddy) (extracted New World
+  game assets, not covered by nw-buddy's own MIT license).
 
 ## Updating
 
-After processing new captures:
+Scores (normally automatic, see `weekly_update.sh`):
+```
+python3 scripts/nw_leaderboard_harvest.py --start-week N --end-week N --skip-existing
+python3 scripts/apply_name_directory.py
+python3 scripts/build_site_data.py
+```
+
+Names, after processing new DTLS captures:
 ```
 python3 scripts/process_batch.py path/to/new_capture.zip
 python3 scripts/build_site_data.py
+```
+
+Mutations, after copying the week's post from Discord:
+```
+pbpaste | bash scripts/add_mutation_week.sh <week>
 ```

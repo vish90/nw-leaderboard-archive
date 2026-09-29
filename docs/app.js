@@ -1,6 +1,9 @@
 const MAX_RENDERED_ROWS = 300;
 
 let DATA = { rows: [], dungeons: [], weeks: [] };
+let MUTATIONS = { weeks: {}, latestWeek: null };
+
+const ELEMENT_LABELS = { fire: "Fire", ice: "Ice", void: "Void", nature: "Nature" };
 
 // Per-dungeon UI state: which metric tab is active, and current sort.
 const sectionState = {}; // dungeon -> { metric: 'score'|'time', sortKey, sortDir }
@@ -61,17 +64,63 @@ function sortRows(rows, sortKey, sortDir) {
   });
 }
 
+function currentMutation() {
+  if (!MUTATIONS.latestWeek) return null;
+  return MUTATIONS.weeks[String(MUTATIONS.latestWeek)] || null;
+}
+
+// Dungeon names in the Discord mutation post don't always match the site's
+// canonical names exactly (e.g. "Tempest's Heart" vs. "Tempest Heart"), so
+// compare loosely rather than requiring an exact string match.
+function normalizeDungeonName(name) {
+  return name
+    .toLowerCase()
+    .replace(/['’]s\b/g, "")
+    .replace(/['’]/g, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function mutationIncludesDungeon(mutation, dungeon) {
+  const target = normalizeDungeonName(dungeon);
+  return mutation.dungeons.some(d => normalizeDungeonName(d) === target);
+}
+
 function buildSectionEl(dungeon, rowsForDungeon, query) {
   const state = getSectionState(dungeon);
 
   const section = document.createElement("div");
   section.className = "dungeon-section";
 
+  const mutation = currentMutation();
+  const isActiveMutation = mutation && mutationIncludesDungeon(mutation, dungeon);
+  if (isActiveMutation && ELEMENT_LABELS[mutation.element]) {
+    section.classList.add("theme-" + mutation.element);
+  }
+
   const header = document.createElement("div");
   header.className = "dungeon-header";
+  const titleWrap = document.createElement("div");
+  titleWrap.className = "dungeon-title";
   const h2 = document.createElement("h2");
   h2.textContent = dungeon;
-  header.appendChild(h2);
+  titleWrap.appendChild(h2);
+
+  if (isActiveMutation) {
+    const badge = document.createElement("div");
+    badge.className = "mutation-badge";
+    if (ELEMENT_LABELS[mutation.element]) {
+      const icon = document.createElement("img");
+      icon.src = "assets/mutation-icons/" + mutation.element + ".png";
+      icon.alt = ELEMENT_LABELS[mutation.element];
+      badge.appendChild(icon);
+    }
+    const label = document.createElement("span");
+    label.textContent = `Week ${mutation.week}: ${mutation.mutation} · ${mutation.promotion} · ${mutation.curse}`;
+    badge.appendChild(label);
+    titleWrap.appendChild(badge);
+  }
+  header.appendChild(titleWrap);
 
   const tabs = document.createElement("div");
   tabs.className = "tabs";
@@ -214,13 +263,20 @@ function setupFilterListeners() {
   playerSearch.addEventListener("input", render);
 }
 
-fetch("data.json")
-  .then(r => r.json())
-  .then(data => {
+const mutationsPromise = fetch("mutations.json")
+  .then(r => (r.ok ? r.json() : { weeks: {}, latestWeek: null }))
+  .catch(() => ({ weeks: {}, latestWeek: null }));
+
+Promise.all([fetch("data.json").then(r => r.json()), mutationsPromise])
+  .then(([data, mutations]) => {
     DATA = data;
+    MUTATIONS = mutations;
     subtitle.textContent =
       `${DATA.rows.length.toLocaleString()} rows across ${DATA.weeks.length} weeks and ${DATA.dungeons.length} dungeons`;
     populateFilterOptions();
+    if (DATA.weeks.length) {
+      weekFilter.value = String(Math.max(...DATA.weeks));
+    }
     setupFilterListeners();
     render();
   })

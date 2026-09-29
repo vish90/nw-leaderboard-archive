@@ -58,6 +58,14 @@ h1 { font-size: 22px; margin: 0 0 4px; }
   margin-bottom: 4px;
 }
 .dungeon-header h2 { font-size: 16px; margin: 0; }
+.dungeon-title { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.mutation-badge {
+  display: flex; align-items: center; gap: 6px;
+  font-size: 11px; color: var(--text-secondary);
+  background: var(--surface-1); border: 1px solid var(--card-border);
+  border-radius: 999px; padding: 3px 10px 3px 6px;
+}
+.mutation-badge img { width: 16px; height: 16px; display: block; }
 .tabs { display: flex; gap: 4px; }
 .tab {
   font-size: 12px; padding: 6px 12px; border-radius: 6px; border: 1px solid var(--card-border);
@@ -83,3 +91,15 @@ tbody tr:nth-child(even) { background: var(--surface-2); }
 .player { color: var(--text-primary); }
 .player.match { color: var(--accent); font-weight: 600; }
 .unresolved { color: var(--text-muted); font-style: italic; }
+
+/* Current-week mutation theming (elemental accent for the 3 active dungeons) */
+.dungeon-section.theme-fire { border-left: 3px solid #e2572c; background: linear-gradient(135deg, rgba(226, 87, 44, 0.14), var(--surface-2) 55%); }
+.dungeon-section.theme-ice { border-left: 3px solid #4fb8e8; background: linear-gradient(135deg, rgba(79, 184, 232, 0.14), var(--surface-2) 55%); }
+.dungeon-section.theme-void { border-left: 3px solid #9b6bd6; background: linear-gradient(135deg, rgba(155, 107, 214, 0.16), var(--surface-2) 55%); }
+.dungeon-section.theme-nature { border-left: 3px solid #5cb85c; background: linear-gradient(135deg, rgba(92, 184, 92, 0.14), var(--surface-2) 55%); }
+
+.theme-fire .mutation-badge img { background: #e2572c; }
+.theme-ice .mutation-badge img { background: #4fb8e8; }
+.theme-void .mutation-badge img { background: #9b6bd6; }
+.theme-nature .mutation-badge img { background: #5cb85c; }
+.mutation-badge img { border-radius: 50%; padding: 3px; }
