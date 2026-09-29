@@ -81,6 +81,7 @@ if [[ "$has_data" != "1" ]]; then
   exit 0
 fi
 
+python3 "$HERE/apply_name_directory.py" --directory "$ROOT/name_directory.json" --leaderboard-dir "$ROOT/leaderboard-data" >> "$LOG_FILE" 2>&1
 python3 "$HERE/build_site_data.py" >> "$LOG_FILE" 2>&1
 
 git add "leaderboard-data/week_${next_week}.json" docs/data.json
