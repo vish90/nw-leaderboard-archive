@@ -123,11 +123,19 @@ function mutationIncludesDungeon(mutation, dungeon) {
   return mutation.dungeons.some(d => normalizeDungeonName(d) === target);
 }
 
+function dungeonBackgroundSlug(dungeon) {
+  return dungeon
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/(^-|-$)/g, "");
+}
+
 function buildSectionEl(dungeon, rowsForDungeon, query) {
   const state = getSectionState(dungeon);
 
   const section = document.createElement("div");
   section.className = "dungeon-section";
+  section.style.setProperty("--dungeon-bg", `url('assets/dungeon-backgrounds/${dungeonBackgroundSlug(dungeon)}.webp')`);
 
   const mutation = currentMutation();
   const isActiveMutation = mutation && mutationIncludesDungeon(mutation, dungeon);
@@ -139,6 +147,11 @@ function buildSectionEl(dungeon, rowsForDungeon, query) {
   header.className = "dungeon-header";
   const titleWrap = document.createElement("div");
   titleWrap.className = "dungeon-title";
+  const icon = document.createElement("img");
+  icon.className = "dungeon-icon";
+  icon.src = `assets/dungeon-icons/${dungeonBackgroundSlug(dungeon)}.webp`;
+  icon.alt = "";
+  titleWrap.appendChild(icon);
   const h2 = document.createElement("h2");
   h2.textContent = dungeon;
   titleWrap.appendChild(h2);

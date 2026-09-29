@@ -2,6 +2,7 @@
   color-scheme: light dark;
   --surface-1: #fcfcfb;
   --surface-2: #f0efec;
+  --surface-2-rgb: 240, 239, 236;
   --text-primary: #0b0b0b;
   --text-secondary: #52514e;
   --text-muted: #86847e;
@@ -13,6 +14,7 @@
   :root {
     --surface-1: #1a1a19;
     --surface-2: #232322;
+    --surface-2-rgb: 35, 35, 34;
     --text-primary: #ffffff;
     --text-secondary: #c3c2b7;
     --text-muted: #8a887f;
@@ -50,13 +52,19 @@ h1 { font-size: 22px; margin: 0 0 4px; }
 .result-info { font-size: 12px; color: var(--text-secondary); margin: 4px 0 12px; }
 
 .dungeon-section {
-  background: var(--surface-2); border: 1px solid var(--card-border);
+  --dungeon-bg: none;
+  background: var(--surface-2);
+  border: 1px solid var(--card-border);
   border-radius: 10px; padding: 16px 20px; margin-bottom: 20px;
 }
 .dungeon-header {
   display: flex; align-items: center; justify-content: space-between;
-  margin-bottom: 4px;
+  margin: -16px -20px 12px; padding: 14px 20px;
+  border-radius: 10px 10px 0 0;
+  background-image: linear-gradient(to right, rgba(var(--surface-2-rgb), 0.97) 0%, rgba(var(--surface-2-rgb), 0.75) 45%, rgba(var(--surface-2-rgb), 0.35) 100%), var(--dungeon-bg);
+  background-size: cover; background-position: center right; background-repeat: no-repeat;
 }
+.dungeon-icon { width: 26px; height: 26px; display: block; flex-shrink: 0; }
 .dungeon-header h2 { font-size: 16px; margin: 0; }
 .dungeon-title { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
 .week-pill {
@@ -99,8 +107,15 @@ tbody tr:nth-child(even) { background: var(--surface-2); }
 
 /* Current-week mutation theming (elemental accent for the active dungeons).
    Colors are the game's own ElementalMutationStaticData BackgroundColor
-   values (Hellfire/Icebound/Eternal/Overgrown), not guessed. */
-.dungeon-section.theme-fire { border-left: 3px solid rgb(92, 26, 26); background: linear-gradient(135deg, rgba(92, 26, 26, 0.35), var(--surface-2) 55%); }
-.dungeon-section.theme-ice { border-left: 3px solid rgb(32, 68, 81); background: linear-gradient(135deg, rgba(32, 68, 81, 0.35), var(--surface-2) 55%); }
-.dungeon-section.theme-void { border-left: 3px solid rgb(30, 38, 67); background: linear-gradient(135deg, rgba(30, 38, 67, 0.4), var(--surface-2) 55%); }
-.dungeon-section.theme-nature { border-left: 3px solid rgb(48, 63, 34); background: linear-gradient(135deg, rgba(48, 63, 34, 0.35), var(--surface-2) 55%); }
+   values (Hellfire/Icebound/Eternal/Overgrown), not guessed. The tint is
+   layered into the header's background-image (art banner), same reason
+   as above -- background-image doesn't merge across rules. */
+.dungeon-section.theme-fire { border-left: 3px solid rgb(92, 26, 26); }
+.dungeon-section.theme-ice { border-left: 3px solid rgb(32, 68, 81); }
+.dungeon-section.theme-void { border-left: 3px solid rgb(30, 38, 67); }
+.dungeon-section.theme-nature { border-left: 3px solid rgb(48, 63, 34); }
+
+.theme-fire .dungeon-header { background-image: linear-gradient(135deg, rgba(92, 26, 26, 0.3), transparent 60%), linear-gradient(to right, rgba(var(--surface-2-rgb), 0.97) 0%, rgba(var(--surface-2-rgb), 0.75) 45%, rgba(var(--surface-2-rgb), 0.35) 100%), var(--dungeon-bg); }
+.theme-ice .dungeon-header { background-image: linear-gradient(135deg, rgba(32, 68, 81, 0.3), transparent 60%), linear-gradient(to right, rgba(var(--surface-2-rgb), 0.97) 0%, rgba(var(--surface-2-rgb), 0.75) 45%, rgba(var(--surface-2-rgb), 0.35) 100%), var(--dungeon-bg); }
+.theme-void .dungeon-header { background-image: linear-gradient(135deg, rgba(30, 38, 67, 0.35), transparent 60%), linear-gradient(to right, rgba(var(--surface-2-rgb), 0.97) 0%, rgba(var(--surface-2-rgb), 0.75) 45%, rgba(var(--surface-2-rgb), 0.35) 100%), var(--dungeon-bg); }
+.theme-nature .dungeon-header { background-image: linear-gradient(135deg, rgba(48, 63, 34, 0.3), transparent 60%), linear-gradient(to right, rgba(var(--surface-2-rgb), 0.97) 0%, rgba(var(--surface-2-rgb), 0.75) 45%, rgba(var(--surface-2-rgb), 0.35) 100%), var(--dungeon-bg); }
