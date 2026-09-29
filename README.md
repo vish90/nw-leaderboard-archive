@@ -58,11 +58,16 @@ entries without a resolved name are marked `unresolved`.
   `mutations-data/week_N.json`, rebuild `docs/mutations.json`, and
   commit/push. There's no bot access to that channel, so this step is
   always manual: `pbpaste | bash scripts/add_mutation_week.sh <week>`.
-  The site uses the latest entry to theme the currently-mutated dungeon
-  cards (element-colored accent + a badge with the Mutation/Promotion/
-  Curse names). Mutation icons are the 32x32 tooltip icons from
-  [nw-buddy](https://github.com/giniedp/nw-buddy) (extracted New World
-  game assets, not covered by nw-buddy's own MIT license).
+  Theming follows whichever week is selected in the site's Week filter
+  (not just the latest week), since different dungeons can carry
+  different mutations in the same week. Icons and colors in
+  `docs/assets/mutation-icons/` are the actual in-game mutator icons and
+  `BackgroundColor` values, pulled from
+  [nw-buddy-data](https://github.com/giniedp/nw-buddy-data)'s
+  `javelindata_elementalmutations.json` / `_promotionmutations.json` /
+  `_cursemutations.json` datatables (extracted New World game assets, not
+  covered by nw-buddy's own MIT license). Curses have no per-curse color
+  in the game data, so they share one neutral tone.
 
 ## Updating
 
