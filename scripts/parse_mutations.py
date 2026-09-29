@@ -23,10 +23,21 @@ MUTATIONS_DIR = ROOT / "mutations-data"
 
 PAD_CHAR = "⠀"
 
-# The "Mutation: <name>" section's perk text always calls out its damage
-# type in plain language (e.g. "...dealing 70% base Fire damage..."), so the
-# element can be inferred from that body text without storing the full perk
-# descriptions. Checked in order; first match wins.
+# New World only has four Mutation archetypes, each with a fixed in-game name;
+# "fire"/"ice"/"void"/"nature" are just the casual names for what they are.
+# This is the primary way to resolve an element -- exact and doesn't depend on
+# perk wording holding steady.
+MUTATION_NAME_ELEMENT = {
+    "hellfire": "fire",
+    "icebound": "ice",
+    "eternal": "void",
+    "overgrown": "nature",
+}
+
+# Fallback for a Mutation name not in the table above: the perk text always
+# calls out its damage type in plain language (e.g. "...dealing 70% base Fire
+# damage..."), so the element can be inferred from that body text without
+# storing the full perk descriptions. Checked in order; first match wins.
 ELEMENT_KEYWORDS = [
     ("fire", ("fire",)),
     ("ice", ("ice", "frost", "frozen")),
@@ -35,7 +46,12 @@ ELEMENT_KEYWORDS = [
 ]
 
 
-def infer_element(body_text):
+def infer_element(mutation_name, body_text):
+    if mutation_name:
+        known = MUTATION_NAME_ELEMENT.get(mutation_name.strip().lower())
+        if known:
+            return known
+
     lowered = body_text.lower()
     for element, keywords in ELEMENT_KEYWORDS:
         if any(k in lowered for k in keywords):
@@ -73,7 +89,7 @@ def parse(text):
         "mutation": mutation,
         "promotion": promotion,
         "curse": curse,
-        "element": infer_element(" ".join(mutation_body)),
+        "element": infer_element(mutation, " ".join(mutation_body)),
     }
 
 
