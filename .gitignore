@@ -1,6 +1,7 @@
 # Never commit live credentials
 nw_auth_token.txt
 *.token
+discord_webhook.txt
 
 # OS / editor cruft
 .DS_Store
