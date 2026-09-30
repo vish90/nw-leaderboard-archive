@@ -105,6 +105,35 @@ function mutationFor(dungeon) {
   return entry ? { ...entry, week: week.week } : null;
 }
 
+function seasonForWeek(week) {
+  const info = DATA.weekInfo && DATA.weekInfo[week];
+  if (!info || !info.season) return null;
+  return { number: info.season, ...DATA.seasons[info.season] };
+}
+
+function buildWeekPill(week, mutation) {
+  const pill = document.createElement("span");
+  pill.className = "week-pill";
+  const season = seasonForWeek(week);
+  if (season && season.icon) {
+    const img = document.createElement("img");
+    img.src = season.icon;
+    img.alt = "";
+    pill.appendChild(img);
+  }
+  let text = `Week ${week}`;
+  if (season) {
+    text += ` · S${season.number}`;
+    pill.title = `Season ${season.number}: ${season.name}`;
+  }
+  if (mutation && mutation.source === "carryover") {
+    text += ` · mutation from week ${week - 1}`;
+    pill.title = "No post for this dungeon this week; a mid-week restart left last week's rotation running";
+  }
+  pill.appendChild(document.createTextNode(text));
+  return pill;
+}
+
 function dungeonBackgroundSlug(dungeon) {
   return dungeon
     .toLowerCase()
@@ -138,17 +167,11 @@ function buildSectionEl(dungeon, rowsForDungeon, query) {
   h2.textContent = dungeon;
   titleWrap.appendChild(h2);
 
-  if (isActiveMutation) {
-    const weekPill = document.createElement("span");
-    weekPill.className = "week-pill";
-    if (mutation.source === "carryover") {
-      weekPill.textContent = `Week ${mutation.week} · from week ${mutation.week - 1}`;
-      weekPill.title = "No post for this dungeon this week; a mid-week restart left last week's rotation running";
-    } else {
-      weekPill.textContent = `Week ${mutation.week}`;
-    }
-    titleWrap.appendChild(weekPill);
+  if (weekFilter.value) {
+    titleWrap.appendChild(buildWeekPill(parseInt(weekFilter.value, 10), mutation));
+  }
 
+  if (isActiveMutation) {
     const chips = document.createElement("div");
     chips.className = "mutation-chips";
 
@@ -256,6 +279,14 @@ function buildSectionEl(dungeon, rowsForDungeon, query) {
 
     const weekTd = document.createElement("td");
     weekTd.textContent = row.week ?? "";
+    const rowSeason = row.week != null ? seasonForWeek(row.week) : null;
+    if (rowSeason) {
+      const tag = document.createElement("span");
+      tag.className = "season-tag";
+      tag.textContent = `S${rowSeason.number}`;
+      tag.title = `Season ${rowSeason.number}: ${rowSeason.name}`;
+      weekTd.appendChild(tag);
+    }
     tr.appendChild(weekTd);
 
     const playersTd = document.createElement("td");
@@ -316,7 +347,8 @@ function populateFilterOptions() {
   for (const w of DATA.weeks) {
     const opt = document.createElement("option");
     opt.value = w;
-    opt.textContent = "Week " + w;
+    const season = seasonForWeek(w);
+    opt.textContent = "Week " + w + (season ? ` · S${season.number}` : "");
     weekFilter.appendChild(opt);
   }
 }
