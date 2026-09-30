@@ -53,11 +53,30 @@ entries without a resolved name are marked `unresolved`.
   week (if a fresh token is in `nw_auth_token.txt`), applies the name
   directory, rebuilds `docs/data.json`, commits, and pushes. Run via a
   Tuesday-night launchd job; reports outcomes to Discord.
+- `extract_mutations_from_capture.py` — pulls the live mutation rotation out
+  of capture-session zips. Right after login the game server sends the
+  client a list of mutated expeditions as CRC32-hashed IDs (GameModeId,
+  element category, promotion, curse); this decodes the DTLS ledger, maps
+  the hashes back to names, dates the capture to a week, and merges into
+  `mutations-data/week_N.json`. `weekly_update.sh` runs it on the last 8
+  days of zips in `$NW_CAPTURE_DIR` (default `~/Downloads/harvestedCaptures`).
+- `fetch_discord_history.py` / `import_discord_mutations.py` — history
+  from week 26 on: pull a channel where the "New World Mutations" bot posts
+  (via a read-only bot; raw pulls stay in the gitignored
+  `mutations-data/raw/`) and import the bot's structured embeds.
+  `mutations-data/week_N.json` holds one entry per dungeon (in 2023,
+  dungeons in the same week had different mutations), each tagged with its
+  source; when sources disagree, capture beats discord beats paste.
+  `build_mutations_data.py` also adds inferred `carryover` entries: when a
+  dungeon has scores in week N but no entry, and was mutated in week N-1
+  (mid-week patch restarts sometimes left the old rotation running), N-1's
+  entry is carried forward. The site labels these "from week N-1".
 - `parse_mutations.py` / `build_mutations_data.py` / `add_mutation_week.sh` —
-  parse a copy-pasted Nysa PVE `current-mutations` post into
-  `mutations-data/week_N.json`, rebuild `docs/mutations.json`, and
-  commit/push. There's no bot access to that channel, so this step is
-  always manual: `pbpaste | bash scripts/add_mutation_week.sh <week>`.
+  fallback for weeks with no capture: parse a copy-pasted "New World
+  Mutations" Discord post into the same format
+  (`pbpaste | bash scripts/add_mutation_week.sh <week>`). Curse tiers are
+  dropped (always II at mutation tier 3) and dungeon names are mapped to
+  the site's canonical names.
   Theming follows whichever week is selected in the site's Week filter
   (not just the latest week), since different dungeons can carry
   different mutations in the same week. Icons and colors in

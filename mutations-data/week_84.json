@@ -1,0 +1,29 @@
+{
+  "week": 84,
+  "expeditions": [
+    {
+      "dungeon": "Lazarus Instrumentality",
+      "mutation": "Overgrown",
+      "promotion": "Savage",
+      "curse": "Desiccated",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Starstone Barrows",
+      "mutation": "Hellfire",
+      "promotion": "Indomitable",
+      "curse": "Fiendish",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Depths",
+      "mutation": "Eternal",
+      "promotion": "Oppressive",
+      "curse": "Censored",
+      "element": "void",
+      "source": "discord"
+    }
+  ]
+}

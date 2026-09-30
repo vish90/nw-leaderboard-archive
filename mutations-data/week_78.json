@@ -1,0 +1,29 @@
+{
+  "week": 78,
+  "expeditions": [
+    {
+      "dungeon": "Glacial Tarn",
+      "mutation": "Hellfire",
+      "promotion": "Oppressive",
+      "curse": "Desiccated",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Tempest Heart",
+      "mutation": "Overgrown",
+      "promotion": "Barbaric",
+      "curse": "Fiendish",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Depths",
+      "mutation": "Icebound",
+      "promotion": "Indomitable",
+      "curse": "Censored",
+      "element": "ice",
+      "source": "discord"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "week": 50,
+  "expeditions": [
+    {
+      "dungeon": "Lazarus Instrumentality",
+      "mutation": "Hellfire",
+      "promotion": "Savage",
+      "curse": "Frenzied",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Tempest Heart",
+      "mutation": "Overgrown",
+      "promotion": "Oppressive",
+      "curse": "Desiccated",
+      "element": "nature",
+      "source": "discord"
+    }
+  ]
+}

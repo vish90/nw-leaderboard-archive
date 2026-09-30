@@ -1,0 +1,21 @@
+{
+  "week": 33,
+  "expeditions": [
+    {
+      "dungeon": "Barnacles and Blackpowder",
+      "mutation": "Overgrown",
+      "promotion": "Indomitable",
+      "curse": "Frenzied",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Lazarus Instrumentality",
+      "mutation": "Icebound",
+      "promotion": "Savage",
+      "curse": "Censored",
+      "element": "ice",
+      "source": "discord"
+    }
+  ]
+}

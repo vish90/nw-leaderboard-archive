@@ -1,0 +1,29 @@
+{
+  "week": 92,
+  "expeditions": [
+    {
+      "dungeon": "Glacial Tarn",
+      "mutation": "Eternal",
+      "promotion": "Savage",
+      "curse": "Fiendish",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Starstone Barrows",
+      "mutation": "Overgrown",
+      "promotion": "Barbaric",
+      "curse": "Frenzied",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Depths",
+      "mutation": "Hellfire",
+      "promotion": "Oppressive",
+      "curse": "Censored",
+      "element": "fire",
+      "source": "discord"
+    }
+  ]
+}

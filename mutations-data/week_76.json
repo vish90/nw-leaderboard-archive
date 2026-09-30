@@ -1,0 +1,29 @@
+{
+  "week": 76,
+  "expeditions": [
+    {
+      "dungeon": "Empyrean Forge",
+      "mutation": "Icebound",
+      "promotion": "Indomitable",
+      "curse": "Frenzied",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Glacial Tarn",
+      "mutation": "Eternal",
+      "promotion": "Savage",
+      "curse": "Fiendish",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Depths",
+      "mutation": "Hellfire",
+      "promotion": "Oppressive",
+      "curse": "Censored",
+      "element": "fire",
+      "source": "discord"
+    }
+  ]
+}

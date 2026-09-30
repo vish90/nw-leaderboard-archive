@@ -1,0 +1,29 @@
+{
+  "week": 120,
+  "expeditions": [
+    {
+      "dungeon": "Dynasty Shipyard",
+      "mutation": "Hellfire",
+      "promotion": "Indomitable",
+      "curse": "Censored",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Empyrean Forge",
+      "mutation": "Hellfire",
+      "promotion": "Indomitable",
+      "curse": "Censored",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Tempest Heart",
+      "mutation": "Hellfire",
+      "promotion": "Indomitable",
+      "curse": "Censored",
+      "element": "fire",
+      "source": "discord"
+    }
+  ]
+}

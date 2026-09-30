@@ -1,0 +1,29 @@
+{
+  "week": 89,
+  "expeditions": [
+    {
+      "dungeon": "Barnacles and Blackpowder",
+      "mutation": "Hellfire",
+      "promotion": "Barbaric",
+      "curse": "Fiendish",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Dynasty Shipyard",
+      "mutation": "Icebound",
+      "promotion": "Savage",
+      "curse": "Censored",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Empyrean Forge",
+      "mutation": "Overgrown",
+      "promotion": "Indomitable",
+      "curse": "Desiccated",
+      "element": "nature",
+      "source": "discord"
+    }
+  ]
+}

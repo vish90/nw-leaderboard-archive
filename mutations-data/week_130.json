@@ -1,0 +1,53 @@
+{
+  "week": 130,
+  "expeditions": [
+    {
+      "dungeon": "Barnacles and Blackpowder",
+      "mutation": "Overgrown",
+      "promotion": "Barbaric",
+      "curse": "Frenzied",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Dynasty Shipyard",
+      "mutation": "Eternal",
+      "promotion": "Oppressive",
+      "curse": "Fiendish",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Empyrean Forge",
+      "mutation": "Eternal",
+      "promotion": "Oppressive",
+      "curse": "Fiendish",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Garden of Genesis",
+      "mutation": "Overgrown",
+      "promotion": "Barbaric",
+      "curse": "Frenzied",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Glacial Tarn",
+      "mutation": "Overgrown",
+      "promotion": "Barbaric",
+      "curse": "Frenzied",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Ennead",
+      "mutation": "Eternal",
+      "promotion": "Oppressive",
+      "curse": "Fiendish",
+      "element": "void",
+      "source": "discord"
+    }
+  ]
+}

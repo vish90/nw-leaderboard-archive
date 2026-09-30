@@ -1,0 +1,45 @@
+{
+  "week": 53,
+  "expeditions": [
+    {
+      "dungeon": "Empyrean Forge",
+      "mutation": "Eternal",
+      "promotion": "Indomitable",
+      "curse": "Desiccated",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Garden of Genesis",
+      "mutation": "Eternal",
+      "promotion": "Barbaric",
+      "curse": "Desiccated",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Lazarus Instrumentality",
+      "mutation": "Icebound",
+      "promotion": "Indomitable",
+      "curse": "Censored",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Tempest Heart",
+      "mutation": "Overgrown",
+      "promotion": "Oppressive",
+      "curse": "Censored",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Ennead",
+      "mutation": "Hellfire",
+      "promotion": "Savage",
+      "curse": "Fiendish",
+      "element": "fire",
+      "source": "discord"
+    }
+  ]
+}

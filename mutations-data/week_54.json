@@ -1,0 +1,29 @@
+{
+  "week": 54,
+  "expeditions": [
+    {
+      "dungeon": "Dynasty Shipyard",
+      "mutation": "Overgrown",
+      "promotion": "Oppressive",
+      "curse": "Fiendish",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Garden of Genesis",
+      "mutation": "Hellfire",
+      "promotion": "Savage",
+      "curse": "Desiccated",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Starstone Barrows",
+      "mutation": "Icebound",
+      "promotion": "Barbaric",
+      "curse": "Censored",
+      "element": "ice",
+      "source": "discord"
+    }
+  ]
+}

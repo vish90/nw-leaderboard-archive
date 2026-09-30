@@ -2,6 +2,11 @@
 nw_auth_token.txt
 *.token
 discord_webhook.txt
+discord_bot_token.txt
+
+# Raw Discord pulls include other members' messages; only the parsed
+# mutations-data/week_N.json files are published
+mutations-data/raw/
 
 # OS / editor cruft
 .DS_Store

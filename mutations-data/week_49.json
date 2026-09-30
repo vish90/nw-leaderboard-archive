@@ -1,0 +1,21 @@
+{
+  "week": 49,
+  "expeditions": [
+    {
+      "dungeon": "Dynasty Shipyard",
+      "mutation": "Icebound",
+      "promotion": "Savage",
+      "curse": "Frenzied",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Ennead",
+      "mutation": "Eternal",
+      "promotion": "Indomitable",
+      "curse": "Fiendish",
+      "element": "void",
+      "source": "discord"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "week": 40,
+  "expeditions": [
+    {
+      "dungeon": "Barnacles and Blackpowder",
+      "mutation": "Hellfire",
+      "promotion": "Savage",
+      "curse": "Fiendish",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Garden of Genesis",
+      "mutation": "Eternal",
+      "promotion": "Savage",
+      "curse": "Fiendish",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Starstone Barrows",
+      "mutation": "Icebound",
+      "promotion": "Savage",
+      "curse": "Censored",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Depths",
+      "mutation": "Icebound",
+      "promotion": "Indomitable",
+      "curse": "Frenzied",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Ennead",
+      "mutation": "Hellfire",
+      "promotion": "Indomitable",
+      "curse": "Censored",
+      "element": "fire",
+      "source": "discord"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "week": 31,
+  "expeditions": [
+    {
+      "dungeon": "Garden of Genesis",
+      "mutation": "Overgrown",
+      "promotion": "Indomitable",
+      "curse": "Desiccated",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Tempest Heart",
+      "mutation": "Icebound",
+      "promotion": "Savage",
+      "curse": "Frenzied",
+      "element": "ice",
+      "source": "discord"
+    }
+  ]
+}

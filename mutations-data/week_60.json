@@ -1,0 +1,29 @@
+{
+  "week": 60,
+  "expeditions": [
+    {
+      "dungeon": "Empyrean Forge",
+      "mutation": "Overgrown",
+      "promotion": "Savage",
+      "curse": "Frenzied",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Lazarus Instrumentality",
+      "mutation": "Icebound",
+      "promotion": "Oppressive",
+      "curse": "Desiccated",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Savage Divide",
+      "mutation": "Eternal",
+      "promotion": "Indomitable",
+      "curse": "Censored",
+      "element": "void",
+      "source": "discord"
+    }
+  ]
+}

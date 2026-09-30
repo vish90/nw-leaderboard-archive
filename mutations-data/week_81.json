@@ -1,0 +1,29 @@
+{
+  "week": 81,
+  "expeditions": [
+    {
+      "dungeon": "Garden of Genesis",
+      "mutation": "Icebound",
+      "promotion": "Oppressive",
+      "curse": "Fiendish",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Lazarus Instrumentality",
+      "mutation": "Hellfire",
+      "promotion": "Indomitable",
+      "curse": "Censored",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Starstone Barrows",
+      "mutation": "Overgrown",
+      "promotion": "Savage",
+      "curse": "Frenzied",
+      "element": "nature",
+      "source": "discord"
+    }
+  ]
+}

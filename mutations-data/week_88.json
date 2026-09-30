@@ -1,0 +1,29 @@
+{
+  "week": 88,
+  "expeditions": [
+    {
+      "dungeon": "Glacial Tarn",
+      "mutation": "Overgrown",
+      "promotion": "Indomitable",
+      "curse": "Censored",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Savage Divide",
+      "mutation": "Eternal",
+      "promotion": "Oppressive",
+      "curse": "Frenzied",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Ennead",
+      "mutation": "Hellfire",
+      "promotion": "Barbaric",
+      "curse": "Desiccated",
+      "element": "fire",
+      "source": "discord"
+    }
+  ]
+}

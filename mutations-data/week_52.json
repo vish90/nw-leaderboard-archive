@@ -1,0 +1,21 @@
+{
+  "week": 52,
+  "expeditions": [
+    {
+      "dungeon": "Empyrean Forge",
+      "mutation": "Overgrown",
+      "promotion": "Oppressive",
+      "curse": "Frenzied",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Starstone Barrows",
+      "mutation": "Hellfire",
+      "promotion": "Savage",
+      "curse": "Fiendish",
+      "element": "fire",
+      "source": "discord"
+    }
+  ]
+}

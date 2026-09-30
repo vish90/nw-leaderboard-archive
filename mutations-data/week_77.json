@@ -1,0 +1,29 @@
+{
+  "week": 77,
+  "expeditions": [
+    {
+      "dungeon": "Dynasty Shipyard",
+      "mutation": "Eternal",
+      "promotion": "Savage",
+      "curse": "Desiccated",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Garden of Genesis",
+      "mutation": "Hellfire",
+      "promotion": "Oppressive",
+      "curse": "Fiendish",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Ennead",
+      "mutation": "Overgrown",
+      "promotion": "Barbaric",
+      "curse": "Censored",
+      "element": "nature",
+      "source": "discord"
+    }
+  ]
+}

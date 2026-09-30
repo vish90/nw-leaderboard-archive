@@ -1,0 +1,29 @@
+{
+  "week": 63,
+  "expeditions": [
+    {
+      "dungeon": "Lazarus Instrumentality",
+      "mutation": "Overgrown",
+      "promotion": "Savage",
+      "curse": "Desiccated",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Starstone Barrows",
+      "mutation": "Icebound",
+      "promotion": "Oppressive",
+      "curse": "Fiendish",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Ennead",
+      "mutation": "Eternal",
+      "promotion": "Indomitable",
+      "curse": "Frenzied",
+      "element": "void",
+      "source": "discord"
+    }
+  ]
+}

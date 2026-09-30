@@ -12,6 +12,7 @@ cd "$ROOT"
 WEBHOOK_FILE="$HERE/discord_webhook.txt"
 TOKEN_FILE="$HERE/nw_auth_token.txt"
 LOG_FILE="$HERE/weekly_update.log"
+CAPTURE_DIR="${NW_CAPTURE_DIR:-$HOME/Downloads/harvestedCaptures}"
 STEPS_URL="https://app.notion.com/p/3e996b1771628124b10dd8facde7694b?pvs=204"
 
 log() {
@@ -83,6 +84,14 @@ fi
 
 python3 "$HERE/apply_name_directory.py" --directory "$ROOT/name_directory.json" --leaderboard-dir "$ROOT/leaderboard-data" >> "$LOG_FILE" 2>&1
 python3 "$HERE/build_site_data.py" >> "$LOG_FILE" 2>&1
+
+# The rotation rides along in any capture session from the past week (e.g.
+# the one used to grab the token), so pick it up without a separate step.
+if [[ -d "$CAPTURE_DIR" ]]; then
+  python3 "$HERE/extract_mutations_from_capture.py" --dir "$CAPTURE_DIR" --since-days 8 >> "$LOG_FILE" 2>&1
+  python3 "$HERE/build_mutations_data.py" >> "$LOG_FILE" 2>&1
+  git add mutations-data docs/mutations.json
+fi
 
 git add "leaderboard-data/week_${next_week}.json" docs/data.json
 git commit -m "Add week ${next_week} leaderboard data" >> "$LOG_FILE" 2>&1

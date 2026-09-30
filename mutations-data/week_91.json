@@ -1,0 +1,29 @@
+{
+  "week": 91,
+  "expeditions": [
+    {
+      "dungeon": "Glacial Tarn",
+      "mutation": "Icebound",
+      "promotion": "Indomitable",
+      "curse": "Fiendish",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Lazarus Instrumentality",
+      "mutation": "Hellfire",
+      "promotion": "Oppressive",
+      "curse": "Fiendish",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Tempest Heart",
+      "mutation": "Eternal",
+      "promotion": "Savage",
+      "curse": "Desiccated",
+      "element": "void",
+      "source": "discord"
+    }
+  ]
+}

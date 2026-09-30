@@ -1,0 +1,29 @@
+{
+  "week": 180,
+  "expeditions": [
+    {
+      "dungeon": "Barnacles and Blackpowder",
+      "mutation": "Icebound",
+      "promotion": "Barbaric",
+      "curse": "Fiendish",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Dynasty Shipyard",
+      "mutation": "Icebound",
+      "promotion": "Barbaric",
+      "curse": "Fiendish",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Starstone Barrows",
+      "mutation": "Icebound",
+      "promotion": "Barbaric",
+      "curse": "Fiendish",
+      "element": "ice",
+      "source": "discord"
+    }
+  ]
+}

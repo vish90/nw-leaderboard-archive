@@ -1,0 +1,29 @@
+{
+  "week": 56,
+  "expeditions": [
+    {
+      "dungeon": "Barnacles and Blackpowder",
+      "mutation": "Hellfire",
+      "promotion": "Savage",
+      "curse": "Frenzied",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Garden of Genesis",
+      "mutation": "Eternal",
+      "promotion": "Indomitable",
+      "curse": "Censored",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Lazarus Instrumentality",
+      "mutation": "Icebound",
+      "promotion": "Barbaric",
+      "curse": "Desiccated",
+      "element": "ice",
+      "source": "discord"
+    }
+  ]
+}

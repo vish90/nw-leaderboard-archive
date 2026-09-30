@@ -1,0 +1,29 @@
+{
+  "week": 189,
+  "expeditions": [
+    {
+      "dungeon": "Garden of Genesis",
+      "mutation": "Eternal",
+      "promotion": "Indomitable",
+      "curse": "Frenzied",
+      "element": "void",
+      "source": "capture"
+    },
+    {
+      "dungeon": "Starstone Barrows",
+      "mutation": "Eternal",
+      "promotion": "Indomitable",
+      "curse": "Frenzied",
+      "element": "void",
+      "source": "capture"
+    },
+    {
+      "dungeon": "The Depths",
+      "mutation": "Eternal",
+      "promotion": "Indomitable",
+      "curse": "Frenzied",
+      "element": "void",
+      "source": "capture"
+    }
+  ]
+}

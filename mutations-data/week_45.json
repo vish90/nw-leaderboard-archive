@@ -1,0 +1,37 @@
+{
+  "week": 45,
+  "expeditions": [
+    {
+      "dungeon": "Barnacles and Blackpowder",
+      "mutation": "Eternal",
+      "promotion": "Savage",
+      "curse": "Frenzied",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Empyrean Forge",
+      "mutation": "Eternal",
+      "promotion": "Indomitable",
+      "curse": "Desiccated",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Glacial Tarn",
+      "mutation": "Icebound",
+      "promotion": "Savage",
+      "curse": "Censored",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Depths",
+      "mutation": "Overgrown",
+      "promotion": "Barbaric",
+      "curse": "Fiendish",
+      "element": "nature",
+      "source": "discord"
+    }
+  ]
+}

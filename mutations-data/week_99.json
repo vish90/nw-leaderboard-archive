@@ -1,0 +1,29 @@
+{
+  "week": 99,
+  "expeditions": [
+    {
+      "dungeon": "Barnacles and Blackpowder",
+      "mutation": "Icebound",
+      "promotion": "Barbaric",
+      "curse": "Censored",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Glacial Tarn",
+      "mutation": "Eternal",
+      "promotion": "Indomitable",
+      "curse": "Frenzied",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Starstone Barrows",
+      "mutation": "Hellfire",
+      "promotion": "Savage",
+      "curse": "Desiccated",
+      "element": "fire",
+      "source": "discord"
+    }
+  ]
+}

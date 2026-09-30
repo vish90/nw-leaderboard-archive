@@ -1,0 +1,53 @@
+{
+  "week": 103,
+  "expeditions": [
+    {
+      "dungeon": "Barnacles and Blackpowder",
+      "mutation": "Eternal",
+      "promotion": "Barbaric",
+      "curse": "Desiccated",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Dynasty Shipyard",
+      "mutation": "Eternal",
+      "promotion": "Barbaric",
+      "curse": "Desiccated",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Savage Divide",
+      "mutation": "Icebound",
+      "promotion": "Oppressive",
+      "curse": "Censored",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Starstone Barrows",
+      "mutation": "Hellfire",
+      "promotion": "Savage",
+      "curse": "Frenzied",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Tempest Heart",
+      "mutation": "Eternal",
+      "promotion": "Barbaric",
+      "curse": "Desiccated",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Depths",
+      "mutation": "Eternal",
+      "promotion": "Barbaric",
+      "curse": "Desiccated",
+      "element": "void",
+      "source": "discord"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "week": 79,
+  "expeditions": [
+    {
+      "dungeon": "Barnacles and Blackpowder",
+      "mutation": "Overgrown",
+      "promotion": "Oppressive",
+      "curse": "Desiccated",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Lazarus Instrumentality",
+      "mutation": "Icebound",
+      "promotion": "Barbaric",
+      "curse": "Fiendish",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Savage Divide",
+      "mutation": "Eternal",
+      "promotion": "Savage",
+      "curse": "Frenzied",
+      "element": "void",
+      "source": "discord"
+    }
+  ]
+}

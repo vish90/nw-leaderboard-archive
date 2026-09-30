@@ -1,0 +1,29 @@
+{
+  "week": 90,
+  "expeditions": [
+    {
+      "dungeon": "Garden of Genesis",
+      "mutation": "Icebound",
+      "promotion": "Indomitable",
+      "curse": "Desiccated",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Starstone Barrows",
+      "mutation": "Eternal",
+      "promotion": "Savage",
+      "curse": "Censored",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Depths",
+      "mutation": "Overgrown",
+      "promotion": "Barbaric",
+      "curse": "Fiendish",
+      "element": "nature",
+      "source": "discord"
+    }
+  ]
+}

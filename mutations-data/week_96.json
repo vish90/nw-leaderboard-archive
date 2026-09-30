@@ -1,0 +1,29 @@
+{
+  "week": 96,
+  "expeditions": [
+    {
+      "dungeon": "Dynasty Shipyard",
+      "mutation": "Overgrown",
+      "promotion": "Oppressive",
+      "curse": "Fiendish",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Savage Divide",
+      "mutation": "Hellfire",
+      "promotion": "Savage",
+      "curse": "Frenzied",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Starstone Barrows",
+      "mutation": "Eternal",
+      "promotion": "Indomitable",
+      "curse": "Desiccated",
+      "element": "void",
+      "source": "discord"
+    }
+  ]
+}

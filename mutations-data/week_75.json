@@ -1,0 +1,29 @@
+{
+  "week": 75,
+  "expeditions": [
+    {
+      "dungeon": "Garden of Genesis",
+      "mutation": "Overgrown",
+      "promotion": "Barbaric",
+      "curse": "Frenzied",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Savage Divide",
+      "mutation": "Eternal",
+      "promotion": "Savage",
+      "curse": "Censored",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Tempest Heart",
+      "mutation": "Icebound",
+      "promotion": "Indomitable",
+      "curse": "Desiccated",
+      "element": "ice",
+      "source": "discord"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "week": 68,
+  "expeditions": [
+    {
+      "dungeon": "Dynasty Shipyard",
+      "mutation": "Eternal",
+      "promotion": "Barbaric",
+      "curse": "Frenzied",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Empyrean Forge",
+      "mutation": "Icebound",
+      "promotion": "Savage",
+      "curse": "Fiendish",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Savage Divide",
+      "mutation": "Hellfire",
+      "promotion": "Indomitable",
+      "curse": "Desiccated",
+      "element": "fire",
+      "source": "discord"
+    }
+  ]
+}

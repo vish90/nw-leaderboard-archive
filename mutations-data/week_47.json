@@ -1,0 +1,21 @@
+{
+  "week": 47,
+  "expeditions": [
+    {
+      "dungeon": "Empyrean Forge",
+      "mutation": "Eternal",
+      "promotion": "Indomitable",
+      "curse": "Frenzied",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Savage Divide",
+      "mutation": "Icebound",
+      "promotion": "Savage",
+      "curse": "Desiccated",
+      "element": "ice",
+      "source": "discord"
+    }
+  ]
+}

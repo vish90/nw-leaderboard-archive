@@ -1,0 +1,29 @@
+{
+  "week": 71,
+  "expeditions": [
+    {
+      "dungeon": "Dynasty Shipyard",
+      "mutation": "Overgrown",
+      "promotion": "Indomitable",
+      "curse": "Censored",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Depths",
+      "mutation": "Icebound",
+      "promotion": "Savage",
+      "curse": "Frenzied",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Ennead",
+      "mutation": "Eternal",
+      "promotion": "Oppressive",
+      "curse": "Fiendish",
+      "element": "void",
+      "source": "discord"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "week": 39,
+  "expeditions": [
+    {
+      "dungeon": "Barnacles and Blackpowder",
+      "mutation": "Overgrown",
+      "promotion": "Oppressive",
+      "curse": "Censored",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Garden of Genesis",
+      "mutation": "Overgrown",
+      "promotion": "Oppressive",
+      "curse": "Frenzied",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Starstone Barrows",
+      "mutation": "Eternal",
+      "promotion": "Barbaric",
+      "curse": "Censored",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Ennead",
+      "mutation": "Icebound",
+      "promotion": "Barbaric",
+      "curse": "Frenzied",
+      "element": "ice",
+      "source": "discord"
+    }
+  ]
+}

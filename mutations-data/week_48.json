@@ -1,0 +1,21 @@
+{
+  "week": 48,
+  "expeditions": [
+    {
+      "dungeon": "Barnacles and Blackpowder",
+      "mutation": "Overgrown",
+      "promotion": "Barbaric",
+      "curse": "Censored",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Depths",
+      "mutation": "Hellfire",
+      "promotion": "Oppressive",
+      "curse": "Desiccated",
+      "element": "fire",
+      "source": "discord"
+    }
+  ]
+}

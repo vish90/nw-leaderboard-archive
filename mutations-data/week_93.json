@@ -1,0 +1,29 @@
+{
+  "week": 93,
+  "expeditions": [
+    {
+      "dungeon": "Dynasty Shipyard",
+      "mutation": "Overgrown",
+      "promotion": "Barbaric",
+      "curse": "Censored",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Garden of Genesis",
+      "mutation": "Icebound",
+      "promotion": "Indomitable",
+      "curse": "Frenzied",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Tempest Heart",
+      "mutation": "Hellfire",
+      "promotion": "Oppressive",
+      "curse": "Desiccated",
+      "element": "fire",
+      "source": "discord"
+    }
+  ]
+}

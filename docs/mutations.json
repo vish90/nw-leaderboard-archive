@@ -1,28 +1,4901 @@
 {
   "weeks": {
+    "26": {
+      "week": 26,
+      "expeditions": [
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Eternal",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "28": {
+      "week": 28,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Eternal",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "29": {
+      "week": 29,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "30": {
+      "week": 30,
+      "expeditions": [
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Eternal",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "31": {
+      "week": 31,
+      "expeditions": [
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "32": {
+      "week": 32,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Eternal",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "33": {
+      "week": 33,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "34": {
+      "week": 34,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "35": {
+      "week": 35,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Eternal",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "36": {
+      "week": 36,
+      "expeditions": [
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Icebound",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "carryover"
+        }
+      ]
+    },
+    "37": {
+      "week": 37,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Eternal",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "carryover"
+        }
+      ]
+    },
+    "38": {
+      "week": 38,
+      "expeditions": [
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Icebound",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "39": {
+      "week": 39,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Eternal",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Icebound",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "carryover"
+        }
+      ]
+    },
+    "40": {
+      "week": 40,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Icebound",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "41": {
+      "week": 41,
+      "expeditions": [
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Eternal",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "carryover"
+        }
+      ]
+    },
+    "42": {
+      "week": 42,
+      "expeditions": [
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "carryover"
+        }
+      ]
+    },
+    "43": {
+      "week": 43,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "44": {
+      "week": 44,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "carryover"
+        }
+      ]
+    },
+    "45": {
+      "week": 45,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "carryover"
+        }
+      ]
+    },
+    "46": {
+      "week": 46,
+      "expeditions": [
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "carryover"
+        }
+      ]
+    },
+    "47": {
+      "week": 47,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "48": {
+      "week": 48,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "49": {
+      "week": 49,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "carryover"
+        }
+      ]
+    },
+    "50": {
+      "week": 50,
+      "expeditions": [
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "51": {
+      "week": 51,
+      "expeditions": [
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Eternal",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Icebound",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "52": {
+      "week": 52,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "53": {
+      "week": 53,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Eternal",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Icebound",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "54": {
+      "week": 54,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "carryover"
+        }
+      ]
+    },
+    "55": {
+      "week": 55,
+      "expeditions": [
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "56": {
+      "week": 56,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "57": {
+      "week": 57,
+      "expeditions": [
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "58": {
+      "week": 58,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "59": {
+      "week": 59,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "60": {
+      "week": 60,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "61": {
+      "week": 61,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "carryover"
+        }
+      ]
+    },
+    "62": {
+      "week": 62,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "63": {
+      "week": 63,
+      "expeditions": [
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "64": {
+      "week": 64,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Eternal",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "carryover"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "carryover"
+        }
+      ]
+    },
+    "65": {
+      "week": 65,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Eternal",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Eternal",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "void",
+          "source": "carryover"
+        }
+      ]
+    },
+    "66": {
+      "week": 66,
+      "expeditions": [
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "carryover"
+        }
+      ]
+    },
+    "67": {
+      "week": 67,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Eternal",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "carryover"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "carryover"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "carryover"
+        }
+      ]
+    },
+    "68": {
+      "week": 68,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Eternal",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "69": {
+      "week": 69,
+      "expeditions": [
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "70": {
+      "week": 70,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "71": {
+      "week": 71,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "72": {
+      "week": 72,
+      "expeditions": [
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "73": {
+      "week": 73,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "74": {
+      "week": 74,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Icebound",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "75": {
+      "week": 75,
+      "expeditions": [
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Icebound",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "76": {
+      "week": 76,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Icebound",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "77": {
+      "week": 77,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "78": {
+      "week": 78,
+      "expeditions": [
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Icebound",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "79": {
+      "week": 79,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "carryover"
+        }
+      ]
+    },
+    "80": {
+      "week": 80,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Eternal",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "carryover"
+        }
+      ]
+    },
+    "81": {
+      "week": 81,
+      "expeditions": [
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "82": {
+      "week": 82,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Eternal",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "83": {
+      "week": 83,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Eternal",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "84": {
+      "week": 84,
+      "expeditions": [
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "85": {
+      "week": 85,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "carryover"
+        }
+      ]
+    },
+    "86": {
+      "week": 86,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "87": {
+      "week": 87,
+      "expeditions": [
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "88": {
+      "week": 88,
+      "expeditions": [
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "carryover"
+        }
+      ]
+    },
+    "89": {
+      "week": 89,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "90": {
+      "week": 90,
+      "expeditions": [
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Icebound",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "91": {
+      "week": 91,
+      "expeditions": [
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Icebound",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "92": {
+      "week": 92,
+      "expeditions": [
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "93": {
+      "week": 93,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Icebound",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "94": {
+      "week": 94,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Icebound",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "95": {
+      "week": 95,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "96": {
+      "week": 96,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "97": {
+      "week": 97,
+      "expeditions": [
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "98": {
+      "week": 98,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "99": {
+      "week": 99,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "100": {
+      "week": 100,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Eternal",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "101": {
+      "week": 101,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "102": {
+      "week": 102,
+      "expeditions": [
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "103": {
+      "week": 103,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Eternal",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Eternal",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Eternal",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Eternal",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "104": {
+      "week": 104,
+      "expeditions": [
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "105": {
+      "week": 105,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "106": {
+      "week": 106,
+      "expeditions": [
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "107": {
+      "week": 107,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "108": {
+      "week": 108,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "109": {
+      "week": 109,
+      "expeditions": [
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "110": {
+      "week": 110,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "111": {
+      "week": 111,
+      "expeditions": [
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "112": {
+      "week": 112,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "113": {
+      "week": 113,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "114": {
+      "week": 114,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "115": {
+      "week": 115,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "116": {
+      "week": 116,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "117": {
+      "week": 117,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "118": {
+      "week": 118,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "119": {
+      "week": 119,
+      "expeditions": [
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "120": {
+      "week": 120,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "121": {
+      "week": 121,
+      "expeditions": [
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "122": {
+      "week": 122,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "123": {
+      "week": 123,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "carryover"
+        }
+      ]
+    },
+    "124": {
+      "week": 124,
+      "expeditions": [
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "125": {
+      "week": 125,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "126": {
+      "week": 126,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "127": {
+      "week": 127,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "128": {
+      "week": 128,
+      "expeditions": [
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "129": {
+      "week": 129,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "130": {
+      "week": 130,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "131": {
+      "week": 131,
+      "expeditions": [
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "132": {
+      "week": 132,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "133": {
+      "week": 133,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "134": {
+      "week": 134,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "135": {
+      "week": 135,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Icebound",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "136": {
+      "week": 136,
+      "expeditions": [
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Hellfire",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "137": {
+      "week": 137,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Overgrown",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "138": {
+      "week": 138,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "139": {
+      "week": 139,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "140": {
+      "week": 140,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "141": {
+      "week": 141,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "142": {
+      "week": 142,
+      "expeditions": [
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "143": {
+      "week": 143,
+      "expeditions": [
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "144": {
+      "week": 144,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "145": {
+      "week": 145,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "146": {
+      "week": 146,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "147": {
+      "week": 147,
+      "expeditions": [
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "148": {
+      "week": 148,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "149": {
+      "week": 149,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "150": {
+      "week": 150,
+      "expeditions": [
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "151": {
+      "week": 151,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "152": {
+      "week": 152,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "153": {
+      "week": 153,
+      "expeditions": [
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "154": {
+      "week": 154,
+      "expeditions": [
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "155": {
+      "week": 155,
+      "expeditions": [
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "156": {
+      "week": 156,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "157": {
+      "week": 157,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "158": {
+      "week": 158,
+      "expeditions": [
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "159": {
+      "week": 159,
+      "expeditions": [
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "160": {
+      "week": 160,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "161": {
+      "week": 161,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "162": {
+      "week": 162,
+      "expeditions": [
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Icebound",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "163": {
+      "week": 163,
+      "expeditions": [
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "164": {
+      "week": 164,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "165": {
+      "week": 165,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "166": {
+      "week": 166,
+      "expeditions": [
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Eternal",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "167": {
+      "week": 167,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Hellfire",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "168": {
+      "week": 168,
+      "expeditions": [
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Icebound",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Icebound",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Icebound",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "169": {
+      "week": 169,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Overgrown",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "170": {
+      "week": 170,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "171": {
+      "week": 171,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "172": {
+      "week": 172,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Frenzied",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "173": {
+      "week": 173,
+      "expeditions": [
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Censored",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "174": {
+      "week": 174,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Desiccated",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "175": {
+      "week": 175,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "176": {
+      "week": 176,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "177": {
+      "week": 177,
+      "expeditions": [
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "178": {
+      "week": 178,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "179": {
+      "week": 179,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "180": {
+      "week": 180,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Fiendish",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "181": {
+      "week": 181,
+      "expeditions": [
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "182": {
+      "week": 182,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Eternal",
+          "promotion": "Oppressive",
+          "curse": "Censored",
+          "element": "void",
+          "source": "discord"
+        }
+      ]
+    },
+    "183": {
+      "week": 183,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Hellfire",
+          "promotion": "Indomitable",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
+    },
+    "184": {
+      "week": 184,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "185": {
+      "week": 185,
+      "expeditions": [
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Overgrown",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "discord"
+        }
+      ]
+    },
+    "186": {
+      "week": 186,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Censored",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
+    },
+    "187": {
+      "week": 187,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "capture"
+        },
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "capture"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Desiccated",
+          "element": "fire",
+          "source": "capture"
+        }
+      ]
+    },
+    "188": {
+      "week": 188,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "capture"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "capture"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Fiendish",
+          "element": "nature",
+          "source": "capture"
+        }
+      ]
+    },
+    "189": {
+      "week": 189,
+      "expeditions": [
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "capture"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "capture"
+        },
+        {
+          "dungeon": "The Depths",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Frenzied",
+          "element": "void",
+          "source": "capture"
+        }
+      ]
+    },
     "190": {
-      "dungeons": [
-        "Barnacles and Black Powder",
-        "The Dynasty Shipyard",
-        "Tempest's Heart"
-      ],
-      "mutation": "Icebound",
-      "promotion": "Barbaric",
-      "curse": "Desiccated II",
-      "element": "ice",
-      "week": 190
+      "week": 190,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Icebound",
+          "promotion": "Barbaric",
+          "curse": "Desiccated",
+          "element": "ice",
+          "source": "discord"
+        }
+      ]
     },
     "191": {
-      "dungeons": [
-        "Glacial Tarn",
-        "Savage Divide",
-        "Tempest's Heart"
-      ],
-      "mutation": "Hellfire",
-      "promotion": "Savage",
-      "curse": "Fiendish II",
-      "element": "fire",
-      "week": 191
+      "week": 191,
+      "expeditions": [
+        {
+          "dungeon": "Glacial Tarn",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Savage Divide",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        },
+        {
+          "dungeon": "Tempest Heart",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Fiendish",
+          "element": "fire",
+          "source": "discord"
+        }
+      ]
     }
   },
   "latestWeek": 191

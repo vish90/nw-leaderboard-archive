@@ -1,0 +1,21 @@
+{
+  "week": 28,
+  "expeditions": [
+    {
+      "dungeon": "Barnacles and Blackpowder",
+      "mutation": "Eternal",
+      "promotion": "Barbaric",
+      "curse": "Censored",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Empyrean Forge",
+      "mutation": "Hellfire",
+      "promotion": "Oppressive",
+      "curse": "Frenzied",
+      "element": "fire",
+      "source": "discord"
+    }
+  ]
+}

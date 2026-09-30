@@ -1,0 +1,21 @@
+{
+  "week": 34,
+  "expeditions": [
+    {
+      "dungeon": "Dynasty Shipyard",
+      "mutation": "Hellfire",
+      "promotion": "Barbaric",
+      "curse": "Desiccated",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Starstone Barrows",
+      "mutation": "Eternal",
+      "promotion": "Indomitable",
+      "curse": "Frenzied",
+      "element": "void",
+      "source": "discord"
+    }
+  ]
+}

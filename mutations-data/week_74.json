@@ -1,0 +1,29 @@
+{
+  "week": 74,
+  "expeditions": [
+    {
+      "dungeon": "Barnacles and Blackpowder",
+      "mutation": "Hellfire",
+      "promotion": "Oppressive",
+      "curse": "Frenzied",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Starstone Barrows",
+      "mutation": "Overgrown",
+      "promotion": "Barbaric",
+      "curse": "Desiccated",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Ennead",
+      "mutation": "Icebound",
+      "promotion": "Indomitable",
+      "curse": "Fiendish",
+      "element": "ice",
+      "source": "discord"
+    }
+  ]
+}

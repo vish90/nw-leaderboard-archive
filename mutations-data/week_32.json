@@ -1,0 +1,21 @@
+{
+  "week": 32,
+  "expeditions": [
+    {
+      "dungeon": "Empyrean Forge",
+      "mutation": "Eternal",
+      "promotion": "Barbaric",
+      "curse": "Desiccated",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Depths",
+      "mutation": "Hellfire",
+      "promotion": "Oppressive",
+      "curse": "Fiendish",
+      "element": "fire",
+      "source": "discord"
+    }
+  ]
+}

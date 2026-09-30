@@ -1,0 +1,29 @@
+{
+  "week": 187,
+  "expeditions": [
+    {
+      "dungeon": "Barnacles and Blackpowder",
+      "mutation": "Hellfire",
+      "promotion": "Savage",
+      "curse": "Desiccated",
+      "element": "fire",
+      "source": "capture"
+    },
+    {
+      "dungeon": "Glacial Tarn",
+      "mutation": "Hellfire",
+      "promotion": "Savage",
+      "curse": "Desiccated",
+      "element": "fire",
+      "source": "capture"
+    },
+    {
+      "dungeon": "The Ennead",
+      "mutation": "Hellfire",
+      "promotion": "Savage",
+      "curse": "Desiccated",
+      "element": "fire",
+      "source": "capture"
+    }
+  ]
+}

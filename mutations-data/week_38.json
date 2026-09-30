@@ -1,0 +1,21 @@
+{
+  "week": 38,
+  "expeditions": [
+    {
+      "dungeon": "Garden of Genesis",
+      "mutation": "Hellfire",
+      "promotion": "Savage",
+      "curse": "Desiccated",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Lazarus Instrumentality",
+      "mutation": "Icebound",
+      "promotion": "Indomitable",
+      "curse": "Fiendish",
+      "element": "ice",
+      "source": "discord"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "week": 101,
+  "expeditions": [
+    {
+      "dungeon": "Empyrean Forge",
+      "mutation": "Hellfire",
+      "promotion": "Savage",
+      "curse": "Fiendish",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Garden of Genesis",
+      "mutation": "Overgrown",
+      "promotion": "Barbaric",
+      "curse": "Frenzied",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Tempest Heart",
+      "mutation": "Eternal",
+      "promotion": "Indomitable",
+      "curse": "Censored",
+      "element": "void",
+      "source": "discord"
+    }
+  ]
+}

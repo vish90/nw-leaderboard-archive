@@ -1,0 +1,29 @@
+{
+  "week": 67,
+  "expeditions": [
+    {
+      "dungeon": "Barnacles and Blackpowder",
+      "mutation": "Icebound",
+      "promotion": "Oppressive",
+      "curse": "Censored",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Glacial Tarn",
+      "mutation": "Overgrown",
+      "promotion": "Savage",
+      "curse": "Fiendish",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Tempest Heart",
+      "mutation": "Eternal",
+      "promotion": "Barbaric",
+      "curse": "Desiccated",
+      "element": "void",
+      "source": "discord"
+    }
+  ]
+}

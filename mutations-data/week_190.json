@@ -1,12 +1,29 @@
 {
-  "dungeons": [
-    "Barnacles and Black Powder",
-    "The Dynasty Shipyard",
-    "Tempest's Heart"
-  ],
-  "mutation": "Icebound",
-  "promotion": "Barbaric",
-  "curse": "Desiccated II",
-  "element": "ice",
-  "week": 190
+  "week": 190,
+  "expeditions": [
+    {
+      "dungeon": "Barnacles and Blackpowder",
+      "mutation": "Icebound",
+      "promotion": "Barbaric",
+      "curse": "Desiccated",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Dynasty Shipyard",
+      "mutation": "Icebound",
+      "promotion": "Barbaric",
+      "curse": "Desiccated",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Tempest Heart",
+      "mutation": "Icebound",
+      "promotion": "Barbaric",
+      "curse": "Desiccated",
+      "element": "ice",
+      "source": "discord"
+    }
+  ]
 }

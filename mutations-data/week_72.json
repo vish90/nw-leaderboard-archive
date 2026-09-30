@@ -1,0 +1,29 @@
+{
+  "week": 72,
+  "expeditions": [
+    {
+      "dungeon": "Glacial Tarn",
+      "mutation": "Hellfire",
+      "promotion": "Barbaric",
+      "curse": "Fiendish",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Savage Divide",
+      "mutation": "Icebound",
+      "promotion": "Savage",
+      "curse": "Censored",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Tempest Heart",
+      "mutation": "Eternal",
+      "promotion": "Oppressive",
+      "curse": "Desiccated",
+      "element": "void",
+      "source": "discord"
+    }
+  ]
+}

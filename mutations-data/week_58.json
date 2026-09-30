@@ -1,0 +1,29 @@
+{
+  "week": 58,
+  "expeditions": [
+    {
+      "dungeon": "Dynasty Shipyard",
+      "mutation": "Hellfire",
+      "promotion": "Barbaric",
+      "curse": "Fiendish",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Empyrean Forge",
+      "mutation": "Icebound",
+      "promotion": "Oppressive",
+      "curse": "Censored",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Tempest Heart",
+      "mutation": "Overgrown",
+      "promotion": "Savage",
+      "curse": "Desiccated",
+      "element": "nature",
+      "source": "discord"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "week": 44,
+  "expeditions": [
+    {
+      "dungeon": "Empyrean Forge",
+      "mutation": "Icebound",
+      "promotion": "Oppressive",
+      "curse": "Desiccated",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Lazarus Instrumentality",
+      "mutation": "Hellfire",
+      "promotion": "Indomitable",
+      "curse": "Censored",
+      "element": "fire",
+      "source": "discord"
+    }
+  ]
+}

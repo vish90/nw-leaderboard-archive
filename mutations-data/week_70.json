@@ -1,0 +1,29 @@
+{
+  "week": 70,
+  "expeditions": [
+    {
+      "dungeon": "Empyrean Forge",
+      "mutation": "Hellfire",
+      "promotion": "Barbaric",
+      "curse": "Censored",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Garden of Genesis",
+      "mutation": "Overgrown",
+      "promotion": "Indomitable",
+      "curse": "Frenzied",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Lazarus Instrumentality",
+      "mutation": "Icebound",
+      "promotion": "Savage",
+      "curse": "Desiccated",
+      "element": "ice",
+      "source": "discord"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "week": 66,
+  "expeditions": [
+    {
+      "dungeon": "Garden of Genesis",
+      "mutation": "Hellfire",
+      "promotion": "Indomitable",
+      "curse": "Fiendish",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Starstone Barrows",
+      "mutation": "Icebound",
+      "promotion": "Oppressive",
+      "curse": "Frenzied",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Ennead",
+      "mutation": "Overgrown",
+      "promotion": "Savage",
+      "curse": "Censored",
+      "element": "nature",
+      "source": "discord"
+    }
+  ]
+}

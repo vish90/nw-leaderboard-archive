@@ -1,0 +1,29 @@
+{
+  "week": 57,
+  "expeditions": [
+    {
+      "dungeon": "Savage Divide",
+      "mutation": "Overgrown",
+      "promotion": "Oppressive",
+      "curse": "Frenzied",
+      "element": "nature",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Starstone Barrows",
+      "mutation": "Eternal",
+      "promotion": "Indomitable",
+      "curse": "Fiendish",
+      "element": "void",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Ennead",
+      "mutation": "Hellfire",
+      "promotion": "Savage",
+      "curse": "Censored",
+      "element": "fire",
+      "source": "discord"
+    }
+  ]
+}

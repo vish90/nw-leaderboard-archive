@@ -1,0 +1,29 @@
+{
+  "week": 188,
+  "expeditions": [
+    {
+      "dungeon": "Empyrean Forge",
+      "mutation": "Overgrown",
+      "promotion": "Oppressive",
+      "curse": "Fiendish",
+      "element": "nature",
+      "source": "capture"
+    },
+    {
+      "dungeon": "Lazarus Instrumentality",
+      "mutation": "Overgrown",
+      "promotion": "Oppressive",
+      "curse": "Fiendish",
+      "element": "nature",
+      "source": "capture"
+    },
+    {
+      "dungeon": "Savage Divide",
+      "mutation": "Overgrown",
+      "promotion": "Oppressive",
+      "curse": "Fiendish",
+      "element": "nature",
+      "source": "capture"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "week": 168,
+  "expeditions": [
+    {
+      "dungeon": "Glacial Tarn",
+      "mutation": "Icebound",
+      "promotion": "Indomitable",
+      "curse": "Desiccated",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Starstone Barrows",
+      "mutation": "Icebound",
+      "promotion": "Indomitable",
+      "curse": "Desiccated",
+      "element": "ice",
+      "source": "discord"
+    },
+    {
+      "dungeon": "The Depths",
+      "mutation": "Icebound",
+      "promotion": "Indomitable",
+      "curse": "Desiccated",
+      "element": "ice",
+      "source": "discord"
+    }
+  ]
+}

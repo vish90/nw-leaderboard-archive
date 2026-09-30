@@ -1,12 +1,29 @@
 {
-  "dungeons": [
-    "Glacial Tarn",
-    "Savage Divide",
-    "Tempest's Heart"
-  ],
-  "mutation": "Hellfire",
-  "promotion": "Savage",
-  "curse": "Fiendish II",
-  "element": "fire",
-  "week": 191
+  "week": 191,
+  "expeditions": [
+    {
+      "dungeon": "Glacial Tarn",
+      "mutation": "Hellfire",
+      "promotion": "Savage",
+      "curse": "Fiendish",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Savage Divide",
+      "mutation": "Hellfire",
+      "promotion": "Savage",
+      "curse": "Fiendish",
+      "element": "fire",
+      "source": "discord"
+    },
+    {
+      "dungeon": "Tempest Heart",
+      "mutation": "Hellfire",
+      "promotion": "Savage",
+      "curse": "Fiendish",
+      "element": "fire",
+      "source": "discord"
+    }
+  ]
 }

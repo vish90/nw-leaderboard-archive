@@ -93,34 +93,16 @@ function sortRows(rows, sortKey, sortDir) {
   });
 }
 
-// Mutation theming reflects whichever week is currently selected, not just
-// the latest one -- different dungeons can carry different mutations in the
-// same week (especially further back in the archive), so a single "current"
-// badge for all weeks would misrepresent history. With "All weeks" selected
-// there's no single week context, so nothing is themed.
-function currentMutation() {
+// Mutations are per dungeon per week (in 2023 dungeons in the same week had
+// different ones). With "All weeks" selected there's no single week, so
+// nothing is themed.
+function mutationFor(dungeon) {
   const weekVal = weekFilter.value;
   if (!weekVal) return null;
-  return MUTATIONS.weeks[weekVal] || null;
-}
-
-// Dungeon names in the Discord mutation post don't always match the site's
-// canonical names exactly (e.g. "Tempest's Heart" vs. "Tempest Heart",
-// "The Dynasty Shipyard" vs. "Dynasty Shipyard", "Black Powder" vs.
-// "Blackpowder"), so compare loosely rather than requiring an exact match.
-function normalizeDungeonName(name) {
-  return name
-    .toLowerCase()
-    .replace(/^the\s+/, "")
-    .replace(/['’]s\b/g, "")
-    .replace(/['’]/g, "")
-    .replace(/\s+/g, "")
-    .trim();
-}
-
-function mutationIncludesDungeon(mutation, dungeon) {
-  const target = normalizeDungeonName(dungeon);
-  return mutation.dungeons.some(d => normalizeDungeonName(d) === target);
+  const week = MUTATIONS.weeks[weekVal];
+  if (!week) return null;
+  const entry = week.expeditions.find(e => e.dungeon === dungeon);
+  return entry ? { ...entry, week: week.week } : null;
 }
 
 function dungeonBackgroundSlug(dungeon) {
@@ -137,8 +119,8 @@ function buildSectionEl(dungeon, rowsForDungeon, query) {
   section.className = "dungeon-section";
   section.style.setProperty("--dungeon-bg", `url('assets/dungeon-backgrounds/${dungeonBackgroundSlug(dungeon)}.webp')`);
 
-  const mutation = currentMutation();
-  const isActiveMutation = mutation && mutationIncludesDungeon(mutation, dungeon);
+  const mutation = mutationFor(dungeon);
+  const isActiveMutation = !!mutation;
   if (isActiveMutation && ELEMENT_LABELS[mutation.element]) {
     section.classList.add("theme-" + mutation.element);
   }
@@ -159,7 +141,12 @@ function buildSectionEl(dungeon, rowsForDungeon, query) {
   if (isActiveMutation) {
     const weekPill = document.createElement("span");
     weekPill.className = "week-pill";
-    weekPill.textContent = `Week ${mutation.week}`;
+    if (mutation.source === "carryover") {
+      weekPill.textContent = `Week ${mutation.week} · from week ${mutation.week - 1}`;
+      weekPill.title = "No post for this dungeon this week; a mid-week restart left last week's rotation running";
+    } else {
+      weekPill.textContent = `Week ${mutation.week}`;
+    }
     titleWrap.appendChild(weekPill);
 
     const chips = document.createElement("div");
