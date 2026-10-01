@@ -40,10 +40,10 @@ EARLY_WEEK1 = datetime.date(2023, 1, 10)
 ANCHOR_WEEK, ANCHOR_DATE = 190, datetime.date(2026, 9, 22)
 
 # Season start = day after the newworld.com/game/releases post. Season 1
-# isn't on that page; it's assumed to start with week 10, right after the
-# leaderboard pause that coincides with its launch window.
+# (when seasons were introduced) isn't on that page; it began 2023-04-04,
+# during the leaderboard pause, so week 10 is its first numbered week.
 SEASONS = [
-    (1, "Season 1", datetime.date(2023, 4, 11)),
+    (1, "Season 1", datetime.date(2023, 4, 4)),
     (2, "Blood of the Sands", datetime.date(2023, 7, 6)),
     (3, "Rise of the Angry Earth", datetime.date(2023, 10, 3)),
     (4, "Eternal Frost", datetime.date(2023, 12, 12)),

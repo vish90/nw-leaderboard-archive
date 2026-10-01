@@ -369,7 +369,7 @@ Promise.all([fetch("data.json").then(r => r.json()), mutationsPromise])
     DATA = data;
     MUTATIONS = mutations;
     subtitle.textContent =
-      `${DATA.rows.length.toLocaleString()} rows across ${DATA.weeks.length} weeks and ${DATA.dungeons.length} dungeons`;
+      `Server: Nysa EU`;
     populateFilterOptions();
     if (DATA.weeks.length) {
       weekFilter.value = String(Math.max(...DATA.weeks));

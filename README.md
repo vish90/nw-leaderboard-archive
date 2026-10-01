@@ -1,7 +1,9 @@
 # New World Mutated Dungeon Leaderboard Archive
 
-Personal archive of New World's mutated-dungeon leaderboards (score and clear-time
-categories, top 100 per week/dungeon), scraped ahead of the game's shutdown.
+Personal archive of New World's mutated-dungeon leaderboards for the **Nysa
+server (EU Central)** (score and clear-time categories, top 100 per
+week/dungeon), scraped ahead of the game's shutdown. Leaderboards are
+per-server, so these rankings cover Nysa only.
 Player display names are resolved from DTLS capture sessions where possible;
 entries without a resolved name are marked `unresolved`.
 
