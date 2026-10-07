@@ -4877,7 +4877,7 @@
           "promotion": "Savage",
           "curse": "Fiendish",
           "element": "fire",
-          "source": "discord"
+          "source": "capture"
         },
         {
           "dungeon": "Savage Divide",
@@ -4885,7 +4885,7 @@
           "promotion": "Savage",
           "curse": "Fiendish",
           "element": "fire",
-          "source": "discord"
+          "source": "capture"
         },
         {
           "dungeon": "Tempest Heart",
@@ -4893,10 +4893,39 @@
           "promotion": "Savage",
           "curse": "Fiendish",
           "element": "fire",
-          "source": "discord"
+          "source": "capture"
+        }
+      ]
+    },
+    "192": {
+      "week": 192,
+      "expeditions": [
+        {
+          "dungeon": "Barnacles and Blackpowder",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "capture"
+        },
+        {
+          "dungeon": "Garden of Genesis",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "capture"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Overgrown",
+          "promotion": "Oppressive",
+          "curse": "Frenzied",
+          "element": "nature",
+          "source": "paste"
         }
       ]
     }
   },
-  "latestWeek": 191
+  "latestWeek": 192
 }

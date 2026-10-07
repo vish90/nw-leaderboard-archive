@@ -1,0 +1,29 @@
+{
+  "week": 192,
+  "expeditions": [
+    {
+      "dungeon": "Barnacles and Blackpowder",
+      "mutation": "Overgrown",
+      "promotion": "Oppressive",
+      "curse": "Frenzied",
+      "element": "nature",
+      "source": "capture"
+    },
+    {
+      "dungeon": "Garden of Genesis",
+      "mutation": "Overgrown",
+      "promotion": "Oppressive",
+      "curse": "Frenzied",
+      "element": "nature",
+      "source": "capture"
+    },
+    {
+      "dungeon": "Starstone Barrows",
+      "mutation": "Overgrown",
+      "promotion": "Oppressive",
+      "curse": "Frenzied",
+      "element": "nature",
+      "source": "paste"
+    }
+  ]
+}
