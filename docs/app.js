@@ -45,6 +45,7 @@ function getSectionState(dungeon) {
 }
 
 const dungeonFilter = document.getElementById("dungeon-filter");
+const seasonFilter = document.getElementById("season-filter");
 const weekFilter = document.getElementById("week-filter");
 const playerSearch = document.getElementById("player-search");
 const resolvedOnly = document.getElementById("resolved-only");
@@ -69,12 +70,14 @@ function rowMatchesPlayer(row, query) {
 
 function baseFiltered() {
   const dungeon = dungeonFilter.value;
+  const season = seasonFilter.value ? parseInt(seasonFilter.value, 10) : null;
   const week = weekFilter.value ? parseInt(weekFilter.value, 10) : null;
   const query = playerSearch.value.trim();
   const onlyResolved = resolvedOnly.checked;
 
   return DATA.rows.filter(r => {
     if (dungeon && r.dungeon !== dungeon) return false;
+    if (season !== null && seasonForWeek(r.week)?.number !== season) return false;
     if (week !== null && r.week !== week) return false;
     if (!rowMatchesPlayer(r, query)) return false;
     if (onlyResolved && !r.players.some(p => p)) return false;
@@ -344,19 +347,42 @@ function populateFilterOptions() {
     opt.textContent = d;
     dungeonFilter.appendChild(opt);
   }
+  const seasonsWithWeeks = new Set(DATA.weeks.map(w => seasonForWeek(w)?.number).filter(Boolean));
+  for (const n of Object.keys(DATA.seasons).map(Number).sort((a, b) => a - b)) {
+    if (!seasonsWithWeeks.has(n)) continue;
+    const opt = document.createElement("option");
+    opt.value = n;
+    opt.textContent = `S${n} · ${DATA.seasons[n].name}`;
+    seasonFilter.appendChild(opt);
+  }
+  populateWeekOptions();
+}
+
+// The week list only offers weeks in the selected season; a selected week
+// that falls outside it resets to "All weeks".
+function populateWeekOptions() {
+  const season = seasonFilter.value ? parseInt(seasonFilter.value, 10) : null;
+  const previous = weekFilter.value;
+  weekFilter.length = 1;
   for (const w of DATA.weeks) {
+    const weekSeason = seasonForWeek(w);
+    if (season !== null && weekSeason?.number !== season) continue;
     const opt = document.createElement("option");
     opt.value = w;
-    const season = seasonForWeek(w);
-    opt.textContent = "Week " + w + (season ? ` · S${season.number}` : "");
+    opt.textContent = "Week " + w + (weekSeason ? ` · S${weekSeason.number}` : "");
     weekFilter.appendChild(opt);
   }
+  weekFilter.value = [...weekFilter.options].some(o => o.value === previous) ? previous : "";
 }
 
 function setupFilterListeners() {
   [dungeonFilter, weekFilter, resolvedOnly].forEach(el =>
     el.addEventListener("change", render)
   );
+  seasonFilter.addEventListener("change", () => {
+    populateWeekOptions();
+    render();
+  });
   playerSearch.addEventListener("input", render);
 }
 
