@@ -218,6 +218,7 @@ function buildSectionEl(dungeon, rowsForDungeon, query) {
   ["score", "time"].forEach(m => {
     const btn = document.createElement("button");
     btn.className = "tab" + (state.metric === m ? " active" : "");
+    btn.setAttribute("aria-pressed", String(state.metric === m));
     btn.textContent = m === "time" ? "Clear Time" : "Score";
     btn.addEventListener("click", () => {
       state.metric = m;
@@ -232,12 +233,15 @@ function buildSectionEl(dungeon, rowsForDungeon, query) {
   const sorted = sortRows(metricRows, state.sortKey, state.sortDir);
   const shown = sorted.slice(0, MAX_RENDERED_ROWS);
 
+  const body = document.createElement("div");
+  body.className = "section-body";
+
   const info = document.createElement("div");
   info.className = "result-info";
   info.textContent = metricRows.length > MAX_RENDERED_ROWS
     ? `Showing first ${MAX_RENDERED_ROWS} of ${metricRows.length.toLocaleString()} rows`
     : `${metricRows.length.toLocaleString()} row${metricRows.length === 1 ? "" : "s"}`;
-  section.appendChild(info);
+  body.appendChild(info);
 
   const table = document.createElement("table");
   const thead = document.createElement("thead");
@@ -251,9 +255,15 @@ function buildSectionEl(dungeon, rowsForDungeon, query) {
   columns.forEach(col => {
     const th = document.createElement("th");
     th.textContent = col.label;
+    if (col.key === "value") th.classList.add("col-value");
     if (col.key) {
-      th.className = "sortable" + (state.sortKey === col.key ? " sort-active" : "");
-      th.addEventListener("click", () => {
+      th.classList.add("sortable");
+      th.tabIndex = 0;
+      if (state.sortKey === col.key) {
+        th.classList.add("sort-active");
+        th.setAttribute("aria-sort", state.sortDir === "asc" ? "ascending" : "descending");
+      }
+      const toggleSort = () => {
         if (state.sortKey === col.key) {
           state.sortDir = state.sortDir === "asc" ? "desc" : "asc";
         } else {
@@ -261,6 +271,13 @@ function buildSectionEl(dungeon, rowsForDungeon, query) {
           state.sortDir = col.key === "rank" ? "asc" : "desc";
         }
         render();
+      };
+      th.addEventListener("click", toggleSort);
+      th.addEventListener("keydown", e => {
+        if (e.key === "Enter" || e.key === " ") {
+          e.preventDefault();
+          toggleSort();
+        }
       });
     }
     headRow.appendChild(th);
@@ -273,14 +290,17 @@ function buildSectionEl(dungeon, rowsForDungeon, query) {
     const tr = document.createElement("tr");
 
     const rankTd = document.createElement("td");
+    rankTd.className = "col-rank";
     rankTd.textContent = row.rank ?? "";
     tr.appendChild(rankTd);
 
     const valTd = document.createElement("td");
+    valTd.className = "col-value";
     valTd.textContent = formatValue(row.value, row.metric);
     tr.appendChild(valTd);
 
     const weekTd = document.createElement("td");
+    weekTd.className = "col-week";
     weekTd.textContent = row.week ?? "";
     const rowSeason = row.week != null ? seasonForWeek(row.week) : null;
     if (rowSeason) {
@@ -310,7 +330,8 @@ function buildSectionEl(dungeon, rowsForDungeon, query) {
     tbody.appendChild(tr);
   }
   table.appendChild(tbody);
-  section.appendChild(table);
+  body.appendChild(table);
+  section.appendChild(body);
 
   return section;
 }
@@ -333,9 +354,13 @@ function render() {
   }
 
   if (dungeonsToShow.length === 0) {
-    const empty = document.createElement("p");
-    empty.className = "result-info";
-    empty.textContent = "No matching rows.";
+    const empty = document.createElement("div");
+    empty.className = "empty-state";
+    const title = document.createElement("strong");
+    title.textContent = "No matching rows";
+    const hint = document.createElement("span");
+    hint.textContent = "Try a different week or season, or clear the player search.";
+    empty.append(title, hint);
     sectionsEl.appendChild(empty);
   }
 }
