@@ -4925,7 +4925,36 @@
           "source": "paste"
         }
       ]
+    },
+    "193": {
+      "week": 193,
+      "expeditions": [
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "void",
+          "source": "capture"
+        },
+        {
+          "dungeon": "Lazarus Instrumentality",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "void",
+          "source": "capture"
+        },
+        {
+          "dungeon": "The Ennead",
+          "mutation": "Eternal",
+          "promotion": "Indomitable",
+          "curse": "Censored",
+          "element": "void",
+          "source": "capture"
+        }
+      ]
     }
   },
-  "latestWeek": 192
+  "latestWeek": 193
 }
