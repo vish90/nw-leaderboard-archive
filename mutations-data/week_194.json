@@ -1,0 +1,29 @@
+{
+  "week": 194,
+  "expeditions": [
+    {
+      "dungeon": "Barnacles and Blackpowder",
+      "mutation": "Icebound",
+      "promotion": "Barbaric",
+      "curse": "Fiendish",
+      "element": "ice",
+      "source": "paste"
+    },
+    {
+      "dungeon": "Tempest Heart",
+      "mutation": "Icebound",
+      "promotion": "Barbaric",
+      "curse": "Fiendish",
+      "element": "ice",
+      "source": "paste"
+    },
+    {
+      "dungeon": "The Ennead",
+      "mutation": "Icebound",
+      "promotion": "Barbaric",
+      "curse": "Fiendish",
+      "element": "ice",
+      "source": "paste"
+    }
+  ]
+}
