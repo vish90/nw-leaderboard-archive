@@ -4983,7 +4983,36 @@
           "source": "paste"
         }
       ]
+    },
+    "195": {
+      "week": 195,
+      "expeditions": [
+        {
+          "dungeon": "Dynasty Shipyard",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "capture"
+        },
+        {
+          "dungeon": "Empyrean Forge",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "capture"
+        },
+        {
+          "dungeon": "Starstone Barrows",
+          "mutation": "Hellfire",
+          "promotion": "Savage",
+          "curse": "Frenzied",
+          "element": "fire",
+          "source": "capture"
+        }
+      ]
     }
   },
-  "latestWeek": 194
+  "latestWeek": 195
 }
