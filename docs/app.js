@@ -34,6 +34,50 @@ function mutationIconKey(name) {
     .toLowerCase();
 }
 
+// Score and time are logged as separate rows; the same party in the same
+// dungeon and week is the same run. Only unambiguous 1:1 pairs are linked:
+// all-null parties would all collide, and a party with two entries for one
+// metric can't be matched to the right counterpart.
+function runKey(row) {
+  const players = row.players.filter(Boolean).sort();
+  return players.length ? `${row.week}:${row.dungeon}:${players.join("|")}` : null;
+}
+
+function indexCounterparts(rows) {
+  const groups = new Map(); // key -> { score: [], time: [] }
+  for (const row of rows) {
+    const key = runKey(row);
+    if (!key) continue;
+    if (!groups.has(key)) groups.set(key, { score: [], time: [] });
+    groups.get(key)[row.metric].push(row);
+  }
+  for (const { score, time } of groups.values()) {
+    if (score.length === 1 && time.length === 1) {
+      score[0]._counterpart = time[0];
+      time[0]._counterpart = score[0];
+    }
+  }
+}
+
+// Expanded runs survive re-renders (sort, filter, tab switch). Both rows of a
+// pair count as the same run, so switching tabs keeps the drawer open.
+const expandedRuns = new Set();
+function isExpanded(row) {
+  return expandedRuns.has(row) || (row._counterpart && expandedRuns.has(row._counterpart));
+}
+// Only the drawer the user just opened animates, not every open drawer on
+// each re-render.
+let justOpened = null;
+function toggleExpanded(row) {
+  if (isExpanded(row)) {
+    expandedRuns.delete(row);
+    if (row._counterpart) expandedRuns.delete(row._counterpart);
+  } else {
+    expandedRuns.add(row);
+    justOpened = row;
+  }
+}
+
 // Per-dungeon UI state: which metric tab is active, and current sort.
 const sectionState = {}; // dungeon -> { metric: 'score'|'time', sortKey, sortDir }
 
@@ -101,7 +145,10 @@ function sortRows(rows, sortKey, sortDir) {
 // nothing is themed.
 function mutationFor(dungeon) {
   const weekVal = weekFilter.value;
-  if (!weekVal) return null;
+  return weekVal ? mutationForWeek(dungeon, weekVal) : null;
+}
+
+function mutationForWeek(dungeon, weekVal) {
   const week = MUTATIONS.weeks[weekVal];
   if (!week) return null;
   const entry = week.expeditions.find(e => e.dungeon === dungeon);
@@ -144,6 +191,93 @@ function dungeonBackgroundSlug(dungeon) {
     .replace(/(^-|-$)/g, "");
 }
 
+function buildMutationChips(mutation) {
+  const chips = document.createElement("div");
+  chips.className = "mutation-chips";
+
+  const chipDefs = [
+    { name: mutation.mutation, iconKey: mutation.element, color: ELEMENT_COLORS[mutation.element] },
+    {
+      name: mutation.promotion,
+      iconKey: KNOWN_PROMOTION_ICONS.has(mutationIconKey(mutation.promotion)) ? mutationIconKey(mutation.promotion) : null,
+      color: PROMOTION_COLORS[mutationIconKey(mutation.promotion)],
+    },
+    {
+      name: mutation.curse,
+      iconKey: KNOWN_CURSE_ICONS.has(mutationIconKey(mutation.curse)) ? mutationIconKey(mutation.curse) : null,
+      color: CURSE_COLOR,
+    },
+  ];
+
+  for (const def of chipDefs) {
+    if (!def.name) continue;
+    const chip = document.createElement("div");
+    chip.className = "mutation-chip";
+    if (def.iconKey) {
+      const icon = document.createElement("img");
+      icon.src = "assets/mutation-icons/" + def.iconKey + ".png";
+      icon.alt = def.name;
+      if (def.color) icon.style.background = def.color;
+      chip.appendChild(icon);
+    }
+    const label = document.createElement("span");
+    label.textContent = def.name;
+    chip.appendChild(label);
+    chips.appendChild(chip);
+  }
+  return chips;
+}
+
+function buildMetricCard(label, rankLabel, row, metric) {
+  const card = document.createElement("div");
+  card.className = "metric-card" + (row ? "" : " is-missing");
+  const name = document.createElement("span");
+  name.className = "metric-label";
+  name.textContent = label;
+  const value = document.createElement("span");
+  value.className = "metric-value";
+  if (!row) value.textContent = "—";
+  else value.textContent = metric === "score" ? `${formatValue(row.value, "score")} pts` : formatValue(row.value, "time");
+  const rank = document.createElement("span");
+  rank.className = "metric-rank";
+  rank.textContent = row && row.rank != null ? `${rankLabel} #${row.rank}` : "Unranked";
+  card.append(name, value, rank);
+  return card;
+}
+
+function buildDetailRow(row, colspan, id) {
+  const scoreRow = row.metric === "score" ? row : row._counterpart;
+  const timeRow = row.metric === "time" ? row : row._counterpart;
+
+  const tr = document.createElement("tr");
+  tr.className = "detail-row";
+  tr.id = id;
+  const td = document.createElement("td");
+  td.colSpan = colspan;
+  const drawer = document.createElement("div");
+  drawer.className = "detail-drawer" + (row === justOpened ? " is-opening" : "");
+
+  const metrics = document.createElement("div");
+  metrics.className = "detail-metrics";
+  metrics.append(buildMetricCard("Score", "Score rank", scoreRow, "score"), buildMetricCard("Clear Time", "Time rank", timeRow, "time"));
+  drawer.appendChild(metrics);
+
+  const mutation = row.week != null ? mutationForWeek(row.dungeon, row.week) : null;
+  if (mutation) {
+    const group = document.createElement("div");
+    group.className = "detail-group";
+    const heading = document.createElement("span");
+    heading.className = "detail-heading";
+    heading.textContent = "Mutations";
+    group.append(heading, buildMutationChips(mutation));
+    drawer.appendChild(group);
+  }
+
+  td.appendChild(drawer);
+  tr.appendChild(td);
+  return tr;
+}
+
 function buildSectionEl(dungeon, rowsForDungeon, query) {
   const state = getSectionState(dungeon);
 
@@ -175,41 +309,7 @@ function buildSectionEl(dungeon, rowsForDungeon, query) {
   }
 
   if (isActiveMutation) {
-    const chips = document.createElement("div");
-    chips.className = "mutation-chips";
-
-    const chipDefs = [
-      { name: mutation.mutation, iconKey: mutation.element, color: ELEMENT_COLORS[mutation.element] },
-      {
-        name: mutation.promotion,
-        iconKey: KNOWN_PROMOTION_ICONS.has(mutationIconKey(mutation.promotion)) ? mutationIconKey(mutation.promotion) : null,
-        color: PROMOTION_COLORS[mutationIconKey(mutation.promotion)],
-      },
-      {
-        name: mutation.curse,
-        iconKey: KNOWN_CURSE_ICONS.has(mutationIconKey(mutation.curse)) ? mutationIconKey(mutation.curse) : null,
-        color: CURSE_COLOR,
-      },
-    ];
-
-    for (const def of chipDefs) {
-      if (!def.name) continue;
-      const chip = document.createElement("div");
-      chip.className = "mutation-chip";
-      if (def.iconKey) {
-        const icon = document.createElement("img");
-        icon.src = "assets/mutation-icons/" + def.iconKey + ".png";
-        icon.alt = def.name;
-        if (def.color) icon.style.background = def.color;
-        chip.appendChild(icon);
-      }
-      const label = document.createElement("span");
-      label.textContent = def.name;
-      chip.appendChild(label);
-      chips.appendChild(chip);
-    }
-
-    titleWrap.appendChild(chips);
+    titleWrap.appendChild(buildMutationChips(mutation));
   }
   header.appendChild(titleWrap);
 
@@ -251,11 +351,13 @@ function buildSectionEl(dungeon, rowsForDungeon, query) {
     { key: "value", label: state.metric === "time" ? "Time" : "Score" },
     { key: "week", label: "Week" },
     { key: null, label: "Players" },
+    { key: null, label: "", className: "col-toggle" },
   ];
   columns.forEach(col => {
     const th = document.createElement("th");
     th.textContent = col.label;
     if (col.key === "value") th.classList.add("col-value");
+    if (col.className) th.classList.add(col.className);
     if (col.key) {
       th.classList.add("sortable");
       th.tabIndex = 0;
@@ -286,8 +388,30 @@ function buildSectionEl(dungeon, rowsForDungeon, query) {
   table.appendChild(thead);
 
   const tbody = document.createElement("tbody");
-  for (const row of shown) {
+  const sectionSlug = dungeonBackgroundSlug(dungeon);
+  shown.forEach((row, i) => {
     const tr = document.createElement("tr");
+    const detailId = `detail-${sectionSlug}-${i}`;
+    const expanded = isExpanded(row);
+    tr.className = "run-row" + (expanded ? " is-expanded" : "");
+    tr.tabIndex = 0;
+    tr.setAttribute("aria-expanded", String(expanded));
+    tr.setAttribute("aria-controls", detailId);
+    const toggle = () => {
+      toggleExpanded(row);
+      render();
+      justOpened = null;
+      // render() rebuilds the table; put focus back on this run's row.
+      document.querySelector(`[aria-controls="${detailId}"]`)?.focus();
+    };
+    tr.addEventListener("click", toggle);
+    tr.addEventListener("keydown", e => {
+      if (e.target !== tr) return;
+      if (e.key === "Enter" || e.key === " ") {
+        e.preventDefault();
+        toggle();
+      }
+    });
 
     const rankTd = document.createElement("td");
     rankTd.className = "col-rank";
@@ -301,14 +425,19 @@ function buildSectionEl(dungeon, rowsForDungeon, query) {
 
     const weekTd = document.createElement("td");
     weekTd.className = "col-week";
-    weekTd.textContent = row.week ?? "";
-    const rowSeason = row.week != null ? seasonForWeek(row.week) : null;
-    if (rowSeason) {
-      const tag = document.createElement("span");
-      tag.className = "season-tag";
-      tag.textContent = `S${rowSeason.number}`;
-      tag.title = `Season ${rowSeason.number}: ${rowSeason.name}`;
-      weekTd.appendChild(tag);
+    if (row.week != null) {
+      const pill = document.createElement("span");
+      pill.className = "week-chip";
+      pill.textContent = `W${row.week}`;
+      const rowSeason = seasonForWeek(row.week);
+      if (rowSeason) {
+        const tag = document.createElement("span");
+        tag.className = "season-tag";
+        tag.textContent = `S${rowSeason.number}`;
+        pill.appendChild(tag);
+        pill.title = `Week ${row.week} · Season ${rowSeason.number}: ${rowSeason.name}`;
+      }
+      weekTd.appendChild(pill);
     }
     tr.appendChild(weekTd);
 
@@ -327,8 +456,17 @@ function buildSectionEl(dungeon, rowsForDungeon, query) {
     });
     tr.appendChild(playersTd);
 
+    const toggleTd = document.createElement("td");
+    toggleTd.className = "col-toggle";
+    const chevron = document.createElement("span");
+    chevron.className = "chevron";
+    chevron.setAttribute("aria-hidden", "true");
+    toggleTd.appendChild(chevron);
+    tr.appendChild(toggleTd);
+
     tbody.appendChild(tr);
-  }
+    if (expanded) tbody.appendChild(buildDetailRow(row, columns.length, detailId));
+  });
   table.appendChild(tbody);
   body.appendChild(table);
   section.appendChild(body);
@@ -419,6 +557,7 @@ Promise.all([fetch("data.json").then(r => r.json()), mutationsPromise])
   .then(([data, mutations]) => {
     DATA = data;
     MUTATIONS = mutations;
+    indexCounterparts(DATA.rows);
     subtitle.textContent =
       `Server: Nysa EU`;
     populateFilterOptions();
