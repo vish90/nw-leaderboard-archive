@@ -45,9 +45,12 @@ fi
 next_week=$((last_week + 1))
 log "last local week=$last_week, attempting week=$next_week"
 
-if [[ ! -s "$TOKEN_FILE" ]]; then
-  log "no token file present"
-  notify "NW leaderboard update: week $next_week is ready to fetch, but there's no auth token in scripts/nw_auth_token.txt. Steps: $STEPS_URL"
+# Tokens live ~4h, so an older token file is a leftover, not a fresh capture.
+if [[ ! -s "$TOKEN_FILE" ]] || (( $(date +%s) - $(stat -f %m "$TOKEN_FILE") > 4 * 3600 )); then
+  log "no fresh token file, sending capture reminder"
+  notify "NW leaderboard update: week $next_week is ready to fetch. Capture a session (from before login), then within ~4h run:
+\`bash $HERE/process_capture.sh <capture.zip>\`
+Steps: $STEPS_URL"
   exit 0
 fi
 
