@@ -1,0 +1,29 @@
+{
+  "week": 196,
+  "expeditions": [
+    {
+      "dungeon": "Garden of Genesis",
+      "mutation": "Overgrown",
+      "promotion": "Oppressive",
+      "curse": "Censored",
+      "element": "nature",
+      "source": "capture"
+    },
+    {
+      "dungeon": "Lazarus Instrumentality",
+      "mutation": "Overgrown",
+      "promotion": "Oppressive",
+      "curse": "Censored",
+      "element": "nature",
+      "source": "capture"
+    },
+    {
+      "dungeon": "Savage Divide",
+      "mutation": "Overgrown",
+      "promotion": "Oppressive",
+      "curse": "Censored",
+      "element": "nature",
+      "source": "capture"
+    }
+  ]
+}
