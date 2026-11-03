@@ -55,8 +55,9 @@ if [[ -n "$PASTE" ]]; then
 import json, sys, zipfile
 sys.path.insert(0, sys.argv[2])
 from extract_mutations_from_capture import week_for
+from capture_info import capture_started_ms
 with zipfile.ZipFile(sys.argv[1]) as zf:
-    print(week_for(json.loads(zf.read("summary.json"))["first_started_ms"]))
+    print(week_for(capture_started_ms(zf)))
 PY
 )
   echo "adding Discord paste as week $paste_week"
@@ -73,21 +74,22 @@ token_info=$(python3 - "$ZIP" "$HERE" <<'PY'
 import json, sys, zipfile
 sys.path.insert(0, sys.argv[2])
 from extract_mutations_from_capture import week_for
+from capture_info import capture_started_ms
 
 with zipfile.ZipFile(sys.argv[1]) as zf:
     names = zf.namelist()
-    summary = json.loads(zf.read("summary.json"))
+    started_ms = capture_started_ms(zf)
     tok = [n for n in names if n.startswith("tokenservice/") and n.endswith("_tokens.resp.json")]
     if not tok:
         sys.exit("no tokenservice response in this capture")
     resp = json.loads(zf.read(sorted(tok)[-1]))
 
-print(week_for(summary["first_started_ms"]), resp["accessTokenExpirationDate"] // 1000)
+print(week_for(started_ms), resp["accessTokenExpirationDate"] // 1000)
 print(resp["accessToken"])
 PY
 )
 if [[ $? -ne 0 || -z "$token_info" ]]; then
-  echo "could not read token from capture, skipping harvest"
+  echo "could not read capture week/token (see error above), skipping harvest"
   harvested=()
 else
   read -r capture_week expires_at <<< "$(sed -n 1p <<< "$token_info")"
